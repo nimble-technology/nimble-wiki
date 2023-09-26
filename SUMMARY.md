@@ -6,7 +6,7 @@
   * [Instantiate Intents - User Intent Execution Flow](intro-to-nimble-protocl/instantiate-intents-user-intent-execution-flow.md)
 * [Nimble SDKs](nimble-sdks/README.md)
   * [Intro to IntentKit](nimble-sdks/intro-to-intentkit.md)
-  * [Intent Bundler](nimble-sdks/intent-bundler.md)
+  * [Intent Operator](nimble-sdks/intent-bundler.md)
   * [Protocol Accounts](nimble-sdks/protocol-accounts.md)
 * [Nimble Papers](nimble-papers/README.md)
   * [Litepaper](nimble-papers/litepaper.md)
