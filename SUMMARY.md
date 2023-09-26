@@ -4,6 +4,7 @@
   * [Introducing Nimble - Your Intents for Web3 Satisfaction](intro-to-nimble-protocl/introducing-nimble-your-intents-for-web3-satisfaction.md)
   * [Standardize Intents - Structured DSL and Intent LLMs](intro-to-nimble-protocl/standardize-intents-structured-dsl-and-intent-llms.md)
   * [Instantiate Intents - User Intent Execution Flow](intro-to-nimble-protocl/instantiate-intents-user-intent-execution-flow.md)
+  * [Decentralized Intents - Intent Operators and Validators](readme/decentralized-intents-intent-operators-and-validators.md)
 * [Nimble SDKs](nimble-sdks/README.md)
   * [Protocol Accounts](nimble-sdks/protocol-accounts.md)
   * [Intro to IntentKit](nimble-sdks/intro-to-intentkit.md)
