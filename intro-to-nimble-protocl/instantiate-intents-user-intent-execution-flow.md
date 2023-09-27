@@ -6,7 +6,7 @@ description: >-
 
 # Instantiate Intents - User Intent Execution Flow
 
-<figure><img src="../.gitbook/assets/intent-flow.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 12 (1).png" alt=""><figcaption><p><strong>Figure 4:</strong> Intent high level execution flow.</p></figcaption></figure>
 
 ## User Intent Flow
 
@@ -21,10 +21,6 @@ A user intent is a signed request in any format. It goes through the following m
 The intents are executed by interacting with the intent contract which is illustrated below.
 
 ## Nimble Intent Contracts
-
-
-
-<figure><img src="../.gitbook/assets/Group 11.png" alt=""><figcaption><p><strong>Figure 4:</strong> Intent contracts high level illustraction.</p></figcaption></figure>
 
 User intent classes, execution, dispatching, validation and error handling are key components of the intent contract. We focus our discussions on the intent class, execution and dispatching, since validation and error handling come naturally.
 
