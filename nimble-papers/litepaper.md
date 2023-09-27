@@ -4,4 +4,4 @@ description: The litepaper discusses the problem, high level solutions and token
 
 # Litepaper
 
-[https://github.com/nimble-technology/nimble-whitepaper/blob/main/litepaper-preprint-09-27-2023.pdf](https://github.com/nimble-technology/nimble-whitepaper/blob/main/litepaper-preprint-09-27-2023.pdf)
+[https://github.com/nimble-technology/nimble-papers/blob/main/litepaper-preprint-09-27-2023.pdf](https://github.com/nimble-technology/nimble-papers/blob/main/litepaper-preprint-09-27-2023.pdf)
