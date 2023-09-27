@@ -20,13 +20,17 @@ A user intent is a signed request in any format. It goes through the following m
 
 The intents are executed by interacting with the intent contract which is illustrated below.
 
-## Nimble Intent Contract
+## Nimble Intent Contracts
 
 <figure><img src="https://lh4.googleusercontent.com/uT_LTl9gvHQhh8pIMHp3ytKaHMAzQ3r8Nw7QlEP22KhISNAU6G96P4dsSkNFfArNKZVWoY16i2VerYiwfjMc7C_roQrDO9uGOX2Io41SwnGPPvTizSLFfPtkPjthLY6ANlRnv0nvLy7AaIuZN3BgP-g" alt=""><figcaption></figcaption></figure>
 
 User intent classes, execution, dispatching, validation and error handling are key components of the intent contract. We focus our discussions on the intent class, execution and dispatching, since validation and error handling come naturally.
 
 The UserIntents class defines intents through the taxonomy. It also consists of important intent utility functions. The IntentDispatcher is the unified interface for solvers to interact with and it routes intents to specialized IntentExecutor. IntentExecutor class handles particular intent operation executions. Intents are validated before being sent to the IntentDispatcher. ErrorHandler is called by different components whenever errors are detected.
+
+The following diagram provides a more detailed illustration of the key contract logic:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
