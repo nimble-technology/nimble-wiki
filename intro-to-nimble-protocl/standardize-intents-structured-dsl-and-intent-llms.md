@@ -8,23 +8,17 @@ description: >-
 
 
 
-<figure><img src="../.gitbook/assets/intent-taxonomy (1).png" alt=""><figcaption><p>Figure 2: Intent taxonomy is a forest of intent trees, each of which represents an independent intent category.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/intent-taxonomy (1).png" alt=""><figcaption><p><strong>Figure 2:</strong> Intent taxonomy is a forest of intent trees, each of which represents an independent intent category.</p></figcaption></figure>
 
 ## Define Intents with DSL
 
 A Domain Specific Language is a programming language with a higher level of abstraction optimized for a specific class of problems. A DSL uses the concepts and rules from the field or domain. In Web3, different intents are defined in a structured manner as a configuration or a piece of code. Below is a simple example intent “swap 10 BTC for USDT at maximum 0.5% slippage instantly.”
 
-> &#x20; intentType: swap
->
-> &#x20;    from: BTC
->
-> &#x20;    to: BTC
->
-> &#x20;    amount: 10
->
-> &#x20;    slippageThreshold: 0.5
->
-> &#x20;    delay: instant
+<div align="left">
+
+<figure><img src="../.gitbook/assets/dsl-example.jpg" alt="" width="188"><figcaption></figcaption></figure>
+
+</div>
 
 To have unambiguous definitions, tree based ontology is adopted. Ontology, as a branch of philosophy, is the science of what is, of the kinds and structures of objects. In simple terms, ontology seeks the classification and explanation of entities.
 
