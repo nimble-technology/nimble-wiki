@@ -6,7 +6,7 @@ description: >-
 
 # Instantiate Intents - User Intent Execution Flow
 
-<figure><img src="https://lh5.googleusercontent.com/tuSl0z32ZxGJNyl6nQQLMJ6JeCQ8iyJw_vSPT0OJu05ptcnVh4-zVO_-ThUTdjSoxttND4aWPjPPCZWM5B2ZLiMEZzhPxVFc2qPLiKzldS9U5ODotKUp2C_bQe-doRc84jbpMwIi8M97iBe1TeKAtqA" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/intent-flow.svg" alt=""><figcaption></figcaption></figure>
 
 ## User Intent Flow
 
