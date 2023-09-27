@@ -6,7 +6,9 @@ description: >-
 
 # Standardize Intents - Structured DSL and Intent LLMs
 
-<figure><img src="https://lh6.googleusercontent.com/L74mYA6kQ1U3b_W-xqG7avLgwM7b7B50XipdnfyVLYoelPurXAReUqG3dtZKXpOO82Bk_9gpb5lzVn-72oXpbQbdJbduqDfoRNFN0qPAB3Tcqw_VC5fWSuEJOLg2GOd9eUKA9VmSP4iZftVKHhdZVKc" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/intent-taxonomy (1).png" alt=""><figcaption><p>Figure 2: Intent taxonomy is a forest of intent trees, each of which represents an independent intent category.</p></figcaption></figure>
 
 ## Define Intents with DSL
 
