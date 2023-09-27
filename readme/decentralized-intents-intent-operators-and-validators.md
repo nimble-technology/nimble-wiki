@@ -4,7 +4,7 @@ description: The intent network is decentralized with intent operators and valid
 
 # Decentralized Intents - Intent Operators and Validators
 
-<figure><img src="../.gitbook/assets/network-operators.png" alt=""><figcaption><p>Figure 6: The intent network is decentralized with </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/network-operators.png" alt=""><figcaption><p><strong>Figure 6:</strong> The intent network is decentralized with </p></figcaption></figure>
 
 The Nimble network is a set of operators forming an overlay network and running intent processing and reaching consensus for intent operations. There are three protocol modules: intent recognizer, intent dispatcher and intent validator. Each operator is a physical machine on top of which multiple conceptual modules can be run. The overlay network adopts gossip protocols and distributed hash tables.
 
