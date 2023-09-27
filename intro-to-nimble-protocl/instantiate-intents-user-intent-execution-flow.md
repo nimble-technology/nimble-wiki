@@ -22,7 +22,9 @@ The intents are executed by interacting with the intent contract which is illust
 
 ## Nimble Intent Contracts
 
-<figure><img src="https://lh4.googleusercontent.com/uT_LTl9gvHQhh8pIMHp3ytKaHMAzQ3r8Nw7QlEP22KhISNAU6G96P4dsSkNFfArNKZVWoY16i2VerYiwfjMc7C_roQrDO9uGOX2Io41SwnGPPvTizSLFfPtkPjthLY6ANlRnv0nvLy7AaIuZN3BgP-g" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/Group 11.png" alt=""><figcaption><p><strong>Figure 4:</strong> Intent contracts high level illustraction.</p></figcaption></figure>
 
 User intent classes, execution, dispatching, validation and error handling are key components of the intent contract. We focus our discussions on the intent class, execution and dispatching, since validation and error handling come naturally.
 
@@ -30,7 +32,7 @@ The UserIntents class defines intents through the taxonomy. It also consists of 
 
 The following diagram provides a more detailed illustration of the key contract logic:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><strong>Figure 5:</strong> Intent contracts execution flow.</p></figcaption></figure>
 
 
 
