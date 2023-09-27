@@ -40,6 +40,4 @@ The intent understanding module is a combination of LLMs and rule engine. There 
 * LLM Parser: LLMs are used for intent natural language understanding with named entity tagging by identifying salient entities, followed by specific operation classifications.
 * Decision Engine: Decision engine is to combine the operation classification outputs with another AI model for intent operation prediction precision boosting.
 
-<figure><img src="https://lh5.googleusercontent.com/mdgdrevTfaeOlk36wTyuJdSOLiEaKB447GQZrvGHK9tHh5N6VZdgHfL6Hq-s7c6K0Fuf_-p6nxTESNaC6Ns9ZrlOVrKKhsJfOd4ct0Mv99izIAyl3af7ztRKXMdchhqaTNSbhNxS-7RnaBVeDHkraro" alt=""><figcaption></figcaption></figure>
-
-\
+<figure><img src="../.gitbook/assets/intent-recognizer.png" alt=""><figcaption><p><strong>Figure 3:</strong> Intent recognizer.</p></figcaption></figure>
