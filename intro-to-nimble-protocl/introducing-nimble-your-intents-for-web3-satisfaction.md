@@ -7,7 +7,7 @@ description: >-
 
 # Introducing Nimble - Your Intents for Web3 Satisfaction
 
-<figure><img src="https://lh5.googleusercontent.com/_OJQggK_5zkpkmPgLjFV9fYF0mqmcBUqYWXCZxKt1aMsLLoLD5V_-FgcfANSIrcCEHCIZIZb4jqu63ND_zY0k9phJdRqPN835QQZ0Y0omVYu0pqwCQWoxvqjDloywRkI5WbOMdePP3IhVjwUQbrUu44" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/os-analogy.png" alt=""><figcaption><p><strong>Figure 1:</strong> Nimble intent protocol hides the blockchain low level details like operating system for computers.</p></figcaption></figure>
 
 ## What Are Intents?
 
