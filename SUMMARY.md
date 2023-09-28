@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro to Nimble Protocl](README.md)
+* [Intro to Nimble Protocol](README.md)
   * [Introducing Nimble - Your Intents for Web3 Satisfaction](intro-to-nimble-protocl/introducing-nimble-your-intents-for-web3-satisfaction.md)
   * [Standardize Intents - Structured DSL and Intent LLMs](intro-to-nimble-protocl/standardize-intents-structured-dsl-and-intent-llms.md)
   * [Instantiate Intents - User Intent Execution Flow](intro-to-nimble-protocl/instantiate-intents-user-intent-execution-flow.md)
