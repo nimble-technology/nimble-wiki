@@ -1,3 +1,0 @@
-# Intent Bundler
-
-Coming soon
