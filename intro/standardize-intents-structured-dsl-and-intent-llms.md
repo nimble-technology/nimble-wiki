@@ -72,7 +72,7 @@ Your partner gets the right cake in each case, but picking it up from the bakery
 
 #### How it works
 
-<figure><img src="https://lh5.googleusercontent.com/H4-p1CIE-5dCNcBhc_xIuO5Kdwwzo4yrKllwNrriBEEZ97fvND3jG7Av9VcY-9303Lu-RTp5lSIOJTpmNO-xoqyf3BSSXoPh98dqij_RzrPsMoqI9eHjjZfx07wVBomF_zSZ7O03bMUMdeChUOwADY4" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-11 at 9.26.10 AM.png" alt=""><figcaption></figcaption></figure>
 
 Our intent protocol accepts intents and translates them into valid computational steps. If the Intent involves a trade, the protocol must also find a counterparty willing to take the trade.
 
