@@ -1,3 +1,0 @@
-# Intro to IntentKit
-
-Coming soon...
