@@ -2,7 +2,7 @@
 description: The intent network is decentralized with intent operators and validators.
 ---
 
-# Decentralized Intents - Intent Operators and Validators
+# Decentralized Intents
 
 <figure><img src="../.gitbook/assets/network-operators.png" alt=""><figcaption><p><strong>Figure 6:</strong> Intents are decentralized with network operators and PoS consensus mechanisms. Each operator is a physical machine, running one or more of the following intent modules: intent recognizer, intent dispatcher, and intent validator.</p></figcaption></figure>
 
