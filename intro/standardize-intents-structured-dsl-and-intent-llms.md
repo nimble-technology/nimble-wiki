@@ -126,7 +126,7 @@ Once a sufficient number of exchange Solvers exist on Nimble, no specialized int
 
 The network of Dispatchers and Solvers will automatically select the series of transactions that result in the lowest fees to the user. The exchange operations are rendered completely transparent to the user.
 
-#### Dapps
+#### DApps
 
 Dapps can significantly simplify their onboarding experience with a Nimble Solver.
 
