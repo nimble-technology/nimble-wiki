@@ -8,7 +8,7 @@ description: Nimble is building the first-ever marketplace for intents.
 
 An open system of applications spanning across the entire Web3 ecosystem
 
-#### Inclusive by design
+#### Inclusive by Design
 
 Designed for accessibility first so people from every background can participate without requiring specialized knowledge
 
