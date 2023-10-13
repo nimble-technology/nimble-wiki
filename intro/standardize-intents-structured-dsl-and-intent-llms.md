@@ -100,7 +100,7 @@ In the RFQ model, solvers compete to provide the lowest-cost solution that satis
 
 The costs associated with operations like bridging and swapping can significantly benefit from a diversified pool of solvers.
 
-#### Domain-specific language
+#### Domain Specific Language
 
 To standardize communication between participants in the RFQ model and solvers, we are building a domain-specific language (DSL) for the expression of intents. Solvers must leverage the DSL to identify solutions within their system.
 
