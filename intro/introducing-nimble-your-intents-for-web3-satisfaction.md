@@ -34,7 +34,7 @@ Data about platform usage is carefully cataloged and sold to anyone with the mon
 
 We believe that Web 3.0 can serve as the foundation for a new Internet that combines the freedom of the early Internet with the simplicity of the modern platform-dominated Internet. This will require solving the profound usability challenges blocking the widespread adoption of blockchain today. Doing so will enable a re-balancing of control away from tech monopolies and towards everyday internet users.
 
-#### Requirements for a free internet
+#### Requirements for a Free Internet
 
 Building a better internet has two fundamental requirements.
 
