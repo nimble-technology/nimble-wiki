@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Start here](README.md)
-  * [Introducing Nimble Protocol](intro/introducing-nimble-your-intents-for-web3-satisfaction.md)
-  * [What are Intents?](intro/standardize-intents-structured-dsl-and-intent-llms.md)
+  * [Introducing Nimble Protocol](readme/introducing-nimble-protocol.md)
+  * [What are Intents?](readme/what-are-intents.md)
   * [Whitepaper](intro/whitepaper.md)
