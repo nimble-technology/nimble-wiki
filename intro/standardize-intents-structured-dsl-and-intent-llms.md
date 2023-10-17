@@ -8,7 +8,7 @@ It was a challenging year for Web3. With a consistent stream of bad news, the ad
 
 For Web3 companies, this growth can’t come from within. Out of the over 26 million global software developers, just over 26 thousand develop for blockchain. Of 5.3 billion people with internet access, just over 420 million own cryptocurrency. For context, Roblox alone has over 9.5 million developers.
 
-<figure><img src="https://lh6.googleusercontent.com/T5ey3Rg3DoJLV_BBq6xwrYkdcI0myGiExoSHm1qqJ3sQBa-uiRhHi0fjQ8D5Kx6NzPyMLjAo4r5yvdwEPPxfYR1o5Ld0TPxenSZ89WI4AT9Ueu1n7kmIvgRQtWrW31cvJgOKtfOUL3gVP8V7HMqpLoE" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh6.googleusercontent.com/T5ey3Rg3DoJLV_BBq6xwrYkdcI0myGiExoSHm1qqJ3sQBa-uiRhHi0fjQ8D5Kx6NzPyMLjAo4r5yvdwEPPxfYR1o5Ld0TPxenSZ89WI4AT9Ueu1n7kmIvgRQtWrW31cvJgOKtfOUL3gVP8V7HMqpLoE" alt="" width="375"><figcaption></figcaption></figure>
 
 Despite this, most startups in this space focus on winning developers and users from these small sets. As a community, we compete for a slice of a shrinking pie instead of expanding it.
 
@@ -50,7 +50,7 @@ Return to the earlier example where we funded a Friend.tech wallet using ETH. Wi
 
 The protocol interprets the user’s intent and then converts it into a set of transactions on the blockchain. Transactions are executed on the user’s behalf, achieving their desired outcome without needing them to understand the technical details.
 
-<figure><img src="https://lh3.googleusercontent.com/PHIh13wNnPLRl3a0k1pe5v5155pgK_QxbgpL_1oOQuYxa0DkkNOm7RwSjF4QXWWQRwaSsjmEyDp-6bBRxPXZJ2rcoJfFo32Q3xpAXXdDorFpQgIJ-ntKyhSHNNSztlN0om7xq0I08O7IotFcs_81OdI" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-17 at 10.29.20 AM.png" alt=""><figcaption></figcaption></figure>
 
 #### Intents versus Transactions
 
@@ -72,7 +72,7 @@ Your partner gets the right cake in each case, but picking it up from the bakery
 
 #### How it works
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-11 at 9.26.10 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-17 at 10.30.10 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Our intent protocol accepts intents and translates them into valid computational steps. If the Intent involves a trade, the protocol must also find a counterparty willing to take the trade.
 
