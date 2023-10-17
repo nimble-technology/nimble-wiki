@@ -1,8 +1,8 @@
 ---
-description: A Vision for a Marketplace of Intents
+description: Nimble is building the first-ever marketplace for intents.
 ---
 
-# Introducing Nimble Protocol
+# A Vision for a Marketplace of Intents
 
 ## Abstract
 
