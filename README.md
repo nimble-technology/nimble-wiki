@@ -1,8 +1,8 @@
 ---
-description: Nimble is building the first-ever marketplace for intents.
+description: Nimble is borderless, inclusive and permissionless.
 ---
 
-# Start here
+# Values
 
 #### Borderless Ecosystem
 
