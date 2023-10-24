@@ -5,3 +5,4 @@
 * [6 Innovations Make Nimble the First Everything Marketplace Infrastructure](6-innovations-make-nimble-the-first-everything-marketplace-infrastructure.md)
 * [Values](<README (1).md>)
 * [Whitepaper](whitepaper.md)
+* [Marketplace Applications](marketplace-applications.md)
