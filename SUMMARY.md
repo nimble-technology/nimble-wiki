@@ -1,8 +1,8 @@
 # Table of contents
 
 * [A Vision for a Marketplace of Intents](README.md)
-* [Introducing the Nimble Intent Protocol](introducing-the-nimble-intent-protocol.md)
-* [Key Innovations](key-innovations.md)
+* [Protocol Introduction](protocol-introduction.md)
+* [Key Innovations](6-innovations-make-nimble-the-first-everything-marketplace-infrastructure.md)
 * [Values](<README (1).md>)
 * [Whitepaper](whitepaper.md)
 * [Marketplace Applications](marketplace-applications.md)
