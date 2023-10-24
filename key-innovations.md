@@ -1,10 +1,10 @@
 ---
 description: >-
-  Understand the tech breakthroughs that make Nimble the everything marketplace
-  infrastructure to rebuild Silicon Valley onchain
+  Understand the 6 innovations that enable Nimble to decentralize the Silicon
+  Valley
 ---
 
-# 6 Innovations Make Nimble the First Everything Marketplace Infrastructure
+# Key Innovations
 
 Nimble was conceived in 2023 when its founding team sought a way for a decentralized network of nodes to orchestrate a trustless marketplace infrastructure for everything. None of the major decentralized networks including blockchains achieve this property. Accomplishing this is Nimble’s northstar.
 
