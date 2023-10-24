@@ -18,7 +18,7 @@ In order to create a decentralized, permissionless network that enable any Inter
 * Sandhill - Intent Action Recognition Protocol;
 * Rainstorm - Horizontally-Scaled Dispatching Network;
 * Orchestrator - Modular Incentives for the Everything Marketplace;
-* Bandwagon - General Purpose Intent Database;
+* Bandwagon - General Purpose Intent Database; and
 * HashTrail - Distributed Intent Ledger
 
 In this essay, we’ll briefly explain each of the above. If you’d like to learn more about each, we’ve also written detailed explainers that you can access by clicking the links above.
@@ -99,7 +99,7 @@ Nimble is designed to remove today’s blockchain limitations and enable develop
 * Sandhill - Intent Action Recognition Protocol;
 * Rainstorm - Horizontally-Scaled Dispatching Network;
 * Orchestrator - Modular Incentives for the Everything Marketplace;
-* Bandwagon - General Purpose Intent Database;
+* Bandwagon - General Purpose Intent Database; and
 * HashTrail - Distributed Intent Ledger
 
 ## State of the Network
