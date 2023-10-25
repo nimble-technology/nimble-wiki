@@ -4,7 +4,7 @@ description: Nimble is borderless, inclusive and permissionless.
 
 # Values
 
-#### Borderless Ecosystem
+Borderless Ecosystem
 
 An open system of applications spanning across the entire Web3 ecosystem
 
