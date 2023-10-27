@@ -21,7 +21,7 @@ To create a decentralized, permissionless network that enables any Internet appl
 
 In this essay, we’ll briefly explain each of the above. If you’d like to learn more about each, we’ve also written detailed explainers that you can access by clicking the links above.
 
-### Proof of Intent - the Intent Version of PoS
+## Proof of Intent - the Intent Version of PoS
 
 Today’s internet is an everything marketplace of user intents, matching them with content, products, advertisers, drivers, house owners, and restaurants. Users express themselves explicitly with natural language queries in search, likes in recommendation, rides in ride-hailing apps, purchases in e-commerce websites, and clicks in ads ranking systems. The internet applications are built and designed around intents.
 
@@ -33,7 +33,7 @@ The core innovation is Proof of Intent (PoI), in which the key operating element
 
 This core innovation opens the design space for decentralized applications (dApps). It enables decentralized marketplace applications on blockchains and allows developers to build decentralized data marketplaces (e.g., Google), ride-hailing marketplaces (e.g., Uber), e-commerce product marketplaces (e.g., Amazon), and so on.
 
-### Sandhill - Intent Action Recognition Protocol
+## Sandhill - Intent Action Recognition Protocol
 
 Sandhill translates intents into actions — accurate, executable, and DSL formatted intent operations — with the innovative Intent Action Recognition (IAR) technology. IAR is tasked to translate user intents in arbitrary formats into specific intent actions.
 
@@ -41,7 +41,7 @@ IAR is a set of LLMs specialized in entity sequence modeling, conversational int
 
 It is also a general-purpose AI layer with today’s purpose-built LLMs, which can be run entirely at the edge, including an end user’s mobile device. These purpose-built LLMs coordinate and work together as a team to fulfill network tasks like IAR, as described above. They communicate with each other with a horizontally-scaled dispatching protocol.
 
-### Rainstorm - Horizontally-Scaled Dispatching Network
+## Rainstorm - Horizontally-Scaled Dispatching Network
 
 Nimble network is designed for multi-sided marketplaces handling large-scale requests daily across the globe. Think of the network scale when Uber, Airbnb, and TikTok applications run on the Nimble decentralized network. This Web2 network scale support is never tackled in any decentralized network. We thus strive to build real-time experiences for all users.
 
@@ -57,7 +57,7 @@ Sprouted from the same never-go-down, always-keep-growing demands for large-scal
 
 The dispatching nodes are self-organizing and autonomous as a decentralized network. They are rational and aware of other nodes’ capacities based on interaction histories. The network is resilient with a graph topology, and a fanout of 20 implies log\_20(N) time complexity for any request dispatching. N is the total number of nodes in the network.
 
-### Orchestrator - Modular Incentives for the Everything Marketplace
+## Orchestrator - Modular Incentives for the Everything Marketplace
 
 Nimble’s ultimate purpose is to coordinate a network of independent solver agents for the Everything Marketplace. One of the most critical design components is incentive provision for network participants — users with an intent to be fulfilled, solvers with the expertise to contribute, and validators with computation resources to secure the network.
 
@@ -65,9 +65,9 @@ At Web2 scale, a centralized mechanism optimization would not work due to the no
 
 Our modular auctions scale the design by coordinating specialized and generic solvers working together to formulate an everything marketplace. The mechanism enjoys truthfulness revealing, incentive compatibility, and regret minimization. Specialized solvers participate in auctions for the specific intent types they are optimized for. Generic and more powerful solvers optimize for different and general intent types by participating in multiple auctions simultaneously or in a multi-stage manner. The modular mechanism design scales the auction layer horizontally despite exponential user request growth.
 
-The modular auctions are inspired by microservices in big organizations such as Google, Amazon, and Meta. It is the ultimate way out for scalability without optimization sacrifices by introducing competition among solvers.
+The modular auctions are inspired by micro-services in big organizations such as Google, Amazon and Meta. It is the ultimate way out for scalability without optimization sacrifices by introducing competition among solvers.
 
-### Bandwagon - General Purpose Intent Database
+## Bandwagon - General Purpose Intent Database
 
 Everything marketplace infrastructure is only possible with data flexibility instead of being limited to rigid transaction data. The data is thus abstracted as a blob with unique identifiers, metadata, and data row. Metadata contains data types such as intent types, bids, or solutions, while the data row is flexible enough to store all the detailed information related to the data blob. The unique identifier serves as the key in data blob search and modifications.
 
@@ -77,7 +77,7 @@ Nimble must scale incrementally. Nimble’s partitioning scheme relies on consis
 
 Nimble treats the result of each modification as a new and immutable version of the data. It allows for multiple versions of an object to be present in the system simultaneously. Often, new versions subsume the previous version(s), and the system can determine the authoritative version (syntactic reconciliation).
 
-### HashTrail - Distributed intent ledger
+## HashTrail - Distributed intent ledger
 
 The ledger is organized as Merkle trees for anti-entropy: Each node maintains a separate Merkle tree for each key range (the set of keys covered by a virtual node) it hosts. This allows nodes to compare whether the keys within a key range are up-to-date. In this scheme, two nodes exchange the root of the Merkle tree corresponding to the key ranges they host in common.
 
@@ -87,7 +87,7 @@ Failure detection is used to avoid attempts to communicate with unreachable peer
 
 To achieve high availability and durability, Nimble replicates its data on multiple hosts. Each data item is replicated at N hosts, where N is a parameter configured “per-instance”. Each key, k, is assigned to a coordinator node (described in the previous section). The coordinator is responsible for replicating the data items within its range.
 
-### Summary
+## Summary
 
 As a result of these 6 major innovations, the Nimble network is always online for real-time handling of intent requests. It is general purpose with a focus on the marketplace protocol design. Moreover, for such generality, it supports any marketplace applications on today’s Internet.
 
@@ -100,6 +100,6 @@ Nimble is designed to remove today’s blockchain limitations and enable develop
 * Bandwagon - General Purpose Intent Database;
 * HashTrail - Distributed Intent Ledger
 
-### State of the Network
+## State of the Network
 
-The Nimble network is under active development and is targeted for mainnet beta launch by the end of 2023.\
+The Nimble network is under active development and is targeted for mainnet beta launch by the end of 2023.
