@@ -2,7 +2,7 @@
 description: Nimble is designed for general purpose intents.
 ---
 
-# Introducing the Nimble Intent Protocol
+# Protocol Introduction
 
 It was a challenging year for Web3. With a consistent stream of bad news, the adoption of blockchain technology has slowed. To end “crypto winter”, our industry needs growth.
 
@@ -88,21 +88,23 @@ Once authorized, Nimble submits the Intent to the Intent Pool.
 
 #### Finding Solutions
 
-The dispatcher forwards signed Intents to a Request for Quote (RFQ) model, which attempts to match the user’s desired outcome with an available service or contract. At this stage in the pipeline, the protocol translates the intent into machine-readable transactions.
+The dispatcher forwards signed Intents to a modular auction, which attempts to match the user’s desired outcome with an available service or contract. At this stage in the pipeline, the protocol translates the intent into machine-readable transactions.
 
 The critical component of this step is the Solvers. Solvers provide the Nimble network with solutions that satisfy a user’s desired outcome, in whole or in part. Solvers make the functionality of third-party systems available on Nimble and make Nimble’s user base accessible to dapps. We will provide an open SDK for developers to create their own Solver and benefit from Nimble’s user base.
 
 Native solvers are also used to match users directly within the network. When two or more users within Nimble execute both sides of the same transaction, the transaction completes directly. Such on-network transactions eliminate costs associated with transiting third-party networks.
 
-#### Request for Quote (RFQ) Model
+#### Modular Auctions
 
-In the RFQ model, solvers compete to provide the lowest-cost solution that satisfies their assigned portion of the Intent. In this way, an incentive is placed on solvers to deliver solutions at the lowest possible price.
+Nimble operates a series of auctions, each working to optimize either a single operation or a common set of operations.
 
-The costs associated with operations like bridging and swapping can significantly benefit from a diversified pool of solvers.
+Inside individual auctions, solvers compete to provide the lowest-cost solution that satisfies their assigned portion of the Intent. In this way, an incentive is placed on solvers to deliver solutions at the lowest possible price. The costs associated with operations like bridging and swapping can significantly benefit from a diversified pool of solvers.
+
+We selected a modular approach to auctions to improve scalability. Any number of auction modules can be spun up on the protocol to manage capacity. Since it is possible for multi-component solvers to generate optimal solutions outside of a single intent operation, some auctions also support compound operations. Specialized end-to-end solvers may participate in compound auctions. When intent operations are bundled in the final stage of the auction, the results from compound operations are compared against the network-composed intent operation sets to determine the best solution.
 
 #### Domain Specific Language
 
-To standardize communication between participants in the RFQ model and solvers, we are building a domain-specific language (DSL) for the expression of intents. Solvers must leverage the DSL to identify solutions within their system.
+To standardize communication between participants in the auctions and solvers, we are building a domain-specific language (DSL) for the expression of intents. Solvers must leverage the DSL to identify solutions within their system.
 
 We know other intent-based projects are also working on domain-specific languages and will choose to leverage a standard if one becomes available.
 
