@@ -69,7 +69,7 @@ By abstracting away blockchain-related details from developers, intents lower th
 
 Or, as Steve Ballmer at Microsoft would say:&#x20;
 
-[https://www.youtube.com/watch?v=EMldOiiG1Ko\&t=2s\&ab\_channel=fb](https://www.youtube.com/watch?v=EMldOiiG1Ko\&t=2s\&ab\_channel=fb)
+{% embed url="https://www.youtube.com/watch?ab_channel=fb&t=2s&v=EMldOiiG1Ko" %}
 
 #### **Solver Experience**
 
