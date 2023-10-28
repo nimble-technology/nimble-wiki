@@ -126,8 +126,7 @@ To enable users to consume content for free, content creators may also choose to
 
 One of the obstacles to creating a functional social network on blockchain is cost. Content on existing platforms is free, and supported by ads. SocialFi developers could easily develop their app to follow this behavior using Intents. Intents submitted to the social network to view a particular content could be matched to Advertising solvers. If the content was ad-supported, the advertiser would be incentivized to subsidize the network fees, allowing users to access it for free.
 
-Since the network is built on a public blockchain, ad-supported content would be transparent to end users.\
-
+Since the network is built on a public blockchain, ad-supported content would be transparent to end users.
 
 ### The Marketplace for Intents
 
