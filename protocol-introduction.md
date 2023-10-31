@@ -82,7 +82,7 @@ Let’s walk through the process of fulfilling an Intent in more detail.
 
 Intent fulfillment begins with the user submitting an intent to our Intent Recognizer.&#x20;
 
-Since intents may require more than one transaction, they must be signed using an Account Abstraction (EIP-4337) wallet. The user’s goals, enshrined by the Intent, are described in the smart contract authorization.
+Since intents may require more than one transaction, they must be signed with the user's private keys. EIP-4337 wallets are also supported. The user’s goals, enshrined by the Intent, are described in the smart contract authorization.
 
 Once authorized, Nimble submits the Intent to the Intent Pool.
 
