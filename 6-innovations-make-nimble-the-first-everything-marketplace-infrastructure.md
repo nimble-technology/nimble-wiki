@@ -77,7 +77,7 @@ Nimble must scale incrementally. Nimble’s partitioning scheme relies on consis
 
 Nimble treats the result of each modification as a new and immutable version of the data. It allows for multiple versions of an object to be present in the system simultaneously. Often, new versions subsume the previous version(s), and the system can determine the authoritative version (syntactic reconciliation).
 
-## HashTrail - Distributed intent ledger
+## HashTrail - Distributed Intent Ledger
 
 The ledger is organized as Merkle trees for anti-entropy: Each node maintains a separate Merkle tree for each key range (the set of keys covered by a virtual node) it hosts. This allows nodes to compare whether the keys within a key range are up-to-date. In this scheme, two nodes exchange the root of the Merkle tree corresponding to the key ranges they host in common.
 
