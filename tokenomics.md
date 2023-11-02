@@ -34,7 +34,7 @@ Additional topics may be added in the future, with approval by the DAO.
 
 | Ecosystem      | 47      | 3       | 50      |
 | -------------- | ------- | ------- | ------- |
-| Solver Rewards | 18      | 2       |         |
+| Solver Rewards | 18      | 2       | 20      |
 | Development    | 10      | 0       | 10      |
 | Private Sales  | 10      | 0       | 10      |
 | Community      | 0       | 10      | 10      |
