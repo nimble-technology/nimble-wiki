@@ -32,13 +32,13 @@ Additional topics may be added in the future, with approval by the DAO.
 
 #### Distribution Table
 
-| Ecosystem         | 42      | 3       | 50      |
-| ----------------- | ------- | ------- | ------- |
-|  & Solver Rewards | 18      | 2       |         |
-| Development       | 10      | 0       | 10      |
-| Private Sales     | 10      | 0       | 10      |
-| Community         | 0       | 10      | 10      |
-| **Total**         | **85%** | **15%** | **100** |
+| Ecosystem      | 47      | 3       | 50      |
+| -------------- | ------- | ------- | ------- |
+| Solver Rewards | 18      | 2       |         |
+| Development    | 10      | 0       | 10      |
+| Private Sales  | 10      | 0       | 10      |
+| Community      | 0       | 10      | 10      |
+| **Total**      | **85%** | **15%** | **100** |
 
 #### Solver Rewards
 
