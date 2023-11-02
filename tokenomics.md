@@ -32,12 +32,12 @@ Additional topics may be added in the future, with approval by the DAO.
 
 #### Distribution Table
 
-| Ecosystem     | 45      | 5       | 50      |
+| Ecosystem     | 65      | 5       | 50      |
 | ------------- | ------- | ------- | ------- |
-| Development   | 8       | 2       | 10      |
+| Development   | 10      | 0       | 10      |
 | Private Sales | 10      | 0       | 10      |
 | Community     | 0       | 10      | 10      |
-| **Total**     | **81%** | **19%** | **100** |
+| **Total**     | **85%** | **19%** | **100** |
 
 #### Solver Rewards
 
