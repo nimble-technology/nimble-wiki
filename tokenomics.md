@@ -35,22 +35,10 @@ Additional topics may be added in the future, with approval by the DAO.
 | Ecosystem      | 47      | 3       | 50      |
 | -------------- | ------- | ------- | ------- |
 | Solver Rewards | 18      | 2       | 20      |
+| Community      | 0       | 10      | 10      |
 | Development    | 10      | 0       | 10      |
 | Private Sales  | 10      | 0       | 10      |
-| Community      | 0       | 10      | 10      |
 | **Total**      | **85%** | **15%** | **100** |
-
-#### Solver Rewards
-
-**20%, or 200,000,000 NIMBLE**
-
-This reward allocation is reserved for the network’s Solver pool, or solvers.
-
-Solvers contribute a variety of functionality to the Nimble protocol. This “Solver Rewards” allocation is a blend of tokens reserved for reward programs, grants, and scholarships that will encourage developers to build solvers.
-
-20M NIMBLE are unlocked for immediate use to incentivize solver development. A remaining 180M NIMBLE are locked, subject to our vesting period as described earlier.
-
-Upon unlocking, tokens will be made available for distribution to solvers.
 
 #### Ecosystem
 
@@ -68,6 +56,28 @@ With this allocation, we hope to provide incentives and funding for projects to 
 
 3% of the ecosystem NIMBLE allocation is unlocked and can be distributed to this community immediately. The remaining 47% (470M) tokens will be distributed following our vesting schedule.
 
+#### Solver Rewards
+
+**20%, or 200,000,000 NIMBLE**
+
+This reward allocation is reserved for the network’s Solver pool, or solvers.
+
+Solvers contribute a variety of functionality to the Nimble protocol. This “Solver Rewards” allocation is a blend of tokens reserved for reward programs, grants, and scholarships that will encourage developers to build solvers.
+
+20M NIMBLE are unlocked for immediate use to incentivize solver development. A remaining 180M NIMBLE are locked, subject to our vesting period as described earlier.
+
+Upon unlocking, tokens will be made available for distribution to solvers.
+
+#### Community
+
+**10%, or 100,000,000 NIMBLE**
+
+The community allocation of NIMBLE is reserved for launch-related purposes.&#x20;
+
+This includes launch events, marketing, and other events that will drive interest in the protocol.
+
+Since this allocation is required for the immediate use of the network, it is unlocked immediately.
+
 #### Development
 
 **10%, or 100,000,000 NIMBLE**
@@ -83,16 +93,6 @@ The development allocation will be provided to projects or individuals that cont
 This allocation is reserved for early funding of the network development, as required by the core team. As of now, these tokens are unallocated.
 
 0% of private sales NIMBLE allocation is unlocked and can be distributed to private investors immediately upon launch of the network. Once allocated, tokens from the private sale will be subject to the vesting schedule.
-
-#### Community
-
-**10%, or 100,000,000 NIMBLE**
-
-The community allocation of NIMBLE is reserved for launch-related purposes.&#x20;
-
-This includes launch events, marketing, and other events that will drive interest in the protocol.
-
-Since this allocation is required for the immediate use of the network, it is unlocked immediately.
 
 #### Conclusions
 
