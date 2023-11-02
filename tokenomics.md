@@ -28,7 +28,7 @@ Additional topics may be added in the future, with approval by the DAO.
 | -------------- | --------------------------------------------------------------------------------------------- |
 | Supply         | 1,000,000,000                                                                                 |
 | Initial Supply | 100,000,000 (15%)                                                                             |
-| Vesting        | 81% of NIMBLE are initially locked. Tokens are unlocked 6, 18, 30, and 42 months after launch |
+| Vesting        | 85% of NIMBLE are initially locked. Tokens are unlocked 6, 18, 30, and 42 months after launch |
 
 #### Distribution Table
 
