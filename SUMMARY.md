@@ -6,3 +6,4 @@
 * [Key Innovations](6-innovations-make-nimble-the-first-everything-marketplace-infrastructure.md)
 * [Values](<README (1).md>)
 * [Whitepaper](whitepaper.md)
+* [Tokenomics](tokenomics.md)
