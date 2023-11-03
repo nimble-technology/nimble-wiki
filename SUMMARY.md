@@ -7,3 +7,7 @@
 * [Values](<README (1).md>)
 * [Whitepaper](whitepaper.md)
 * [Tokenomics](tokenomics.md)
+
+## 📖 Practical Intents
+
+* [Natural Language Intents](practical-intents/natural-language-intents.md)
