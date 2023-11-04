@@ -20,7 +20,7 @@ Before diving deep into dispatching details, it is easier to do a quick recap of
 
 The network receives intents articulated in a custom DSL. This language is tailored for defining complex data requests and interactions within the network, allowing users to specify exactly what they are looking for in a succinct and expressive manner. A simple example of making multiple transfers to different accounts.
 
-![](https://lh7-us.googleusercontent.com/lUpeFlHy2bQXKIddr3K0kizDpjniexcz5FMdw7ul64OWzAZOKq1IvcmnzoApaz33FzG57xiXFd2CDOM\_RKoJ0wnPu-wilc3Tiq2gPvG9tEDmXk4NZ5AWYVa31o\_a7EIbbFvWB4jEy-VonhN9-GwM5yM)
+<figure><img src="https://lh7-us.googleusercontent.com/lUpeFlHy2bQXKIddr3K0kizDpjniexcz5FMdw7ul64OWzAZOKq1IvcmnzoApaz33FzG57xiXFd2CDOM_RKoJ0wnPu-wilc3Tiq2gPvG9tEDmXk4NZ5AWYVa31o_a7EIbbFvWB4jEy-VonhN9-GwM5yM" alt=""><figcaption><p>Intent DSL Query</p></figcaption></figure>
 
 The network also accepts queries made in natural human language, making it accessible to a wider audience, and our AI layer on each node will figure out what the requests are.
 
