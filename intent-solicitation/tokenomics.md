@@ -4,13 +4,13 @@ description: Initial Token Proposal to Nimble Community
 
 # Tokenomics
 
-### Nimble Tokenomics
+## Nimble Tokenomics
 
 This post details how the NIMBLE token is distributed to various participants of the Nimble Network and associated ecosystems. Thoughtful distribution of Nimble tokens is vital for on-chain governance and ensuring a fully decentralized, permissionless, and sustainable ecosystem.
 
 Token-based governance enables token holders to guide the development of Nimble. The goal of this document is to prepare the community to participate in governance events so token holders can shape the future of the protocol productively.
 
-#### Governance and the Nimble DAO
+### Governance and the Nimble DAO
 
 Nimble governance will aid in decision-making as we develop or alter network mechanisms in the future. The governance body is responsible for decisions such as:
 
@@ -22,7 +22,7 @@ Nimble governance will aid in decision-making as we develop or alter network mec
 
 Additional topics may be added in the future, with approval by the DAO.
 
-#### Distribution of Tokens
+### Distribution of Tokens
 
 | Symbol         | NIMBLE                                                                                        |
 | -------------- | --------------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@ Additional topics may be added in the future, with approval by the DAO.
 | Initial Supply | 150,000,000 (15%)                                                                             |
 | Vesting        | 85% of NIMBLE are initially locked. Tokens are unlocked 6, 18, 30, and 42 months after launch |
 
-#### Distribution Table
+### Distribution Table
 
 | Category       | Locked  | Unlocked | Total   |
 | -------------- | ------- | -------- | ------- |
@@ -41,7 +41,7 @@ Additional topics may be added in the future, with approval by the DAO.
 | Private Sales  | 10      | 0        | 10      |
 | **Total**      | **85%** | **15%**  | **100** |
 
-#### Ecosystem
+### Ecosystem
 
 **50%, or 500,000,000 NIMBLE**
 
@@ -57,7 +57,7 @@ With this allocation, we hope to provide incentives and funding for projects to 
 
 3% of the ecosystem NIMBLE allocation is unlocked and can be distributed to this community immediately. The remaining 47% (470M) tokens will be distributed following our vesting schedule.
 
-#### Solver Rewards
+### Solver Rewards
 
 **20%, or 200,000,000 NIMBLE**
 
@@ -69,7 +69,7 @@ Solvers contribute a variety of functionality to the Nimble protocol. This “So
 
 Upon unlocking, tokens will be made available for distribution to solvers.
 
-#### Community
+### Community
 
 **10%, or 100,000,000 NIMBLE**
 
@@ -79,7 +79,7 @@ This includes launch events, marketing, and other events that will drive interes
 
 Since this allocation is required for the immediate use of the network, it is unlocked immediately.
 
-#### Development
+### Development
 
 **10%, or 100,000,000 NIMBLE**
 
@@ -87,7 +87,7 @@ The development allocation will be provided to projects or individuals that cont
 
 0% of development NIMBLE allocation is unlocked and can be distributed to developers immediately upon launch of the network. The remaining 10% will be distributed following our vesting schedule.
 
-#### Private Sales
+### Private Sales
 
 **10%, or 100,000,000 NIMBLE**
 
@@ -95,7 +95,7 @@ This allocation is reserved for early funding of the network development, as req
 
 0% of private sales NIMBLE allocation is unlocked and can be distributed to private investors immediately upon launch of the network. Once allocated, tokens from the private sale will be subject to the vesting schedule.
 
-#### Conclusions
+### Conclusions
 
 We are still actively working to launch the network. Once launched, expect additional announcements regarding NIMBLE governance. Follow along on our Twitter and Discord community pages for up-to-date information and to avoid inaccurate information about the Nimble project.
 
