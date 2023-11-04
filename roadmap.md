@@ -24,6 +24,6 @@ You will be able to participate in the network starting the end of November 2023
 
 #### For community
 
-You may also care about tokens. We do not have an exact timeline yet. When to launch the network token depends on how fast we grow together. Let us cheese!
+You may also care about tokens. We do not have an exact timeline yet. When to launch the network token depends on how fast we grow together.
 
-_Let us build and shape the future of Nimble together!_
+_Let us build and cheese! You will shape the future of Nimble._
