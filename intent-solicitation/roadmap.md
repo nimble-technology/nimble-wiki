@@ -14,15 +14,15 @@ The above roadmap may just mean nothing to you - another boring and typical netw
 
 What does it mean to users, solvers and community members?
 
-#### For users
+### For users
 
 You can start using our product by the end of November, 2023. We will then build features you want. You can ask on Discord and Twitter and we will prioritize!
 
-#### For solvers
+### For solvers
 
 You will be able to participate in the network starting the end of November 2023. After that, what intents you can solve depend on what users want. We are here together to serve users.
 
-#### For community
+### For community
 
 You may also care about tokens. We do not have an exact timeline yet. When to launch the network token depends on how fast we grow together.
 
