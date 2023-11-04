@@ -20,6 +20,7 @@
 
 * [Key Innovations](6-innovations-make-nimble-the-first-everything-marketplace-infrastructure.md)
 * [Whitepaper](practical-intents/whitepaper.md)
+* [Github](https://github.com/nimble-technology)
 
 ## 🥂 Social Time
 
