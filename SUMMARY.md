@@ -11,3 +11,7 @@
 ## 📖 Practical Intents
 
 * [Natural Language Intents](practical-intents/natural-language-intents.md)
+
+***
+
+* [Intent Verification and Security](intent-verification-and-security.md)
