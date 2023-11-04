@@ -14,7 +14,7 @@ In this post, I’ll explain a few core concepts that enable Nimble to process i
 
 <figure><img src="https://lh7-us.googleusercontent.com/u0CdEhtNd5T39SHCGA49BkADB24r2H8WIbJe6rKK-NaJocxMWfdNQcIIcvjE6ancyk5F32voDQVlUZrtI7NNMoA6_0oPyHyGBSUa_aOiFiHPt2I8cN5IjCH3fmmeso1K4pEMFxubVeWhS78YPFbKgco" alt=""><figcaption><p>Good intentions, poor execution</p></figcaption></figure>
 
-### Entering the network
+### Entering the Network
 
 To ensure Nimble can process intents that make their way into our network, we must ensure validity. Garbage in, garbage out, as they say. This is where Nimble is different from every other intent project.
 
