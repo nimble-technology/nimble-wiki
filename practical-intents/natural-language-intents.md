@@ -57,13 +57,13 @@ Example user interactions to illustrate the power of the LLM intent action recog
 
 <figure><img src="https://lh7-us.googleusercontent.com/Qkm3Hv45uQag08t_OmEKDRAVnBFDSpTX_WXs4lIoxpMECIHLY-E__-BVKG9vRRneNtpvuFcV-44uxunvYqhuoiCKFMAa1BokR_Ag2hDESB_Dd7g55ZhhZ9i3UrOxu7T0Bs0kjDuvKgq01L4nX-qDqlc" alt=""><figcaption><p>Additional supported plain-language interactions with the LLM</p></figcaption></figure>
 
-#### Extended functionality
+#### Extended Functionality
 
 Currently, the chat interface for our intent network is a prototype and only supports the swap operations. Additional operations can be easily added by further training the model.
 
 This proof of concept demonstrates how functionality is added to the model, and the interaction developers can expose to users within their applications with Nimble.
 
-#### Beta launch
+#### Beta Launch
 
 Before the network beta launch, we aim to support the following additional operations in the language model:
 
@@ -73,7 +73,7 @@ Before the network beta launch, we aim to support the following additional opera
 4. Bulk withdraw
 5. Recurring send (ie., payroll)
 
-#### Generic intents
+#### Generic Intents
 
 After beta launch, the network will support generic intents like AI, E-Commerce, NFTs etc. with an ecosystem first approach.
 
