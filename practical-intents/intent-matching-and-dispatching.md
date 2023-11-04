@@ -8,13 +8,7 @@ In the intent-centric world, the efficient handling of information requests acro
 
 ## Recap
 
-Before diving deep into dispatching details, it is easier to do a quick recap of the entire intent execution flow. The following diagram shows the high-level architecture.
-
-<div align="center">
-
-<figure><img src="https://lh7-us.googleusercontent.com/015gy-XgjiAWyyDtFzHW8KCneNTbNeqy2ZBGI477TIQnm_2EAjSkTNMrwXnLt63tNsgH4HJFC6_bTYgbPhPE5LL8f4ESgWMFb-23n8DZ-1wYPKe3XOzeUZDA1PGW7_gFqvbhrzhK3AjOCgPo0rbCoPs" alt="" width="375"><figcaption><p>Intent execution flow</p></figcaption></figure>
-
-</div>
+Before diving deep into dispatching details, it is easier to do a quick recap of key elements of the protocol.
 
 #### **Intent Query Language**
 
