@@ -16,7 +16,7 @@ Before diving deep into dispatching details, it is easier to do a quick recap of
 
 </div>
 
-**Intent query language**
+#### **Intent Query Language**
 
 The network receives intents articulated in a custom DSL. This language is tailored for defining complex data requests and interactions within the network, allowing users to specify exactly what they are looking for in a succinct and expressive manner. A simple example of making multiple transfers to different accounts.
 
@@ -24,15 +24,15 @@ The network receives intents articulated in a custom DSL. This language is tailo
 
 The network also accepts queries made in natural human language, making it accessible to a wider audience, and our AI layer on each node will figure out what the requests are.
 
-**Message syncing**
+**Message Syncing**
 
 When a node receives the intent message, it will recognize it through the AI-powered intent action recognizer on the node, and broadcast the processed message to all the peers in the network. Nimble network uses PubSub model to transmit messages across the network, in that way, it is more efficient as messages are only sent to interested subscribers, thereby reducing redundancy and network load.
 
-**AI-powered understanding**
+**LLM Intent Recognition**
 
-Upon receiving a natural language request, our advanced AI layer interprets and analyzes the query to extract the user's intent and required data points. The AI layer then constructs structured data from the natural language input, converting it into a format akin to a DSL query for further processing. It will eventually transform into a solver understandable intent format, and broadcast to all the peer nodes.
+Upon receiving a natural language request, our advanced LLM interprets and analyzes the query to extract the user's intent and required data points. The LLM then constructs structured data from the natural language input, converting it into a format akin to a DSL query for further processing. It will eventually transform into a solver understandable intent format, and broadcast to all the peer nodes.
 
-**Intent mempool**
+**Intent Mempool**
 
 After intent requests get recognized, and a solved understandable intent data will be generated, and broadcasted to each peer node, and temporarily stored in a mem pool on each node. Once an intent gets picked up and handled, it will be removed from the mem pool.
 
@@ -40,7 +40,7 @@ After intent requests get recognized, and a solved understandable intent data wi
 
 Dispatching takes place after the intent action recognition layer recognizes the intent requests, each node will autonomously determine the most appropriate path to fulfill the request, it sends different types of requests to different intent mempools accordingly.&#x20;
 
-**Intent extensibility**
+**Intent Extensibility**
 
 Nimble intents are extensible by design with flexible intent data structures and operators. Default ones are provided for commonly used intents. Advanced users can always customize their own intent operators and data.
 
@@ -50,7 +50,7 @@ Intent operators are any functions provided for intent data. Typical ones includ
 
 With the above design, intent extensibility is easily achieved.
 
-**Matching efficiency**
+**Matching Efficiency**
 
 Matching problem is a notoriously difficult problem to solve, by matching preferences of two sets of entities - users and solvers in this case. To be more precise, it is to match intent goals with solver solutions. There are several considerations to optimize efficiency.
 
@@ -62,7 +62,7 @@ Dispatchers reduce network cost with structured design, though flooding is the m
 
 Now, the network is scalable with the growth of intent types, solvers, and dispatchers.
 
-**Double dispatching**\
+**Double Dispatching**\
 Double dispatching happens when two or more solvers execute the same intent. Obviously, dispatchers are not doing a good job if this happens. It is catastrophic like double spending in Bitcoin.
 
 To start, each intent mainly has 5 states - a) SENT, b) VERIFIED, c) ALLOCATED, d) SOLVED, and e) INVALID. Users mark intents as SENT before publishing them to the network. It is marked by network nodes as VERIFIED after calling the verify function which returns success. INVALID is used to mark it as intents not being able to be processed by the network. SOLVED is the state to mark intents as being solved already, after being ALLOCATED to solvers.
