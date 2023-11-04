@@ -4,6 +4,7 @@
 * [Marketplace Applications](marketplace-applications.md)
 * [Values](<README (1).md>)
 * [Tokenomics](tokenomics.md)
+* [Roadmap](roadmap.md)
 
 ## 📖 Practical Intents
 
@@ -11,7 +12,6 @@
 * [Natural Language Intents](practical-intents/natural-language-intents.md)
 * [Intent Matching and Dispatching](practical-intents/intent-matching-and-dispatching.md)
 * [Intent Verification and Security](practical-intents/intent-verification-and-security.md)
-* [Intent Roadmap](practical-intents/intent-roadmap.md)
 
 ## 🧀 Intent Digest
 
