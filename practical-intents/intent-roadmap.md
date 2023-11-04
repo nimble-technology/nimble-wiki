@@ -2,11 +2,11 @@
 description: The path to the everything intent marketplace
 ---
 
-# Roadmap
+# Intent Roadmap
 
 <div data-full-width="false">
 
-<figure><img src=".gitbook/assets/roadmap.png" alt=""><figcaption><p>Launch the network first and then build for the community</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/roadmap.png" alt=""><figcaption><p>Launch the network first and then build for the community</p></figcaption></figure>
 
 </div>
 
