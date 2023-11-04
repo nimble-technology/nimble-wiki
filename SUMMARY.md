@@ -20,3 +20,8 @@
 
 * [Key Innovations](6-innovations-make-nimble-the-first-everything-marketplace-infrastructure.md)
 * [Whitepaper](practical-intents/whitepaper.md)
+
+## 🥂 Social Links
+
+* [Twitter](https://twitter.com/Nimble\_Network)
+* [Discord](https://discord.gg/P8UhBKqAse)
