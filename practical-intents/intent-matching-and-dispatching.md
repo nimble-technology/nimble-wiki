@@ -6,7 +6,7 @@ description: Matching structured intent DSLs with solvers
 
 In the intent-centric world, the efficient handling of information requests across distributed networks has become imperative. With the Nimble intent protocol, we introduce a cutting-edge Peer-to-Peer (P2P) network that seamlessly integrates a DSL query language for efficient and precise request processing and dispatching across nodes.
 
-### Recap
+## Recap
 
 Before diving deep into dispatching details, it is easier to do a quick recap of the entire intent execution flow. The following diagram shows the high-level architecture.
 
@@ -36,7 +36,7 @@ Upon receiving a natural language request, our advanced AI layer interprets and 
 
 After intent requests get recognized, and a solved understandable intent data will be generated, and broadcasted to each peer node, and temporarily stored in a mem pool on each node. Once an intent gets picked up and handled, it will be removed from the mem pool.
 
-### Efficient dispatching
+## Efficient Dispatching
 
 Dispatching takes place after the intent action recognition layer recognizes the intent requests, each node will autonomously determine the most appropriate path to fulfill the request, it sends different types of requests to different intent mempools accordingly.&#x20;
 
