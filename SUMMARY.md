@@ -1,13 +1,13 @@
 # Table of contents
 
 * [A Vision for a Marketplace of Intents](README.md)
-* [Marketplace Applications](marketplace-applications.md)
 * [Values](<README (1).md>)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
 
 ## 📖 Practical Intents
 
+* [Marketplace Applications](practical-intents/marketplace-applications.md)
 * [Protocol Introduction](practical-intents/protocol-introduction.md)
 * [Natural Language Intents](practical-intents/natural-language-intents.md)
 * [Intent Matching and Dispatching](practical-intents/intent-matching-and-dispatching.md)
