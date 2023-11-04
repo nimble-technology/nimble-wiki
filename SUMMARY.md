@@ -11,8 +11,5 @@
 ## 📖 Practical Intents
 
 * [Natural Language Intents](practical-intents/natural-language-intents.md)
-
-***
-
-* [Intent Matching and Dispatching](intent-matching-and-dispatching.md)
-* [Intent Verification and Security](intent-verification-and-security.md)
+* [Intent Matching and Dispatching](practical-intents/intent-matching-and-dispatching.md)
+* [Intent Verification and Security](practical-intents/intent-verification-and-security.md)
