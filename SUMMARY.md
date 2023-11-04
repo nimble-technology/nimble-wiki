@@ -1,13 +1,13 @@
 # Table of contents
 
 * [A Vision for a Marketplace of Intents](README.md)
-* [Values](<README (1).md>)
-* [Tokenomics](tokenomics.md)
-* [Roadmap](roadmap.md)
 
 ## 🎯 Intent Solicitation
 
-* [Marketplace Applications](intent-solicitation/marketplace-applications.md)
+* [Values](intent-solicitation/values.md)
+* [Marketplace Applications](marketplace-applications.md)
+* [Tokenomics](intent-solicitation/tokenomics.md)
+* [Roadmap](intent-solicitation/roadmap.md)
 
 ## 📖 Practical Intents
 

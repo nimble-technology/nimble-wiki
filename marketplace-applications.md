@@ -24,7 +24,7 @@ Intents lets users specify the outcome they are willing to accept instead of com
 
 Abstractions are not magic.
 
-<figure><img src="../.gitbook/assets/impossible-intent-swap.png" alt=""><figcaption><p>Would you take this trade?</p></figcaption></figure>
+<figure><img src=".gitbook/assets/impossible-intent-swap.png" alt=""><figcaption><p>Would you take this trade?</p></figcaption></figure>
 
 For new users, this creates a problem. By directly exposing an interface to a user that allows for desired outcomes to be specified and fulfilled, wishful thinking emerges.
 
@@ -46,7 +46,7 @@ In our view, raw intents should not be exposed to end-users.
 
 Instead, consider a developer’s experience building an intent-driven token swap into their wallet application.
 
-<figure><img src="../.gitbook/assets/intent-swap-ui.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/intent-swap-ui.png" alt=""><figcaption></figcaption></figure>
 
 The developer understands that when users want to perform a basic swap, they have three pieces of information freely available.
 
@@ -75,7 +75,7 @@ Or, as Steve Ballmer at Microsoft would say:&#x20;
 
 Solvers power the Nimble ecosystem by providing possible solutions satisfying user’s desired outcomes.
 
-<figure><img src="../.gitbook/assets/solver-architecture.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/solver-architecture.png" alt=""><figcaption></figcaption></figure>
 
 When an application submits an intent on behalf of a user, Nimble interprets the text and breaks the entire intent into a set of discrete Intent Operations. The protocol runs auctions for each Intent Operations and a composite auction for compound operations. In this simple example, only the swap auction is used.
 
