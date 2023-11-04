@@ -4,8 +4,8 @@
 
 ## 🎯 Intent Solicitation
 
-* [Values](intent-solicitation/values.md)
 * [Marketplace Applications](marketplace-applications.md)
+* [Values](intent-solicitation/values.md)
 * [Tokenomics](intent-solicitation/tokenomics.md)
 * [Roadmap](intent-solicitation/roadmap.md)
 
