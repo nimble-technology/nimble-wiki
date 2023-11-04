@@ -9,7 +9,7 @@
 * [Tokenomics](intent-solicitation/tokenomics.md)
 * [Roadmap](intent-solicitation/roadmap.md)
 
-## 📖 Practical Intents
+## 🚅 Practical Intents
 
 * [Protocol Introduction](practical-intents/protocol-introduction.md)
 * [Natural Language Intents](practical-intents/natural-language-intents.md)
@@ -20,9 +20,9 @@
 
 * [Key Innovations](6-innovations-make-nimble-the-first-everything-marketplace-infrastructure.md)
 * [Whitepaper](practical-intents/whitepaper.md)
-* [Github](https://github.com/nimble-technology)
 
-## 🥂 Social Time
+## 🥂 Intent Resources
 
 * [Twitter](https://twitter.com/Nimble\_Network)
 * [Discord](https://discord.gg/P8UhBKqAse)
+* [Github](https://github.com/nimble-technology)
