@@ -14,4 +14,5 @@
 
 ***
 
+* [Intent Matching and Dispatching](intent-matching-and-dispatching.md)
 * [Intent Verification and Security](intent-verification-and-security.md)
