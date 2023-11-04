@@ -50,7 +50,7 @@ Return to the earlier example where we funded a Friend.tech wallet using ETH. Wi
 
 The protocol interprets the user’s intent and then converts it into a set of transactions on the blockchain. Transactions are executed on the user’s behalf, achieving their desired outcome without needing them to understand the technical details.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-10-17 at 10.29.20 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-17 at 10.29.20 AM.png" alt=""><figcaption></figcaption></figure>
 
 #### Intents versus Transactions
 
@@ -72,7 +72,7 @@ Your partner gets the right cake in each case, but picking it up from the bakery
 
 #### How it works
 
-<figure><img src=".gitbook/assets/Screenshot 2023-10-17 at 10.30.10 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-17 at 10.30.10 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Our intent protocol accepts intents and translates them into valid computational steps. If the Intent involves a trade, the protocol must also find a counterparty willing to take the trade.
 
