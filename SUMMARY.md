@@ -7,6 +7,7 @@
 * [Values](<README (1).md>)
 * [Whitepaper](whitepaper.md)
 * [Tokenomics](tokenomics.md)
+* [Roadmap](roadmap.md)
 
 ## 📖 Practical Intents
 
