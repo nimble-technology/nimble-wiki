@@ -1,8 +1,8 @@
 ---
-description: The path to the everything intent marketplace
+description: The path to everything marketplace infrastructure
 ---
 
-# Intent Roadmap
+# Roadmap
 
 <div data-full-width="false">
 
