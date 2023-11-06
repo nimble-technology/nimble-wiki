@@ -30,5 +30,5 @@ _In the same way that Google made the world’s data accessible to all, Nimble a
 
 ## Color Palette
 
-<figure><img src="../.gitbook/assets/nimble-color-palette (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 33 (2).png" alt=""><figcaption></figcaption></figure>
 
