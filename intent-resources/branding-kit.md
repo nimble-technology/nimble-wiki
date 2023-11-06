@@ -4,7 +4,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/nimble-icon-standard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nimble-icon-standard.png" alt="" width="302"><figcaption></figcaption></figure>
 
 
 
