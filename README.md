@@ -6,13 +6,11 @@ description: Nimble is building the first-ever marketplace for intents.
 
 ## Abstract
 
-_The internet has revolutionized almost every aspect of the modern world. Data from billions of devices, people, and systems is exchanged every day._
+_The internet is the most powerful connective force in history. Billions of people across the globe communicate and transact in real time._
 
-_Web3 promised to facilitate the transfer of not just data, but value, between these digital entities. Trusted intermediaries were to be replaced with trustless, decentralized systems._&#x20;
+_Despite the near-zero marginal cost of online interaction, digital citizens must pay outsized fees to rent-collecting platform middlemen._
 
-_In practice, Web3 failed to live up to this promise. Even basic operations are complex and opaque. Centralized tools exist to simplify interactions, but negate the system’s original purpose entirely._
-
-_Nimble aims to unlock the utility of Web3 by building the first marketplace for intents. Our protocol will provide an open and inclusive market for participants to compete to optimize outcomes instead of maximizing extracted value._
+_Nimble is eliminating the boundary between the mainstream and decentralized web. Our intent-powered marketplace will provide a neutral accessibility layer to enable seamless access to decentralized services. A competitive ecosystem of sovereign infrastructure providers and end users replaces centralized platforms._
 
 _In the same way that Google made the world’s data accessible to all, Nimble aims to democratize the exchange of value._
 
