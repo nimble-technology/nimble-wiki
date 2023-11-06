@@ -49,6 +49,14 @@ Solvers join auctions for individual intent operations they are capable of fulfi
 
 In this way, Nimble intents are both concrete and deterministic without losing any functionality.
 
+#### **LLM-sourced intents**
+
+While most intents will enter the network via developer-sourced components like buttons/widgets, etc, some may enter via our LLM.&#x20;
+
+LLM hallucinations are a known issue, and non-deterministic behavior cannot be allowed in financial systems.
+
+To avoid issues with LLMs, we introduce an intermediate step between user input and intent submission. In this step, the output of the LLM is presented to the user prior to submission. The user verifies that the LLM has properly captured the desired outcome. Only after confirmation is the intent submitted to the network.
+
 #### Extensibility
 
 Intent operations are composable and extensible. At the time of network launch, we will support the operations needed to hide the complexity of the most common use cases. These include any combination of swaps, transfers, and bridges.
