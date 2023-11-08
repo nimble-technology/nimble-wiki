@@ -1,5 +1,5 @@
 ---
-description: Training our LLM to generate intents from natural language
+description: Training our LAM to generate intents from natural language
 ---
 
 # Natural Language Intents
@@ -28,27 +28,27 @@ To ensure intents can be fulfilled, certain data must be available. To transfer 
 
 The intent ingestion layer must gather these data before submitting intents to the network.
 
-### Intents by LLM
+### Intents by LAM
 
-In this article, we detail how we trained a publicly available Large Language Model (LLM) to process swap intents as plain language and generate intent DSL.
+In this article, we detail how we trained a publicly available Large Action Model (LAM) to process swap intents as plain language and generate intent DSL. LAM differentiates from LLM by guiding users with followup questions and translating intents into specific on-chain and off-chain operations.
 
 #### The Architecture
 
-The output of this LLM can be processed deterministically by the intent network without exposing blockchain internals to users.
+The output of this LAM can be processed deterministically by the intent network without exposing blockchain internals to users.
 
-<figure><img src="https://lh7-us.googleusercontent.com/jlo8O2w4NvvEw2H7jnf0-4eURryncE01eGsCI9jY9GWYGN5mpQMTU7ugpPj1vqFAJX6ZVmMZ9IyuXccv83Ka4h5o3kbLI4ZP9V2qsQhBm2fMgX7gbEfSM0JgOtT6oQYmzBzOx7VaeatIF3yElj8TaQs" alt=""><figcaption><p>Architecture for fine-tuning of the open-source LLM. The model comes pre-trained, but must be fine-tuned to respond to intent operations and generate meaningful output.</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/jlo8O2w4NvvEw2H7jnf0-4eURryncE01eGsCI9jY9GWYGN5mpQMTU7ugpPj1vqFAJX6ZVmMZ9IyuXccv83Ka4h5o3kbLI4ZP9V2qsQhBm2fMgX7gbEfSM0JgOtT6oQYmzBzOx7VaeatIF3yElj8TaQs" alt=""><figcaption><p>Architecture for fine-tuning of the open-source LAM. The model comes pre-trained, but must be fine-tuned to respond to intent operations and generate meaningful output.</p></figcaption></figure>
 
 For our swap intent understanding model, we used a large language model’s transformer architecture. The model is based on a self-attention mechanism that focuses on different parts of the input query, enabling it to capture dependencies in the sentence. This enables the model to understand the context and meaning of words better and generate more accurate and coherent responses.
 
-In the LLM transformer model, the transformer model is scaled up and trained on large amounts of textual data. It has a vast number of parameters, allowing it to capture a broader range of language patterns. However, this model must still be fine-tuned for tasks such as token swap understanding.
+In the LAM transformer model, the transformer model is scaled up and trained on large amounts of textual data. It has a vast number of parameters, allowing it to capture a broader range of language patterns. However, this model must still be fine-tuned for tasks such as token swap understanding.
 
-#### Tailored LLM
+#### Tailored LAM
 
-Fine-tuning is a technique to train LLM models to improve their language processing abilities. Fine-tuning involves taking a pre-trained language model and further training it on a specifically crafted dataset.
+Fine-tuning is a technique to train LAM models to improve their language processing abilities. Fine-tuning involves taking a pre-trained language model and further training it on a specifically crafted dataset.
 
 During the fine-tuning process, only some layers of the model's parameters are adjusted based on the specific dataset and task. The pre-trained model serves as a foundation of natural language understanding by fixing the bottom layers of parameters. By training on a specific dataset, the model gains a deeper understanding of the domain and becomes more accurate and effective in performing the desired language-related task. We fine-tune the model for the chatbot interface for query understanding.
 
-<figure><img src="https://lh7-us.googleusercontent.com/-U7Ik-rBJeHUcT7Iw0mJzmrTkBgkiCJJRfzH0YJ_62i1r87FQNrHoklwuCgHMQ4i9bFkFKSW9EbxUOD4p3vEHY0-oVvssAk8Wx8ZzMxUALdjGoShK9V_Ck6B3H3P-qsn1wfCQ8BcMBAJJXYagBmBZ8s" alt=""><figcaption><p>Sample JSON training data. With such training data, LLMs can easily learn patterns of common intents. The input queries of the model are natural language. The outputs of the LLMs are JSON-formatted intent DSLs.</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/-U7Ik-rBJeHUcT7Iw0mJzmrTkBgkiCJJRfzH0YJ_62i1r87FQNrHoklwuCgHMQ4i9bFkFKSW9EbxUOD4p3vEHY0-oVvssAk8Wx8ZzMxUALdjGoShK9V_Ck6B3H3P-qsn1wfCQ8BcMBAJJXYagBmBZ8s" alt=""><figcaption><p>Sample JSON training data. With such training data, LAMs can easily learn patterns of common intents. The input queries of the model are natural language. The outputs of the LAMs are JSON-formatted intent DSLs.</p></figcaption></figure>
 
 The model is capable of processing intents in the following manner:
 
@@ -59,9 +59,9 @@ The model is capable of processing intents in the following manner:
 
 #### Intent Interactions
 
-Example user interactions to illustrate the power of the LLM intent action recognition model and how the model guides users for optimal Web3 UX:
+Example user interactions to illustrate the power of the LAM intent action recognition model and how the model guides users for optimal Web3 UX:
 
-<figure><img src="https://lh7-us.googleusercontent.com/Qkm3Hv45uQag08t_OmEKDRAVnBFDSpTX_WXs4lIoxpMECIHLY-E__-BVKG9vRRneNtpvuFcV-44uxunvYqhuoiCKFMAa1BokR_Ag2hDESB_Dd7g55ZhhZ9i3UrOxu7T0Bs0kjDuvKgq01L4nX-qDqlc" alt=""><figcaption><p>Additional supported plain-language interactions with the LLM</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/Qkm3Hv45uQag08t_OmEKDRAVnBFDSpTX_WXs4lIoxpMECIHLY-E__-BVKG9vRRneNtpvuFcV-44uxunvYqhuoiCKFMAa1BokR_Ag2hDESB_Dd7g55ZhhZ9i3UrOxu7T0Bs0kjDuvKgq01L4nX-qDqlc" alt=""><figcaption><p>Additional supported plain-language interactions with the LAM</p></figcaption></figure>
 
 ### Extended Functionality
 
