@@ -10,14 +10,6 @@ In the intent-centric world, the efficient handling of information requests acro
 
 Before diving deep into dispatching details, it is easier to do a quick recap of key elements of the protocol.
 
-#### **Intent Query Language**
-
-The network receives intents articulated in a custom DSL. This language is tailored for defining complex data requests and interactions within the network, allowing users to specify exactly what they are looking for in a succinct and expressive manner. A simple example of making multiple transfers to different accounts.
-
-<figure><img src="https://lh7-us.googleusercontent.com/lUpeFlHy2bQXKIddr3K0kizDpjniexcz5FMdw7ul64OWzAZOKq1IvcmnzoApaz33FzG57xiXFd2CDOM_RKoJ0wnPu-wilc3Tiq2gPvG9tEDmXk4NZ5AWYVa31o_a7EIbbFvWB4jEy-VonhN9-GwM5yM" alt=""><figcaption><p>Intent DSL Query</p></figcaption></figure>
-
-The network also accepts queries made in natural human language, making it accessible to a wider audience, and our AI layer on each node will figure out what the requests are.
-
 **Message Syncing**
 
 When a node receives the intent message, it will recognize it through the AI-powered intent action recognizer on the node, and broadcast the processed message to all the peers in the network. Nimble network uses PubSub model to transmit messages across the network, in that way, it is more efficient as messages are only sent to interested subscribers, thereby reducing redundancy and network load.
@@ -25,6 +17,14 @@ When a node receives the intent message, it will recognize it through the AI-pow
 **LLM Intent Recognition**
 
 Upon receiving a natural language request, our advanced LLM interprets and analyzes the query to extract the user's intent and required data points. The LLM then constructs structured data from the natural language input, converting it into a format akin to a DSL query for further processing. It will eventually transform into a solver understandable intent format, and broadcast to all the peer nodes.
+
+#### **Intent Query Language**
+
+The network receives intents articulated in a custom DSL. This language is tailored for defining complex data requests and interactions within the network, allowing users to specify exactly what they are looking for in a succinct and expressive manner. A simple example of making multiple transfers to different accounts.
+
+<figure><img src="https://lh7-us.googleusercontent.com/lUpeFlHy2bQXKIddr3K0kizDpjniexcz5FMdw7ul64OWzAZOKq1IvcmnzoApaz33FzG57xiXFd2CDOM_RKoJ0wnPu-wilc3Tiq2gPvG9tEDmXk4NZ5AWYVa31o_a7EIbbFvWB4jEy-VonhN9-GwM5yM" alt=""><figcaption><p>Intent DSL Query</p></figcaption></figure>
+
+The network also accepts queries made in natural human language, making it accessible to a wider audience, and our AI layer on each node will figure out what the requests are.
 
 **Intent Mempool**
 
