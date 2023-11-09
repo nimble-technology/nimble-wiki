@@ -4,6 +4,8 @@ description: Nimble is building the first-ever marketplace for intents.
 
 # A Vision for a Marketplace of Intents
 
+{% embed url="https://www.youtube.com/watch?ab_channel=NimbleNetwork&v=8lyVuAq3J1I" %}
+
 ## Abstract
 
 _The internet is the most powerful connective force in history. Billions of people across the globe communicate and transact in real time._
