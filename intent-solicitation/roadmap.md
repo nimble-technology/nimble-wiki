@@ -4,11 +4,7 @@ description: The path to everything marketplace infrastructure
 
 # Roadmap
 
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/roadmap.png" alt=""><figcaption><p>Launch the network first and then build for the community</p></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/Frame 53.png" alt=""><figcaption><p>Launch the network first and then build for the community</p></figcaption></figure>
 
 The above roadmap may just mean nothing to you - another boring and typical network launch timeline. You are correct. The team will build with it as a reference, but more importantly we take an _ecosystem first_ approach. Users, solvers and community members are the core of the Nimble ecosystem.
 
