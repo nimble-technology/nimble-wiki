@@ -49,7 +49,7 @@ Solvers join auctions for individual intent operations they are capable of fulfi
 
 In this way, Nimble intents are both concrete and deterministic without losing any functionality.
 
-#### **LLM-sourced intents**
+#### **LLM-sourced Intents**
 
 While most intents will enter the network via developer-sourced components like buttons/widgets, etc, some may enter via our LLM.&#x20;
 
