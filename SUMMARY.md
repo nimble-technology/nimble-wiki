@@ -11,7 +11,7 @@
 
 ## ⚙ SDK
 
-* [Testnet Overview](sdk/testnet-overview.md)
+* [Testnet Overview](sdk/testnet-announcement.md)
 * [Quickstart](sdk/quickstart.md)
 
 ## 🚅 Practical Intents

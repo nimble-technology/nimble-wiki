@@ -2,7 +2,7 @@
 description: Let's get intentional
 ---
 
-# Testnet Announcement
+# Testnet Overview
 
 Today, we’re excited to announce the launch of the Nimble intent protocol on [Goerli testnet](https://goerli.etherscan.io/address/0x0C414bA7B5805c2e21Df1fc8507815eebfD5d6fB).
 
