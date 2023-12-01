@@ -8,6 +8,8 @@ Today, we’re excited to announce the launch of the Nimble intent protocol on [
 
 At launch, this SDK includes support for swap and transfer intents. This small launch marks the first step towards creating the marketplace of intents in pursuit of our mission of decentralizing Silicon Valley.
 
+To jump straight in and start coding, check out the [quick start guide](https://docs.nimble.technology/sdk/quickstart).
+
 Today’s tech monopolies extract revenue from our online lives. They profit from mediating our exchanges with one another. By enabling seamless, direct transfer of value between community participants, swap and transfer intents will serve as the foundation for the marketplace of intents.
 
 But this is only the beginning. In the coming weeks, incremental launches will bring this vision into clear view.
