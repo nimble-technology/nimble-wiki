@@ -9,10 +9,10 @@
 * [Tokenomics](intent-solicitation/tokenomics.md)
 * [Roadmap](intent-solicitation/roadmap.md)
 
-## ⚙ SDK
+## ⚙ Developer SDK
 
-* [Testnet Overview](sdk/testnet-announcement.md)
-* [Quickstart](sdk/quickstart.md)
+* [Testnet Overview](developer-sdk/testnet-overview.md)
+* [Quickstart](developer-sdk/quickstart.md)
 
 ## 🚅 Practical Intents
 
