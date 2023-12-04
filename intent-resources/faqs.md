@@ -85,7 +85,15 @@ For more updated info, please join our [Discord](https://discord.gg/9VgEwsA7xJ).
 
 Join our [Discord](https://discord.gg/9VgEwsA7xJ) and start contributing first. Then, you will naturally have opportunities to become community managers or moderators.
 
+12. What is the GTM strategy?
 
+Nimble builds the social and large action model first to jumpstart the network. This is followed by the infrastructure ecosystem building. The [roadmap](https://docs.nimble.technology/intent-solicitation/roadmap) has more detailed info on how to achieve this.
+
+13. What is the network token utility and revenue model for the token?
+
+Token appreciations come from infrastructure intent fees, intent bids quoted by network token, and solver staking.
+
+#### More Questions?
 
 If you have more questions, please join Nimble [Discord](https://discord.gg/9VgEwsA7xJ) and ask there. Then, your questions will be consolidated into this doc for the general community's benefits.
 
