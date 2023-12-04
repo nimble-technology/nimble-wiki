@@ -34,16 +34,16 @@ Additional topics may be added in the future, with approval by the DAO.
 
 | Category       | Locked  | Unlocked | Total   |
 | -------------- | ------- | -------- | ------- |
-| Ecosystem      | 47      | 3        | 50      |
+| Ecosystem      | 27      | 3        | 50      |
 | Solver Rewards | 18      | 2        | 20      |
 | Community      | 0       | 10       | 10      |
-| Development    | 10      | 0        | 10      |
-| Private Sales  | 10      | 0        | 10      |
+| Development    | 20      | 0        | 10      |
+| Private Sales  | 20      | 0        | 10      |
 | **Total**      | **85%** | **15%**  | **100** |
 
 ### Ecosystem
 
-**50%, or 500,000,000 NIMBLE**
+**30%, or 300,000,000 NIMBLE**
 
 This reward allocation is reserved for those who contribute to the Nimble Network. Contributions may come from a variety of sources.
 
@@ -55,7 +55,7 @@ This reward allocation is reserved for those who contribute to the Nimble Networ
 
 With this allocation, we hope to provide incentives and funding for projects to develop functionality with Nimble. Development may include ecosystem tools, educational events, or other action that increases awareness of Nimble.
 
-3% of the ecosystem NIMBLE allocation is unlocked and can be distributed to this community immediately. The remaining 47% (470M) tokens will be distributed following our vesting schedule.
+3% of the ecosystem NIMBLE allocation is unlocked and can be distributed to this community immediately. The remaining 27% (270M) tokens will be distributed following our vesting schedule.
 
 ### Solver Rewards
 
@@ -81,7 +81,7 @@ Since this allocation is required for the immediate use of the network, it is un
 
 ### Development
 
-**10%, or 100,000,000 NIMBLE**
+**20%, or 200,000,000 NIMBLE**
 
 The development allocation will be provided to projects or individuals that contribute to core components of the Nimble Network stack. Contributors to the core auction, interpretation stack, or dispatching layer may earn a stake of this allocation.
 
@@ -89,7 +89,7 @@ The development allocation will be provided to projects or individuals that cont
 
 ### Private Sales
 
-**10%, or 100,000,000 NIMBLE**
+**20%, or 200,000,000 NIMBLE**
 
 This allocation is reserved for early funding of the network development, as required by the core team. As of now, these tokens are unallocated.
 
