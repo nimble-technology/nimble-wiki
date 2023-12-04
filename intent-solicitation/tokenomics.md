@@ -24,11 +24,11 @@ Additional topics may be added in the future, with approval by the DAO.
 
 ### Distribution of Tokens
 
-| Symbol         | NIMBLE                                                                                        |
-| -------------- | --------------------------------------------------------------------------------------------- |
-| Supply         | 1,000,000,000                                                                                 |
-| Initial Supply | 150,000,000 (15%)                                                                             |
-| Vesting        | 85% of NIMBLE are initially locked. Tokens are unlocked 6, 18, 30, and 42 months after launch |
+| Symbol         | NIMBLE                                                                                                              |
+| -------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Supply         | 1,000,000,000                                                                                                       |
+| Initial Supply | 150,000,000 (15%)                                                                                                   |
+| Vesting        | 85% of NIMBLE are initially locked. Tokens are unlocked 6, 18, 30, and 42 months after token generation event (TGE) |
 
 ### Distribution Table
 
@@ -85,7 +85,7 @@ Since this allocation is required for the immediate use of the network, it is un
 
 The development allocation will be provided to projects or individuals that contribute to core components of the Nimble Network stack. Contributors to the core auction, interpretation stack, or dispatching layer may earn a stake of this allocation.
 
-0% of development NIMBLE allocation is unlocked and can be distributed to developers immediately upon launch of the network. The remaining 10% will be distributed following our vesting schedule.
+0% of development NIMBLE allocation is unlocked and can be distributed to developers immediately upon TGE of the network. The remaining 10% will be distributed following our vesting schedule.
 
 ### Private Sales
 
@@ -93,7 +93,7 @@ The development allocation will be provided to projects or individuals that cont
 
 This allocation is reserved for early funding of the network development, as required by the core team. As of now, these tokens are unallocated.
 
-0% of private sales NIMBLE allocation is unlocked and can be distributed to private investors immediately upon launch of the network. Once allocated, tokens from the private sale will be subject to the vesting schedule.
+0% of private sales NIMBLE allocation is unlocked and can be distributed to private investors immediately upon TGE of the network. Once allocated, tokens from the private sale will be subject to the vesting schedule.
 
 ### Conclusions
 
