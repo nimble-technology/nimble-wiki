@@ -75,7 +75,7 @@ Upon unlocking, tokens will be made available for distribution to solvers.
 
 The community allocation of NIMBLE is reserved for launch-related purposes.&#x20;
 
-This includes launch events, marketing, and other events that will drive interest in the protocol.
+This includes launch events, marketing, exchange listing, launchpad, and other events that will drive interest in the protocol.
 
 Since this allocation is required for the immediate use of the network, it is unlocked immediately.
 
