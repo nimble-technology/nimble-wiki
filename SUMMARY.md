@@ -32,3 +32,4 @@
 * [Discord](https://discord.gg/P8UhBKqAse)
 * [Github](https://github.com/nimble-technology)
 * [Branding kit](intent-resources/branding-kit.md)
+* [FAQs](intent-resources/faqs.md)
