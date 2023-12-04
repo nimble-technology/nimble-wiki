@@ -1,5 +1,7 @@
 # FAQs
 
+#### Frequently Asked Questions:
+
 1. What is the project vision?
 
 Nimble is _**decentralizing Silicon Valley**_ with the intent marketplace infrastructure design.
