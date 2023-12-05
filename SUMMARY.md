@@ -20,6 +20,7 @@
 * [Natural Language Intents](practical-intents/natural-language-intents.md)
 * [Intent Matching and Dispatching](practical-intents/intent-matching-and-dispatching.md)
 * [Intent Verification and Security](practical-intents/intent-verification-and-security.md)
+* [Community Growth Strategy](practical-intents/community-growth-strategy.md)
 
 ## 🧀 Intent Digest
 
