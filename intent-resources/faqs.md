@@ -89,7 +89,7 @@ Join our [Discord](https://discord.gg/9VgEwsA7xJ) and start contributing first. 
 
 12. What is the GTM strategy?
 
-Nimble builds the social and large action model first to jumpstart the network. This is followed by the infrastructure ecosystem building. The [roadmap](https://docs.nimble.technology/intent-solicitation/roadmap) has more detailed info on how to achieve this.
+Nimble builds the social and large action model first to jumpstart the network. This is followed by the infrastructure ecosystem building. The [roadmap](https://docs.nimble.technology/intent-solicitation/roadmap) and [community growth strategy](https://docs.nimble.technology/practical-intents/community-growth-strategy) docs have more detailed info on how to achieve this.
 
 13. What is the network token utility and revenue model for the token?
 
