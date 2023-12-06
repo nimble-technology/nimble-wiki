@@ -16,6 +16,10 @@ npm i nimble-intents-sdk
 yarn add nimble-intents-sdk
 ```
 
+**Important note**
+
+Make sure you are using nimble-intents-sdk@0.2.0 rather than 0.3.0.
+
 ### Usage
 
 This example demonstrates how to create an intent and submit it to our API server
