@@ -127,7 +127,7 @@ const provider = new ethers.JsonRpcProvider(RPC_URL);
                 token: USDC,
                 account: anthony,
                 compare: 3, // 0: <, 1: <=, 2: >, 3: >=, 4: ==, 5: !=
-                deltaAmount: anthonyReceiveAmount,
+                deltaAmount: 0, // 0 for testnet, as the price is not correct
             }
         ]
     };
