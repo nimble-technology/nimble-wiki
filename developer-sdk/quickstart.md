@@ -9,11 +9,11 @@ description: Get started with intents
 Install with npm or yarn&#x20;
 
 ```
-npm i nimble-intents-sdk
+npm i nimble-intents-sdk@0.2.0
 ```
 
 ```
-yarn add nimble-intents-sdk
+yarn add nimble-intents-sdk@0.2.0
 ```
 
 **Important note**
