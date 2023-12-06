@@ -30,8 +30,8 @@ const provider = new ethers.JsonRpcProvider(RPC_URL);
     const anthony = '0xa0Ee7A142d267C1f36714E4a8F75612F20a79720';
 
 
-    const DAI: GeneralAssetStruct = { assetType: 1, assetAddress: "0x6b175474e89094c44da98b954eedeac495271d0f", assetId: 0 };
-    const USDC: GeneralAssetStruct = { assetType: 1, assetAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48', assetId: 0 };
+    const DAI: GeneralAssetStruct = { assetType: 1, assetAddress: "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844", assetId: 0 };
+    const USDC: GeneralAssetStruct = { assetType: 1, assetAddress: '0x07865c6E87B9F70255377e024ace6630C1Eaa37F', assetId: 0 };
 
 
     const releaseAmount = ethers.parseUnits("101", 18);
@@ -83,7 +83,7 @@ const provider = new ethers.JsonRpcProvider(RPC_URL);
         deltas: [
             {
                 token: DAI,
-                account: alice,
+                account: alice.address,
                 compare: 3, // 0: <, 1: <=, 2: >, 3: >=, 4: ==, 5: !=
                 deltaAmount: releaseAmount * -1n,
             },
@@ -97,7 +97,7 @@ const provider = new ethers.JsonRpcProvider(RPC_URL);
               token: USDC,
               account: anthony,
               compare: 4, // 0: <, 1: <=, 2: >, 3: >=, 4: ==, 5: !=
-              deltaAmount: anthonyReceiveAmount,
+              deltaAmount: 0, // 0 for testnet, as the price is not correct
             }
         ]
     };
@@ -109,7 +109,7 @@ const provider = new ethers.JsonRpcProvider(RPC_URL);
         deltas: [
             {
                 token: DAI,
-                account: alice,
+                account: alice.address,
                 compare: 4, // 0: <, 1: <=, 2: >, 3: >=, 4: ==, 5: !=
                 deltaAmount: releaseAmount * -1n,
             },
