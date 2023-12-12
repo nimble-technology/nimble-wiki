@@ -20,7 +20,7 @@
 * [Natural Language Intents](practical-intents/natural-language-intents.md)
 * [Intent Matching and Dispatching](practical-intents/intent-matching-and-dispatching.md)
 * [Intent Verification and Security](practical-intents/intent-verification-and-security.md)
-* [Nimbus - Social Intents](practical-intents/nimbus-social-intents.md)
+* [Nimbus - Social Intents](practical-intents/community-growth-strategy.md)
 
 ## 🧀 Intent Digest
 

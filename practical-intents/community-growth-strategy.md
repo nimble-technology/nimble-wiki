@@ -1,5 +1,5 @@
 ---
-description: Kickstarting growth with social intents
+description: The go-to-market strategy to kickstart the community and network.
 ---
 
 # Nimbus - Social Intents
@@ -8,7 +8,7 @@ Nimble aims to build the Marketplace of Intents. A marketplace provides a neutra
 
 This document outlines how we will kickstart the growth of the Nimble Intent Network, while enabling use cases in e-commerce, crowdfunding, cultural groups, and more.
 
-{% embed url="https://youtu.be/iQvxdWtePjM" %}
+{% embed url="https://www.youtube.com/watch?v=7D6kM8-8TV4" %}
 Nimbus Introduction
 {% endembed %}
 
