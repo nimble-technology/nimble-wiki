@@ -8,6 +8,10 @@ Nimble aims to build the Marketplace of Intents. A marketplace provides a neutra
 
 This document outlines how we will kickstart the growth of the Nimble Intent Network, while enabling use cases in e-commerce, crowdfunding, cultural groups, and more.
 
+{% embed url="https://youtu.be/iQvxdWtePjM" %}
+Nimbus Introduction
+{% endembed %}
+
 ## Community in Web3
 
 We believe the best path to growth begins by partnering with Web3’s existing communities.
