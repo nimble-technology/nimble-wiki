@@ -1,8 +1,8 @@
 ---
-description: The go-to-market strategy to kickstart the community and network.
+description: Kickstarting growth with social intents
 ---
 
-# Community Growth Strategy
+# Nimbus - Social Intents
 
 Nimble aims to build the Marketplace of Intents. A marketplace provides a neutral forum for buyers and sellers to exchange value, but the marketplace itself is merely infrastructure - it’s the participants that bring the place to life.
 
