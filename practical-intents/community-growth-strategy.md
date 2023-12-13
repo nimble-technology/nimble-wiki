@@ -1,5 +1,5 @@
 ---
-description: The go-to-market strategy to kickstart the community and network.
+description: Building the first social intent infrastructure
 ---
 
 # Nimbus - Social Intents
