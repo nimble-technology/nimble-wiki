@@ -89,7 +89,7 @@ We will open-source the community application once social intent operations are 
 
 ## Incentive Plan
 
-<figure><img src="https://lh7-us.googleusercontent.com/AxLdceqIpfaCKTXq3fGMUCmbTt1kB42wb7khlOI8cUc9BWB9TTqsy3H6fHgtCTpU8KlcAoQaGaTax_NzZNtb5PXmBPWsQJOjUNoFUwkK9pImGxbHDiaFW2XHd6XPNeMddx9705jxAXGzupVfb8hJgNY" alt=""><figcaption><p>Incentives are provided to kickstart the network community and intent demands.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Incentives are provided to kickstart community and intent demand</p></figcaption></figure>
 
 ### Rewards
 

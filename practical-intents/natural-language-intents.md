@@ -12,7 +12,7 @@ Complexity doesn’t go away - it’s just moved elsewhere in the stack. When de
 
 Developers and users, then, need an interface to interact with the intent layer. We are carefully thinking about how to best expose intents to users.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Chat based interface for Web3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Chat based interface for Web3</p></figcaption></figure>
 
 Any good solution will have the following properties:
 
@@ -50,7 +50,7 @@ Fine-tuning is a technique to train LAM models to improve their language process
 
 During the fine-tuning process, only some layers of the model's parameters are adjusted based on the specific dataset and task. The pre-trained model serves as a foundation of natural language understanding by fixing the bottom layers of parameters. By training on a specific dataset, the model gains a deeper understanding of the domain and becomes more accurate and effective in performing the desired language-related task. We fine-tune the model for the chatbot interface for query understanding.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Sample formatted intent</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Sample formatted intent</p></figcaption></figure>
 
 The model is capable of processing intents in the following manner:
 
