@@ -46,7 +46,7 @@ Memberships are represented on-chain by a unique NFT corresponding to the commun
 
 Each community has a pool of resources called a community treasury. Funds are placed into the treasury through the minting of new memberships, or through direct funding by community members.
 
-The community’s founding members control allocation of the treasury funds via a 6-of-10 multisig wallet.
+The community funds are for future protocol development, community growth and network upgrades through a community DAO.
 
 Treasury funds may be used by the community to fund initiatives such commissioning work, purchasing assets, funding contests, or any other project the community decides.
 
