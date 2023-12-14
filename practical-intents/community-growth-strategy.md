@@ -58,7 +58,7 @@ Members can engage by sharing content with their community. Posts can either be 
 
 Members vote on propositions to be funded by the founding members. When a proposition achieves enough interest, the founding members may vote to fund the proposition.
 
-Funds will be transfered from the community treasury directly to the wallet identified in the proposition.
+Funds will be transferred from the community treasury directly to the contracts identified in the proposition.
 
 #### Earning
 
