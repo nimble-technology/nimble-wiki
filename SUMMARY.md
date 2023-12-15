@@ -14,13 +14,17 @@
 * [Testnet Overview](developer-sdk/testnet-overview.md)
 * [Quickstart](developer-sdk/quickstart.md)
 
+## 🧜♂ Social Intents
+
+* [Nimbus Communities](social-intents/nimbus-communities.md)
+* [Advertising Intents](social-intents/advertising-intents.md)
+
 ## 🚅 Practical Intents
 
 * [Protocol Introduction](practical-intents/protocol-introduction.md)
 * [Natural Language Intents](practical-intents/natural-language-intents.md)
 * [Intent Matching and Dispatching](practical-intents/intent-matching-and-dispatching.md)
 * [Intent Verification and Security](practical-intents/intent-verification-and-security.md)
-* [Nimbus - Social Intents](practical-intents/community-growth-strategy.md)
 
 ## 🧀 Intent Digest
 
