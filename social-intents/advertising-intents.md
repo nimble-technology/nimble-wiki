@@ -18,7 +18,7 @@ Today's largest tech platforms are marketplaces for attention. Users are attract
 
 The attention marketplace inverts this equation.
 
-<figure><img src="../.gitbook/assets/Slide 16_10 - 90 (1).png" alt=""><figcaption><p>Advertising intent architecture on Nimble's Marketplace of Intents</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Slide 16_10 - 90 (2).png" alt=""><figcaption><p>Advertising intent architecture on Nimble's Marketplace of Intents</p></figcaption></figure>
 
 Advertisers access the marketplace by submitting advertising intents. In this system, advertisers represent the **intent supply**.
 
