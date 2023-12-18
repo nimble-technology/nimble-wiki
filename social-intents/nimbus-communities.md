@@ -2,7 +2,7 @@
 description: Building the first social intent infrastructure
 ---
 
-# Nimbus - Social Intents
+# Nimbus Communities
 
 Nimble aims to build the Marketplace of Intents. A marketplace provides a neutral forum for buyers and sellers to exchange value, but the marketplace itself is merely infrastructure - it’s the participants that bring the place to life.
 
@@ -53,12 +53,6 @@ Treasury funds may be used by the community to fund initiatives such commissioni
 #### Posting
 
 Members can engage by sharing content with their community. Posts can either be discussions or propositions. Discussion posts can be used to chat or collaborate with community members, while propositions can be used to direct funds from the community treasury.
-
-#### Funding
-
-Members vote on propositions to be funded by the founding members. When a proposition achieves enough interest, the founding members may vote to fund the proposition.
-
-Funds will be transferred from the community treasury directly to the contracts identified in the proposition.
 
 #### Earning
 
