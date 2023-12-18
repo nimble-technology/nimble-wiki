@@ -34,11 +34,11 @@ Additional topics may be added in the future, with approval by the DAO.
 
 | Category       | Locked  | Unlocked | Total   |
 | -------------- | ------- | -------- | ------- |
-| Ecosystem      | 27      | 3        | 50      |
+| Ecosystem      | 27      | 3        | 30      |
 | Solver Rewards | 18      | 2        | 20      |
 | Community      | 0       | 10       | 10      |
-| Development    | 20      | 0        | 10      |
-| Private Sales  | 20      | 0        | 10      |
+| Development    | 20      | 0        | 20      |
+| Private Sales  | 20      | 0        | 20      |
 | **Total**      | **85%** | **15%**  | **100** |
 
 ### Ecosystem
