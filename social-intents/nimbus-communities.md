@@ -40,15 +40,13 @@ The price of a membership is governed by an inverse exponential bonding curve. M
 
 <figure><img src="https://lh7-us.googleusercontent.com/QIH3BdmUqToyZr4bIoikbeJnPsYyNt1sMDEWWzWVO2tEzpgliuHuOFYZX8tIxorJ5GaU8ls3bFHVF2jc_8dP0Lr2XX9mOMOZGGJhS55f1m-BlCnLr-CWecKw1OruqsiTVw2IignHAAEMEAIhv669kqg" alt=""><figcaption><p>Membership bond curve to calculate the price.</p></figcaption></figure>
 
-Memberships are represented on-chain by a unique NFT corresponding to the community. The tokens used to purchase the membership are placed into a community treasury for future allocation by community members.
+Memberships are represented on-chain by a unique NFT corresponding to the community. The tokens used to purchase the membership are placed into a community treasury for future allocation by community members, and to provide liquidity for membership sale.
 
 #### Treasury
 
 Each community has a pool of resources called a community treasury. Funds are placed into the treasury through the minting of new memberships, or through direct funding by community members.
 
-The community funds are for future protocol development, community growth and network upgrades through a community DAO.
-
-Treasury funds may be used by the community to fund initiatives such commissioning work, purchasing assets, funding contests, or any other project the community decides.
+The community funds are for future protocol development, community growth, and network upgrades through a community DAO.
 
 #### Posting
 
