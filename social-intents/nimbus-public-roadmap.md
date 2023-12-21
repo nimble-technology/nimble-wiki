@@ -6,7 +6,7 @@ description: Planned features for Nimbus in 2024
 
 <figure><img src="https://lh7-us.googleusercontent.com/9288LVNd_Hp8WaTis4Wzxv17Q5KxXdo8HlpdGUecbc67hmza-oyj8XT3uPfDd9j7JZ5M87XN-cLMeQQye-niXd2H2c2Whav2C5DHsfe9nsl4shWzMWL7R0iSyP4h0lS4uNtoMAEErOVYmN0i_aEtlJc" alt=""><figcaption><p>Roadmap progress as of Q4 2023</p></figcaption></figure>
 
-## Roadmap in detail
+## Roadmap in Detail
 
 During early 2024, we'll improve Nimbus with the following functionality. This roadmap may be adjusted based on feedback from our community members.
 
