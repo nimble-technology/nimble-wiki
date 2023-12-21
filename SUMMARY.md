@@ -18,6 +18,7 @@
 
 * [Nimbus Communities](social-intents/nimbus-communities.md)
 * [Advertising Intents](social-intents/advertising-intents.md)
+* [Nimbus Public Roadmap](social-intents/nimbus-public-roadmap.md)
 
 ## 🚅 Practical Intents
 
