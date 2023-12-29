@@ -30,14 +30,14 @@ To be aligned with the roadmap above, the token listing will happen right after 
 
 The following table shows high level token distributions. Please refer to the [tokenomics](https://docs.nimble.technology/intent-solicitation/tokenomics) doc for more info.
 
-| Category       | Locked  | Unlocked | Total   |
-| -------------- | ------- | -------- | ------- |
-| Ecosystem      | 27      | 3        | 50      |
-| Solver Rewards | 18      | 2        | 20      |
-| Community      | 0       | 10       | 10      |
-| Development    | 20      | 0        | 10      |
-| Private Sales  | 20      | 0        | 10      |
-| **Total**      | **85%** | **15%**  | **100** |
+| Category            | Locked  | Unlocked | Total   |
+| ------------------- | ------- | -------- | ------- |
+| Network & Ecosystem | 27      | 3        | 50      |
+| Solver Rewards      | 18      | 2        | 20      |
+| Community           | 0       | 10       | 10      |
+| Development         | 20      | 0        | 10      |
+| Private Sales       | 20      | 0        | 10      |
+| **Total**           | **85%** | **15%**  | **100** |
 
 5. How to become solvers?
 
@@ -67,21 +67,17 @@ The network is scalable with the unique network auction design and efficient int
 
 For more info, please refer to the [whitepaper](https://docs.nimble.technology/intent-digest/whitepaper) for detailed modular auction design discussions, and [matching system blog](https://docs.nimble.technology/practical-intents/intent-matching-and-dispatching) for efficient matching and dispatching design discussions.
 
-10. How to get community roles
+10. How to get community roles?
 
-Pre-Beta: Everyone who joins before our mainnet beta launch (Targeted EOY 2023)
-
-BFF: Follow us on Twitter
-
-Cheese: Complete a cheese challenge
-
-nimBull: OG channel joiners (or people who bring the heat)&#x20;
-
-Curdled: For trolls/spammers&#x20;
-
-Sassy: This is a label, not a role. Display sass to receive.
-
-For more updated info, please join our [Discord](https://discord.gg/9VgEwsA7xJ).
+| Role                  | Description                                                           |
+| --------------------- | --------------------------------------------------------------------- |
+| Pre-Beta              | Everyone who joins before our mainnet beta launch (Targeted EOY 2023) |
+| BFF                   | Follow us on Twitter                                                  |
+| Cheese                | Complete a cheese challenge                                           |
+| nimBull               | OG channel joiners (or people who bring the heat)                     |
+| Curdled               | For trolls/spammers                                                   |
+| Sassy                 | This is a label, not a role. Display sass to receive.                 |
+| **More Updated Info** | Please join our [Discord](https://discord.gg/9VgEwsA7xJ).             |
 
 11. How to become community managers or moderators?
 
