@@ -32,16 +32,16 @@ Additional topics may be added in the future, with approval by the DAO.
 
 ### Distribution Table
 
-| Category       | Locked  | Unlocked | Total   |
-| -------------- | ------- | -------- | ------- |
-| Ecosystem      | 27      | 3        | 30      |
-| Solver Rewards | 18      | 2        | 20      |
-| Community      | 0       | 10       | 10      |
-| Development    | 20      | 0        | 20      |
-| Private Sales  | 20      | 0        | 20      |
-| **Total**      | **85%** | **15%**  | **100** |
+| Category            | Locked  | Unlocked | Total   |
+| ------------------- | ------- | -------- | ------- |
+| Network & Ecosystem | 27      | 3        | 30      |
+| Solver Rewards      | 18      | 2        | 20      |
+| Community           | 0       | 10       | 10      |
+| Development         | 20      | 0        | 20      |
+| Private Sales       | 20      | 0        | 20      |
+| **Total**           | **85%** | **15%**  | **100** |
 
-### Ecosystem
+### Network & Ecosystem
 
 **30%, or 300,000,000 NIMBLE**
 
@@ -52,10 +52,11 @@ This reward allocation is reserved for those who contribute to the Nimble Networ
 * Educators
 * Early solvers
 * Early users
+* Network miners
 
-With this allocation, we hope to provide incentives and funding for projects to develop functionality with Nimble. Development may include ecosystem tools, educational events, or other action that increases awareness of Nimble.
+With this allocation, we hope to provide incentives and funding for projects to develop functionality with Nimble. Development may include network mining, ecosystem tools, educational events, or other action that increases awareness of Nimble.
 
-3% of the ecosystem NIMBLE allocation is unlocked and can be distributed to this community immediately. The remaining 27% (270M) tokens will be distributed following our vesting schedule.
+3% of the network NIMBLE allocation is unlocked and can be distributed to this community immediately. The remaining 27% (270M) tokens will be distributed following our vesting schedule.
 
 ### Solver Rewards
 
