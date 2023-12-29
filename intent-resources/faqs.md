@@ -91,6 +91,10 @@ Nimble builds the social and large action model first to jumpstart the network. 
 
 Token appreciations come from infrastructure intent fees, intent bids quoted by network token, and solver staking.
 
+14. How are NIMBLE tokens created?
+
+47% of tokens are reserved for mining and validating. New tokens are produced ev
+
 #### More Questions?
 
 If you have more questions, please join Nimble [Discord](https://discord.gg/9VgEwsA7xJ) and ask there. Then, your questions will be consolidated into this doc for the general community's benefits.
