@@ -24,11 +24,11 @@ Additional topics may be added in the future, with approval by the DAO.
 
 ### Distribution of Tokens
 
-| Symbol         | NIMBLE                                                                                                              |
-| -------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Supply         | 1,000,000,000                                                                                                       |
-| Initial Supply | 150,000,000 (15%)                                                                                                   |
-| Vesting        | 85% of NIMBLE are initially locked. Tokens are unlocked 6, 18, 30, and 42 months after token generation event (TGE) |
+| Symbol         | NIMBLE                                                                                                                                                                                        |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Supply         | 1,000,000,000                                                                                                                                                                                 |
+| Initial Supply | 150,000,000 (15%)                                                                                                                                                                             |
+| Vesting        | 85% of NIMBLE are initially locked. Tokens are unlocked 6, 18, 30, and 42 months after token generation event (TGE). Locked network, ecosystem and solver tokens have halving every 12 months |
 
 ### Distribution Table
 
