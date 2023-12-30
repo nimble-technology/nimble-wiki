@@ -37,7 +37,7 @@ The following table shows high level token distributions. Please refer to the [t
 | Community           | 0       | 10       | 10      |
 | Development         | 20      | 0        | 10      |
 | Private Sales       | 20      | 0        | 10      |
-| **Total**           | **85%** | **15%**  | **100** |
+| **Total**           | **83%** | **17%**  | **100** |
 
 5. How to become solvers?
 
