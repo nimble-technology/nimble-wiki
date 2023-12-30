@@ -110,6 +110,8 @@ Each token is mapped to a real intent matching or intent solution provision effo
 
 <figure><img src="../.gitbook/assets/image (4).png" alt="" width="169"><figcaption></figcaption></figure>
 
+in which _i_ is an indexing integer to represent the number of years in the vesting schedule.
+
 ### Delegation & Staking
 
 Everyone can delegate NIMBLE tokens to validators and earn staking rewards. Validators compete with each other to decide the percentage of staking rewards. The reward market introduces competitions among validators and improves the network robustness.
