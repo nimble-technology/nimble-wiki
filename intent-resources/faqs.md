@@ -93,9 +93,9 @@ Token appreciations come from infrastructure intent fees, intent bids quoted by 
 
 14. How are NIMBLE tokens created?
 
-45% of tokens are reserved for mining and validating, being released within 48 months since token generation event (TGE). Each halving has 2102400 blocks and each blockstep is 15 seconds.\
+45% of tokens are reserved for mining and validating, being released within 48 months since token generation event (TGE). Each halving cycle has 2102400 blocks and each blockstep is 15 seconds.\
 \
-New tokens are produced every block at a fixed rate. Roughly 686758 tokens are created per day at TGE. This will be halved every 12 months. Newly minted tokens are shared among miners and validators equally. Validators stake to get network validation rewards.
+New tokens are produced every block at a fixed rate. Roughly 114.155251142 tokens are created per block at TGE. This will be halved every 12 months (i.e., 365 days). Newly minted tokens are shared among miners and validators equally. Validators stake to get network validation rewards.
 
 The miners are intent solvers to provide real intent solutions to the network.
 
