@@ -93,7 +93,17 @@ Token appreciations come from infrastructure intent fees, intent bids quoted by 
 
 14. How are NIMBLE tokens created?
 
-47% of tokens are reserved for mining and validating. New tokens are produced ev
+47% of tokens are reserved for mining and validating, being released within 48 months since token generation event (TGE). New tokens are produced every block at a fixed rate. Roughly 686758 tokens are created per day at TGE. This will be halved every 12 months. Newly minted tokens are shared among miners and validators equally. Validators stake to get network validation rewards.
+
+The miners are intent solvers to provide real intent solutions to the network.
+
+15. Why do  NIMBLE tokens have value?
+
+Each token is mapped to a real intent matching or intent solution provision effort by miners and . With the growth of the network and halving very 12 months, it becomes more and more competitive to get minted NIMBLE tokens.
+
+16. Why should I delegate my NIMBLE?
+
+Everyone can delegate NIMBLE tokens to validators and earn staking rewards. Validators compete with each other to decide the percentage of staking rewards. The reward market introduces competitions among validators and improves the network robustness.
 
 #### More Questions?
 
