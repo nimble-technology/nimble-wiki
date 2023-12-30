@@ -104,7 +104,7 @@ New tokens are produced every block at a fixed rate. Newly minted tokens are sha
 
 Each token is mapped to a real intent matching or intent solution provision effort by miners and . With the growth of the network and halving very 12 months, it becomes more and more competitive to get minted NIMBLE tokens.
 
-### NIMBLE Halving
+### Production Rate Halving
 
 45% of tokens are reserved for mining and validating, being released within 48 months since token generation event (TGE). The network token production rate will be halved every 12 months (i.e., 365 days). Each halving has 2102400 blocks and each blockstep is 15 seconds. Roughly 114.155251142 tokens are created per block at TGE, and the initial daily rate is calculated with the following equation, to be more accurate:
 
