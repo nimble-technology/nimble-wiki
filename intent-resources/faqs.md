@@ -32,7 +32,7 @@ The following table shows high level token distributions. Please refer to the [t
 
 | Category            | Locked  | Unlocked | Total   |
 | ------------------- | ------- | -------- | ------- |
-| Network & Ecosystem | 27      | 3        | 50      |
+| Network & Ecosystem | 25      | 5        | 50      |
 | Solver Rewards      | 18      | 2        | 20      |
 | Community           | 0       | 10       | 10      |
 | Development         | 20      | 0        | 10      |
@@ -93,7 +93,9 @@ Token appreciations come from infrastructure intent fees, intent bids quoted by 
 
 14. How are NIMBLE tokens created?
 
-47% of tokens are reserved for mining and validating, being released within 48 months since token generation event (TGE). New tokens are produced every block at a fixed rate. Roughly 686758 tokens are created per day at TGE. This will be halved every 12 months. Newly minted tokens are shared among miners and validators equally. Validators stake to get network validation rewards.
+45% of tokens are reserved for mining and validating, being released within 48 months since token generation event (TGE). Each halving has 2102400 blocks and each blockstep is 15 seconds.\
+\
+New tokens are produced every block at a fixed rate. Roughly 686758 tokens are created per day at TGE. This will be halved every 12 months. Newly minted tokens are shared among miners and validators equally. Validators stake to get network validation rewards.
 
 The miners are intent solvers to provide real intent solutions to the network.
 

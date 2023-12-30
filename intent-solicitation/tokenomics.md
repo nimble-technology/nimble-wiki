@@ -34,7 +34,7 @@ Additional topics may be added in the future, with approval by the DAO.
 
 | Category            | Locked  | Unlocked | Total   |
 | ------------------- | ------- | -------- | ------- |
-| Network & Ecosystem | 27      | 3        | 30      |
+| Network & Ecosystem | 25      | 5        | 30      |
 | Solver Rewards      | 18      | 2        | 20      |
 | Community           | 0       | 10       | 10      |
 | Development         | 20      | 0        | 20      |
@@ -56,7 +56,7 @@ This reward allocation is reserved for those who contribute to the Nimble Networ
 
 With this allocation, we hope to provide incentives and funding for projects to develop functionality with Nimble. Development may include network mining, ecosystem tools, educational events, or other action that increases awareness of Nimble.
 
-3% of the network NIMBLE allocation is unlocked and can be distributed to this community immediately. The remaining 27% (270M) tokens will be distributed following our vesting schedule.
+5% of the network NIMBLE allocation is unlocked and can be distributed to this community immediately. The remaining 25% (250M) tokens will be distributed following our vesting schedule.
 
 ### Solver Rewards
 
@@ -95,6 +95,24 @@ The development allocation will be provided to projects or individuals that cont
 This allocation is reserved for early funding of the network development, as required by the core team. As of now, these tokens are unallocated.
 
 0% of private sales NIMBLE allocation is unlocked and can be distributed to private investors immediately upon TGE of the network. Once allocated, tokens from the private sale will be subject to the vesting schedule.
+
+## Validation, Mining & Halving
+
+### Validator & Miner Rewards
+
+New tokens are produced every block at a fixed rate. Roughly 686758 tokens are created per day at TGE. This will be halved every 12 months. Newly minted tokens are shared among miners and validators equally. Validators stake to get network validation rewards.
+
+The miners are intent solvers to provide real intent solutions to the network.
+
+Each token is mapped to a real intent matching or intent solution provision effort by miners and . With the growth of the network and halving very 12 months, it becomes more and more competitive to get minted NIMBLE tokens.
+
+### NIMBLE Halving
+
+45% of tokens are reserved for mining and validating, being released within 48 months since token generation event (TGE). Each halving has 2102400 blocks and each blockstep is 15 seconds.
+
+### Delegation & Staking
+
+Everyone can delegate NIMBLE tokens to validators and earn staking rewards. Validators compete with each other to decide the percentage of staking rewards. The reward market introduces competitions among validators and improves the network robustness.
 
 ### Conclusions
 
