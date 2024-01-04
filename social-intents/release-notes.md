@@ -4,9 +4,9 @@ description: Weekly release notes for Nimble Network and Nimbus
 
 # Release Notes
 
-### Closed Beta 0.1.1
+## Closed Beta 0.1.1
 
-December 30, 2023
+### December 30, 2023
 
 **Guest Access**
 
@@ -37,9 +37,9 @@ This release added multi-community support and included the launch of 6 addition
 * RATS
 * ORDI
 
-### Closed Beta 0.1.0
+## Closed Beta 0.1.0
 
-December 23, 2023
+### December 23, 2023
 
 Nimbus closed beta begins!
 
