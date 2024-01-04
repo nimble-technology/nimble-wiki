@@ -54,6 +54,10 @@ We will begin by working on advertising intents, which are well-suited to the au
 
 Once sufficient data is available on-chain through social intents, additional SocialFi applications can be developed on Nimble, and Nimbus development can be moved to the public sphere.
 
+#### Sell Your Membership
+
+You can exit your membership position by selling your membership using the community treasury.
+
 ## Nimbus Launch Features
 
 During closed beta, the following features will be supported.
@@ -74,8 +78,6 @@ You can create posts in Nimbus to share content with the community. Other member
 
 Posts are limited to text at launch, with new functionality to be added in the next few weeks.
 
-#### 4. Sell Your Membership
 
-You can exit your membership position by selling your membership using the community treasury.
 
 \
