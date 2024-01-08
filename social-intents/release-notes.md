@@ -6,6 +6,22 @@ description: Weekly release notes for Nimble Network and Nimbus
 
 ## Closed Beta 0.1.1
 
+### January 5, 2024
+
+Happy New Year! Huge thanks to all of our closed beta participants for requesting new features. This week's release comes with our first feature request from the one and only Kneel.
+
+**Photo Sharing**
+
+You can now upload photos to your communities! Test it out by uploading a photo.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-08 at 1.32.12 PM.png" alt=""><figcaption><p>Cheese. You have it or you don't.</p></figcaption></figure>
+
+**Community Events**
+
+You can now use the community events list to keep track of purchases and sales of memberships in your communities.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-08 at 1.34.50 PM.png" alt=""><figcaption></figcaption></figure>
+
 ### December 30, 2023
 
 **Guest Access**
