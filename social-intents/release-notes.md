@@ -22,6 +22,12 @@ You can now use the community events list to keep track of purchases and sales o
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-01-08 at 1.34.50 PM.png" alt=""><figcaption></figcaption></figure>
 
+**Profile Photos**
+
+Spice up your Nimbus profile with a profile photo. Profile photos can be set under Account > Click your avatar.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-08 at 1.51.07 PM.png" alt=""><figcaption></figcaption></figure>
+
 ### December 30, 2023
 
 **Guest Access**
