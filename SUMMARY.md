@@ -14,12 +14,12 @@
 * [Testnet Overview](developer-sdk/testnet-overview.md)
 * [Quickstart](developer-sdk/quickstart.md)
 
-## 🧜♂ Social Intents
+## 🧜♂ Nimbus
 
-* [Nimbus Communities](social-intents/nimbus-communities.md)
-* [Advertising Intents](social-intents/advertising-intents.md)
-* [Nimbus Public Roadmap](social-intents/nimbus-public-roadmap.md)
-* [Release Notes](social-intents/release-notes.md)
+* [What is Nimbus?](nimbus/what-is-nimbus.md)
+* [Advertising Intents](nimbus/advertising-intents.md)
+* [Public Roadmap](nimbus/public-roadmap.md)
+* [Release Notes](nimbus/release-notes.md)
 
 ## 🚅 Practical Intents
 

@@ -4,6 +4,34 @@ description: Weekly release notes for Nimble Network and Nimbus
 
 # Release Notes
 
+## Closed Beta 0.1.2
+
+### January 11, 2024
+
+In the final week of closed beta, we have several updates designed to reward you for participating in the community.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-12 at 11.30.57 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Community Points System
+
+You will now earn points for interacting with Nimbus communities. Points can be earned by creating posts, commenting, liking, and sharing Nimbus with your friends.
+
+Additionally, points earned through our ambassador program will be awarded and tracked through Nimbus.
+
+Ecosystem points will be used to track rewards in the Nimble ecosystem as part of our [community token allocation](https://docs.nimble.technology/intent-solicitation/tokenomics#community).
+
+**Sort Posts**
+
+Sort the best community posts to the top with the new "Top" community sorting option.
+
+**Ranks and Member Badges**
+
+Who are your community co-owners, and who are just humble guests?
+
+Identify them using their ears. Also, identify the community's most influential members through their rank badges.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-12 at 12.32.31 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## Closed Beta 0.1.1
 
 ### January 5, 2024
