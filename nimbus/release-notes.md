@@ -42,19 +42,21 @@ Happy New Year! Huge thanks to all of our closed beta participants for requestin
 
 You can now upload photos to your communities! Test it out by uploading a photo.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-08 at 1.32.12 PM.png" alt=""><figcaption><p>Cheese. You have it or you don't.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-08 at 1.32.12 PM.png" alt="" width="375"><figcaption><p>Cheese. You have it or you don't.</p></figcaption></figure>
 
 **Community Events**
 
 You can now use the community events list to keep track of purchases and sales of memberships in your communities.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-08 at 1.34.50 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-08 at 1.34.50 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Profile Photos**
 
 Spice up your Nimbus profile with a profile photo. Profile photos can be set under Account > Click your avatar.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-08 at 1.51.07 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-08 at 1.51.07 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Closed Beta 0.1.1
 
 ### December 30, 2023
 
