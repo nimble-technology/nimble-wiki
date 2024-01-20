@@ -10,6 +10,12 @@ This post details how the NIMBLE token is distributed to various participants of
 
 Token-based governance enables token holders to guide the development of Nimble. The goal of this document is to prepare the community to participate in governance events so token holders can shape the future of the protocol productively.
 
+### Terminology
+
+- NIMBLE is the official symbol of the token used in Nimble Network.
+- NIM is short for NIMBLE.
+- VIM: 1 VIM = 10^-9 NIM.
+
 ### Governance and the Nimble DAO
 
 Nimble governance will aid in decision-making as we develop or alter network mechanisms in the future. The governance body is responsible for decisions such as:
@@ -53,6 +59,7 @@ This reward allocation is reserved for those who contribute to the Nimble Networ
 * Early solvers
 * Early users
 * Network miners
+* Network validators
 
 With this allocation, we hope to provide incentives and funding for projects to develop functionality with Nimble. Development may include network mining, ecosystem tools, educational events, or other action that increases awareness of Nimble.
 
@@ -86,7 +93,7 @@ Since this allocation is required for the immediate use of the network, it is un
 
 The development allocation will be provided to projects or individuals that contribute to core components of the Nimble Network stack. Contributors to the core auction, interpretation stack, or dispatching layer may earn a stake of this allocation.
 
-0% of development NIMBLE allocation is unlocked and can be distributed to developers immediately upon TGE of the network. The remaining 10% will be distributed following our vesting schedule.
+0% of development NIMBLE allocation is unlocked and can be distributed to developers immediately upon TGE of the network. The remaining 20% will be distributed following our vesting schedule.
 
 ### Private Sales
 
@@ -100,9 +107,27 @@ This allocation is reserved for early funding of the network development, as req
 
 ### Validator & Miner Rewards
 
-New tokens are produced every block at a fixed rate. Newly minted tokens are shared among miners and validators equally. Validators stake to get network validation rewards. The miners are intent solvers to provide real intent solutions to the network.
+New tokens are produced every block at a fixed rate. Newly minted tokens are shared among miners and validators given their contributions to the network. Validators stake to get network validation rewards. The miners are intent solvers to provide real intent solutions to the network and are rewarded based on the evaluation score of their solutions.
 
-Each token is mapped to a real intent matching or intent solution provision effort by miners and . With the growth of the network and halving very 12 months, it becomes more and more competitive to get minted NIMBLE tokens.
+As a result, for the emitted tokens at each block, there are two layers of distribution.
+
+1. First, a percentage portion of these emitted tokens is allocated to each of models/tasks in the network, in accordance with its improvement/performance. The network determines these percentage portions. All partial allocations should sum up to 100%. 
+    
+    Consider a model _i_, it has a portion of v% which is determined by the network. And assume the emission at current block _t_ is _x_t_. Then all validators and miners who participate in model _i_'s update will receive v% * _x_t_ in total.
+2. Then, validators will receive divident which is proportional to their staking ratios and miners will receive reward based on its marginal contributions to the model update/task solving.
+    50% of the tokens emitted to a certain model will be distributed to its validators and another 50% to its miners.
+    For validators, the distribution is calculated by staking ratio. 
+    
+    So consider 3 validators, staking 100, 100, 200 respectively, they will receive 25%, 25% and 50%.
+    For miners, the distribution is calculated by its marginal contributions (which we use shapley value in a collaborative system for fair distribution of rewards). So consider 3 miners with shapley values of 0.2, 0.3 and 0.5, they will receive 20%, 30% and 50%.
+
+To conclude, for each model/task _i_,
+
+- a validator _m_ will receive `v% * _x_t_ * stake_m / (stake sum within this model/task)` 
+- a miner _n_ will receive `v% * _x_t_ * shapley_value / (shapley value sum within this model/task)`
+
+
+Each token is mapped to a real intent matching or intent solution provision effort by miners and validators. With the growth of the network and halving every 12 months, it becomes more and more competitive to get minted NIMBLE tokens.
 
 ### Production Rate Halving
 
@@ -120,4 +145,3 @@ Everyone can delegate NIMBLE tokens to validators and earn staking rewards. Vali
 
 We are still actively working to launch the network. Once launched, expect additional announcements regarding NIMBLE governance. Follow along on our Twitter and Discord community pages for up-to-date information and to avoid inaccurate information about the Nimble project.
 
-\
