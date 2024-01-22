@@ -1,8 +1,10 @@
 ---
-description: Nimble is designed for general purpose intents.
+description: >-
+  Nimble is designed for general purpose AI. Web3 intent protocol can be built
+  to solve the Web3 usability crisis.
 ---
 
-# Protocol Introduction
+# Case Study - Web3 Intent Protocol
 
 It was a challenging year for Web3. With a consistent stream of bad news, the adoption of blockchain technology has slowed. To end “crypto winter”, our industry needs growth.
 
