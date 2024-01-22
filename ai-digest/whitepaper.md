@@ -4,4 +4,4 @@ description: The technical whitepaper illustrates the key design choices and com
 
 # Whitepaper
 
-{% @github-files/github-code-block %}
+{% embed url="https://drive.google.com/file/d/15veTK7lwSxdhIZbMjsRFWy11ofb5lZbT/view?usp=sharing" %}
