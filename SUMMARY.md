@@ -4,7 +4,6 @@
 
 ## 🎯 Intent Solicitation
 
-* [Marketplace Applications](marketplace-applications.md)
 * [Values](intent-solicitation/values.md)
 * [Tokenomics](intent-solicitation/tokenomics.md)
 * [Roadmap](intent-solicitation/roadmap.md)
@@ -17,7 +16,6 @@
 ## 🧜♂ Nimbus
 
 * [What is Nimbus?](nimbus/what-is-nimbus.md)
-* [Advertising Intents](nimbus/advertising-intents.md)
 * [Public Roadmap](nimbus/public-roadmap.md)
 * [Release Notes](nimbus/release-notes.md)
 

@@ -4,6 +4,42 @@ description: Weekly release notes for Nimble Network and Nimbus
 
 # Release Notes
 
+## Open Beta
+
+### January 18, 2024
+
+The open beta is now live! Anyone can sign up for Nimbus and own a piece of their very own Web3 community.
+
+**Open Beta Overview**
+
+* Nimbus is deployed on Polygon PoS to minimize transaction fees. Membership prices are denominated in MATIC.
+* At launch, we support two communities:
+  * Nimble
+  * CornerMarket
+
+**Join as a Member or a Guest**
+
+* Guest access is free, but you cannot earn ranks in the community and earn points at a reduced rate.
+
+**Earn points and rank up by sharing in the app**
+
+Points are earned for:
+
+* Creating posts
+* Commenting
+* Sharing your communities with friends
+
+**Buy and sell memberships**
+
+* Members can buy one or more memberships and sell them later depending on their value change
+
+**Why Join?**
+
+* Grow the value and reach of a community owned by you
+* Increase the value of your membership
+* Earn Nimble ecosystem points
+* Contribute to the development of a next-gen SocialFi app
+
 ## Closed Beta 0.1.2
 
 ### January 11, 2024
