@@ -43,7 +43,7 @@ The “AI magic” for developers comes from operators that abstract blockchain 
 * To
 * Amount
 
-The developer collects the required fields from the users or the context already available in the application. Then, they create the AI command and submit it to the network. The Nimble AI network receives the AI operation and identifies the optimal path to resolution through the available solver network.
+The developer collects the required fields from the users or the context already available in the application. Then, they create the AI command and submit it to the network. The Nimble AI network receives the AI operation and identifies the optimal path to resolution through the available miner network.
 
 Miners join auctions for individual AI operations they are capable of fulfilling.  Solutions will be validated and compared with each other in the auction. Nevertheless, the winning solution would also be checked on the contract to ensure it was fulfilled.
 
@@ -73,9 +73,9 @@ Bridges are still used within the network as miners but leveraged as infrastruct
 
 ### Verification
 
-An adversarial solver could submit low-ball bids to auctions to win mining rewards, then fail to submit the transactions. The network solves this issue internally.
+An adversarial miner could submit low-ball bids to auctions to win mining rewards, then fail to submit the transactions. The network solves this issue internally.
 
-Each request a user creates has a set of requirements that must be fulfilled. When the network accepts a solution, it will check to see if the requirements are met. If not, the solver’s reputation will be penalized.
+Each request a user creates has a set of requirements that must be fulfilled. When the network accepts a solution, it will check to see if the requirements are met. If not, the miner's reputation will be penalized.
 
 There are two types of requests. Solution verification is based on the AI operation type:
 
@@ -85,7 +85,7 @@ On-chain operation verification can be easily performed through DeFi operations.
 
 The network can verify that the transactions were executed by checking the public ledger.
 
-For example, imagine a solver proposes a solution that swaps Token A for Token B at a 1:1 ratio. The swap operation was only successful if completed within the described parameters.
+For example, imagine a miner proposes a solution that swaps Token A for Token B at a 1:1 ratio. The swap operation was only successful if completed within the described parameters.
 
 Network rewards are processed after a successful transaction (or set of transactions). Bundlers only receive network token rewards when they return the profits to users and pay network fees, if any.
 
@@ -101,11 +101,11 @@ In this way, for off-chain operations, a positive feedback loop between users an
 
 As a piece of public infrastructure, Nimble will be subject to dishonest and fraudulent behavior. This section details how the system responds to a variety of attacks.
 
-#### Solver Reputation
+#### Miner Reputation
 
-For non-DeFi operations, a reputation system is required to ensure high-quality solver selection.&#x20;
+For non-DeFi operations, a reputation system is required to ensure high-quality miner selection.&#x20;
 
-As an orchestration layer, the network needs signals from the community in order to select truthful miners. For this purpose, we aim to implement solver reputations. Reputation is built as a weighted sum of staking (optional, yet critical), and a history of user feedback. In this way, low-quality miners are selected out of the network automatically, and high-quality miners are chosen more often.
+As an orchestration layer, the network needs signals from the community in order to select truthful miners. For this purpose, we aim to implement miner reputations. Reputation is built as a weighted sum of staking (optional, yet critical), and a history of user feedback. In this way, low-quality miners are selected out of the network automatically, and high-quality miners are chosen more often.
 
 Solutions proposed by miners who repeatedly provide invalid solutions will be rejected automatically.
 
@@ -124,6 +124,6 @@ DDoS attacks happen when users and miners send bulk requests for the purpose of 
 To prevent this, there are two things to be implemented:&#x20;
 
 * Introducing fee markets by charging a fee for operations
-* The solver with a high reputation can rate the operations and, thus, users. Low-rated requests should be dropped by the network
+* The miner with a high reputation can rate the operations and, thus, users. Low-rated requests should be dropped by the network
 
 The above is just a list of critical security and verification considerations of operation. There are more considerations in the code.\
