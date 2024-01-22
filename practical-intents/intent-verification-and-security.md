@@ -45,7 +45,7 @@ The “AI magic” for developers comes from operators that abstract blockchain 
 
 The developer collects the required fields from the users or the context already available in the application. Then, they create the AI command and submit it to the network. The Nimble AI network receives the AI operation and identifies the optimal path to resolution through the available solver network.
 
-Solvers join auctions for individual AI operations they are capable of fulfilling.  Solutions will be validated and compared with each other in the auction. Nevertheless, the winning solution would also be checked on the contract to ensure it was fulfilled.
+Miners join auctions for individual AI operations they are capable of fulfilling.  Solutions will be validated and compared with each other in the auction. Nevertheless, the winning solution would also be checked on the contract to ensure it was fulfilled.
 
 In this way, Nimble AI requests are both concrete and deterministic without losing any functionality.
 
@@ -69,7 +69,7 @@ Our goal at launch is to enable one-click compound operations.&#x20;
 
 
 
-Bridges are still used within the network as solvers but leveraged as infrastructure only. Users no longer need to use bridges directly.
+Bridges are still used within the network as miners but leveraged as infrastructure only. Users no longer need to use bridges directly.
 
 ### Verification
 
@@ -81,7 +81,7 @@ There are two types of requests. Solution verification is based on the AI operat
 
 #### On-chain AI Operations
 
-On-chain operation verification can be easily performed through DeFi operations. When solvers submit a solution proposal to on-chain contracts, they describe the specific steps that will be taken to solve the intent.
+On-chain operation verification can be easily performed through DeFi operations. When miners submit a solution proposal to on-chain contracts, they describe the specific steps that will be taken to solve the intent.
 
 The network can verify that the transactions were executed by checking the public ledger.
 
@@ -93,7 +93,7 @@ Network rewards are processed after a successful transaction (or set of transact
 
 Consider an AI network built on Nimble. A user submits an LLM request for an interactive, chatbot-like experience. GPT models from numerous developers compete to fulfill the operation. For chat requests, there will be a standardized evaluation function used to compare intents and evaluate them. Users rate GPT model responses. A reputation system built by user feedback is raw data for model evaluations.
 
-In this way, for off-chain operations, a positive feedback loop between users and solvers is achieved. Such feedback dynamics lay the foundation for network health.
+In this way, for off-chain operations, a positive feedback loop between users and miners is achieved. Such feedback dynamics lay the foundation for network health.
 
 <figure><img src="https://lh7-us.googleusercontent.com/GBBel744hYFiRvn9cOBOhp9K3RAGy0xngsANunTU2Tmfjxqpn-wC0QCAdN5a2lBz_ZigwZxCmncEyV1ODPdbXzwbo7-S92-j0oN7mHcgq8IzbDaIi_qsyvC-qhL5mK91nIdhBHp6Jjs7NML0Go29jo8" alt=""><figcaption><p>Case Study - User intent execution illustration through the AI network</p></figcaption></figure>
 
@@ -105,21 +105,21 @@ As a piece of public infrastructure, Nimble will be subject to dishonest and fra
 
 For non-DeFi operations, a reputation system is required to ensure high-quality solver selection.&#x20;
 
-As an orchestration layer, the network needs signals from the community in order to select truthful solvers. For this purpose, we aim to implement solver reputations. Reputation is built as a weighted sum of staking (optional, yet critical), and a history of user feedback. In this way, low-quality solvers are selected out of the network automatically, and high-quality solvers are chosen more often.
+As an orchestration layer, the network needs signals from the community in order to select truthful miners. For this purpose, we aim to implement solver reputations. Reputation is built as a weighted sum of staking (optional, yet critical), and a history of user feedback. In this way, low-quality miners are selected out of the network automatically, and high-quality miners are chosen more often.
 
-Solutions proposed by solvers who repeatedly provide invalid solutions will be rejected automatically.
+Solutions proposed by miners who repeatedly provide invalid solutions will be rejected automatically.
 
 #### Sybil Attacks
 
 Sybil attacks are a type of fraud where many identities are created by one or a few individuals. It happens mostly for new identities and nodes. Nimble employs three strategies to prevent Sybil attacks:
 
-* New nodes (e.g., users, solvers, and validators) without existing reputations are likely Sybil nodes. As a result, they are placed under suspicion by other nodes on the network. They can prove their honesty with more network token stakes and a history of interactions with other nodes.
+* New nodes (e.g., users, miners, and validators) without existing reputations are likely Sybil nodes. As a result, they are placed under suspicion by other nodes on the network. They can prove their honesty with more network token stakes and a history of interactions with other nodes.
 * Each node locally maintains social trust (decentralized, and nodes may have different social trust scores for the same node). To minimize the cost of the social trust-building process, nodes can exchange social trust scores. In this way, a good player can establish its reputation faster, while low reputation nodes find it hard to build reputations.
-* The social trust system has another good side effect. It rewards early contributors to the network (e.g., solvers, users, and validators). This is helpful for the network jumpstart and the philosophy that the network rewards early contributions.
+* The social trust system has another good side effect. It rewards early contributors to the network (e.g., miners, users, and validators). This is helpful for the network jumpstart and the philosophy that the network rewards early contributions.
 
 #### DDoS Attacks
 
-DDoS attacks happen when users and solvers send bulk requests for the purpose of overwhelming the system. Attackers may create large amounts of spam operations (or solutions) that are invalid and make it difficult to select legitimate requests or solutions.
+DDoS attacks happen when users and miners send bulk requests for the purpose of overwhelming the system. Attackers may create large amounts of spam operations (or solutions) that are invalid and make it difficult to select legitimate requests or solutions.
 
 To prevent this, there are two things to be implemented:&#x20;
 

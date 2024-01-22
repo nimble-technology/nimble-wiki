@@ -26,7 +26,7 @@
 * [Protocol Introduction](practical-intents/protocol-introduction.md)
 * [Natural Language Intents](practical-intents/natural-language-intents.md)
 * [Intent Matching and Dispatching](practical-intents/intent-matching-and-dispatching.md)
-* [AI Verification and Security](practical-intents/ai-verification-and-security.md)
+* [AI Verification and Security](practical-intents/intent-verification-and-security.md)
 
 ## 🧀 Intent Digest
 
