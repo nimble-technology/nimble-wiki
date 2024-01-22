@@ -28,7 +28,6 @@
 
 ## 🧀 AI Digest
 
-* [Key Innovations](ai-digest/key-innovations.md)
 * [Whitepaper](ai-digest/whitepaper.md)
 
 ## 🥂 Nimble Resources
