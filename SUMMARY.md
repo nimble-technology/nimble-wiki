@@ -23,7 +23,7 @@
 
 ## 🚅 Practical Intents
 
-* [Case Study - Web3 Intent Protocol](practical-intents/case-study-web3-intent-protocol.md)
+* [Case Study - Web3 Intent Protocol](practical-intents/protocol-introduction.md)
 * [Natural Language Intents](practical-intents/natural-language-intents.md)
 * [AI Matching and Dispatching](practical-intents/ai-matching-and-dispatching.md)
 * [AI Verification and Security](practical-intents/intent-verification-and-security.md)

@@ -12,7 +12,7 @@ For Web3 companies, this growth can’t come from within. Out of the over 26 mil
 
 <figure><img src="https://lh6.googleusercontent.com/T5ey3Rg3DoJLV_BBq6xwrYkdcI0myGiExoSHm1qqJ3sQBa-uiRhHi0fjQ8D5Kx6NzPyMLjAo4r5yvdwEPPxfYR1o5Ld0TPxenSZ89WI4AT9Ueu1n7kmIvgRQtWrW31cvJgOKtfOUL3gVP8V7HMqpLoE" alt="" width="375"><figcaption></figcaption></figure>
 
-Despite this, most startups in this space focus on winning developers and users from these small sets. As a community, we compete for a slice of a shrinking pie instead of expanding it.
+Despite this, most startups in this space focus on winning developers and users from these small sets. As a community, intent protocols compete for a slice of a shrinking pie instead of expanding it.
 
 Let’s direct our attention to the nearly 4.9 billion people worldwide with internet access who have chosen not to adopt Web3. The most common reasons cited are:
 
@@ -36,7 +36,7 @@ Web2 companies appeal to an incredible audience by hiding complexity. Users are 
 * Post a photo
 * Play a video
 
-The future growth of Web3 depends on our ability to match this level of simplicity. To help get there, we’re introducing the Nimble intent protocol - an easier way to interact with blockchains.
+The future growth of Web3 depends on the ability to match this level of simplicity. To help get there, anyone can introduce and build the intent protocol on Nimble - an easier way to interact with blockchains.
 
 #### What is an Intent Protocol?
 
@@ -52,7 +52,7 @@ Return to the earlier example where we funded a Friend.tech wallet using ETH. Wi
 
 The protocol interprets the user’s intent and then converts it into a set of transactions on the blockchain. Transactions are executed on the user’s behalf, achieving their desired outcome without needing them to understand the technical details.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-17 at 10.29.20 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-17 at 10.29.20 AM.png" alt=""><figcaption><p>Intent Recognition Illustration</p></figcaption></figure>
 
 #### Intents versus Transactions
 
@@ -74,7 +74,7 @@ Your partner gets the right cake in each case, but picking it up from the bakery
 
 #### How it works
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-17 at 10.30.10 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-17 at 10.30.10 AM.png" alt="" width="563"><figcaption><p>User intent understanding is built as a miner. Solver network is formed by Nimble miners. Intent pool reuses AI operation pool.</p></figcaption></figure>
 
 Our intent protocol accepts intents and translates them into valid computational steps. If the Intent involves a trade, the protocol must also find a counterparty willing to take the trade.
 
@@ -148,6 +148,6 @@ On Web2, users are used to ad-supported content and may be opposed to paying to 
 
 #### Vision
 
-Nimble aims to unlock the utility of Web3 by building the first marketplace for intents. Our protocol will provide an open and inclusive market for participants to compete to optimize outcomes instead of maximizing extracted value.
+The intent protocol aims to unlock the utility of Web3 by building the first marketplace for intents. The protocol will provide an open and inclusive market for participants to compete to optimize outcomes instead of maximizing extracted value.
 
 In the same way that Google made the world’s data accessible to all, Nimble aims to democratize the exchange of value.
