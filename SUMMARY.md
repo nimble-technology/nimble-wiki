@@ -21,22 +21,22 @@
 * [Public Roadmap](nimbus/public-roadmap.md)
 * [Release Notes](nimbus/release-notes.md)
 
-## 🚅 Practical Intents
+## 🚅 Practical AI
 
-* [Case Study - Web3 Intent Protocol](practical-intents/protocol-introduction.md)
-* [Natural Language Intents](practical-intents/natural-language-intents.md)
-* [AI Matching and Dispatching](practical-intents/ai-matching-and-dispatching.md)
-* [AI Verification and Security](practical-intents/intent-verification-and-security.md)
+* [Case Study - Web3 Intent Protocol](practical-ai/case-study-web3-intent-protocol.md)
+* [Natural Language Intents](practical-ai/natural-language-intents.md)
+* [AI Matching and Dispatching](practical-ai/ai-matching-and-dispatching.md)
+* [AI Verification and Security](practical-ai/ai-verification-and-security.md)
 
-## 🧀 Intent Digest
+## 🧀 AI Digest
 
-* [Key Innovations](6-innovations-make-nimble-the-first-everything-marketplace-infrastructure.md)
-* [Whitepaper](practical-intents/whitepaper.md)
+* [Key Innovations](ai-digest/key-innovations.md)
+* [Whitepaper](ai-digest/whitepaper.md)
 
-## 🥂 Intent Resources
+## 🥂 Nimble Resources
 
 * [Twitter](https://twitter.com/Nimble\_Network)
 * [Discord](https://discord.gg/P8UhBKqAse)
 * [Github](https://github.com/nimble-technology)
-* [Branding kit](intent-resources/branding-kit.md)
-* [FAQs](intent-resources/faqs.md)
+* [Branding kit](nimble-resources/branding-kit.md)
+* [FAQs](nimble-resources/faqs.md)
