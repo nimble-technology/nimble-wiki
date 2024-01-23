@@ -22,13 +22,11 @@ Upon receiving a natural language request, the advanced LLM miner interprets and
 
 The network receives AI requests articulated in a custom DSL. This language is tailored for defining complex data requests and interactions within the network, allowing users to specify exactly what they are looking for in a succinct and expressive manner. A simple example of making multiple transfers to different accounts.
 
-<figure><img src="https://lh7-us.googleusercontent.com/lUpeFlHy2bQXKIddr3K0kizDpjniexcz5FMdw7ul64OWzAZOKq1IvcmnzoApaz33FzG57xiXFd2CDOM_RKoJ0wnPu-wilc3Tiq2gPvG9tEDmXk4NZ5AWYVa31o_a7EIbbFvWB4jEy-VonhN9-GwM5yM" alt=""><figcaption><p>Network Operation DSL Query</p></figcaption></figure>
-
 The network also accepts queries made in natural human language, making it accessible to a wider audience, and our AI layer on each node will figure out what the requests are.
 
 **Operation Mempool**
 
-After AI requests get recognized, and a solved understandable request data will be generated, and broadcasted to each peer node, and temporarily stored in a mem pool on each node. Once an operation gets picked up and handled, it will be removed from the mem pool.
+After AI requests get recognized, and a solved understandable request data will be generated, and broadcasted to each peer node, and temporarily stored in a mempool on each node. Once an operation gets picked up and handled, it will be removed from the mempool.
 
 ## Efficient Dispatching
 
