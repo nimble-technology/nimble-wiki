@@ -2,11 +2,11 @@
 
 * [A Vision for a Marketplace of Intents](README.md)
 
-## 🎯 Intent Solicitation
+## 🎯 Protocol Overview
 
-* [Values](intent-solicitation/values.md)
-* [Tokenomics](intent-solicitation/tokenomics.md)
-* [Roadmap](intent-solicitation/roadmap.md)
+* [Values](protocol-overview/values.md)
+* [Tokenomics](protocol-overview/tokenomics.md)
+* [Roadmap](protocol-overview/roadmap.md)
 
 ## ⚙ Developer SDK
 
