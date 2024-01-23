@@ -2,13 +2,11 @@
 
 ## Vision
 
-_The internet is the most powerful connective force in history. Billions of people across the globe communicate and transact in real time._&#x20;
+The internet is the most powerful connective force in history. Billions of people across the globe communicate and transact in real-time. The data produced through our online activity powers the AI models that drive the digital economy.
 
-_Despite the near-zero marginal cost of online interaction, digital citizens must pay outsized fees to rent-collecting platform middlemen._
+Nimble is enabling an open economy for data and intelligence. Our composable AI protocol will provide a decentralized framework that enables AI models and data to be combined and reused. A network of interconnected AI agents, data providers, and compute resources replaces centralized platforms. Anyone can own, run, and train enterprise-grade AI over the decentralized network.
 
-_Nimble is eliminating the boundary between the mainstream and decentralized web. Our intent-powered marketplace will provide a neutral accessibility layer to enable seamless access to decentralized services. A competitive ecosystem of sovereign infrastructure providers and end users replaces centralized platforms._
-
-_In the same way that Google made the world’s data accessible to all, Nimble aims to democratize the exchange of value._
+In the same way that Google made the world’s data accessible to all, Nimble aims to democratize the exchange of intelligence to enable permissionless innovation.
 
 ## Icons
 
