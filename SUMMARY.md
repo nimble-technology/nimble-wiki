@@ -1,10 +1,9 @@
 # Table of contents
 
-* [A Vision for a Marketplace of Intents](README.md)
+* [A Vision for the Composable AI Protocol](README.md)
 
 ## 🎯 Protocol Overview
 
-* [Values](protocol-overview/values.md)
 * [Tokenomics](protocol-overview/tokenomics.md)
 * [Roadmap](protocol-overview/roadmap.md)
 
