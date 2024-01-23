@@ -6,11 +6,11 @@ description: Practical strategies for securing the AI network
 
 Since AI mining and validation were first discussed, the concept has remained vague.
 
-At a high level, it all makes sense. Users say what they want; the network figures it out. Great.
+At a high level, it all makes sense. Users say what they want; AI models figure it out. Great.
 
 For projects that aren’t seriously building an AI network, this narrative may fly. We’re taking things a little bit more seriously.
 
-In this post, I’ll explain a few core concepts that enable Nimble to process AI requests in the wild. That includes which types of requests we can and cannot handle and how we verify that the outcome we describe is achieved. We take user intents as an example to illustrate it.
+In this post, I’ll explain a few core concepts that enable Nimble to process AI requests in the wild. That includes which types of requests we can and cannot handle and how we verify that the outcome we describe is achieved. We take user AI intents as an example to illustrate it.
 
 <figure><img src="https://lh7-us.googleusercontent.com/u0CdEhtNd5T39SHCGA49BkADB24r2H8WIbJe6rKK-NaJocxMWfdNQcIIcvjE6ancyk5F32voDQVlUZrtI7NNMoA6_0oPyHyGBSUa_aOiFiHPt2I8cN5IjCH3fmmeso1K4pEMFxubVeWhS78YPFbKgco" alt=""><figcaption><p>Good intentions, poor execution</p></figcaption></figure>
 
@@ -94,8 +94,6 @@ Network rewards are processed after a successful transaction (or set of transact
 Consider an AI network built on Nimble. A user submits an LLM request for an interactive, chatbot-like experience. GPT models from numerous developers compete to fulfill the operation. For chat requests, there will be a standardized evaluation function used to compare intents and evaluate them. Users rate GPT model responses. A reputation system built by user feedback is raw data for model evaluations.
 
 In this way, for off-chain operations, a positive feedback loop between users and miners is achieved. Such feedback dynamics lay the foundation for network health.
-
-<figure><img src="https://lh7-us.googleusercontent.com/GBBel744hYFiRvn9cOBOhp9K3RAGy0xngsANunTU2Tmfjxqpn-wC0QCAdN5a2lBz_ZigwZxCmncEyV1ODPdbXzwbo7-S92-j0oN7mHcgq8IzbDaIi_qsyvC-qhL5mK91nIdhBHp6Jjs7NML0Go29jo8" alt=""><figcaption><p>Case Study - User intent execution illustration through the AI network</p></figcaption></figure>
 
 ### Attack Management
 

@@ -4,30 +4,16 @@
 
 ## 🎯 Protocol Overview
 
+* [AI Verification and Security](protocol-overview/ai-verification-and-security.md)
+* [AI Matching and Dispatching](protocol-overview/ai-matching-and-dispatching.md)
 * [Tokenomics](protocol-overview/tokenomics.md)
 * [Roadmap](protocol-overview/roadmap.md)
-
-## ⚙ Developer SDK
-
-* [Testnet Overview](developer-sdk/testnet-overview.md)
-* [Quickstart](developer-sdk/quickstart.md)
-
-## 🧜♂ Nimbus
-
-* [What is Nimbus?](nimbus/what-is-nimbus.md)
-* [Public Roadmap](nimbus/public-roadmap.md)
-* [Release Notes](nimbus/release-notes.md)
 
 ## 🚅 Practical AI
 
 * [Case Study - Web3 Intent Protocol](practical-ai/case-study-web3-intent-protocol.md)
-* [Natural Language Intents](practical-ai/natural-language-intents.md)
-* [AI Matching and Dispatching](practical-ai/ai-matching-and-dispatching.md)
-* [AI Verification and Security](practical-ai/ai-verification-and-security.md)
-
-## 🧀 AI Digest
-
-* [Whitepaper](ai-digest/whitepaper.md)
+* [Case Study - Nimbus Community App](practical-ai/case-study-nimbus.md)
+* [Case Study - Natural Language Intents](practical-ai/natural-language-intents.md)
 
 ## 🥂 Nimble Resources
 
