@@ -2,7 +2,7 @@
 description: Building the first social intent infrastructure
 ---
 
-# Nimbus Communities
+# Case Study - Nimbus Community App
 
 Nimble aims to build the Marketplace of Intents. A marketplace provides a neutral forum for buyers and sellers to exchange value, but the marketplace itself is merely infrastructure - it’s the participants that bring the place to life.
 
@@ -111,17 +111,17 @@ Here’s how it works:
 
 Prior to launch, roles will be purged for inactive community members or bot accounts.
 
-In the first phase of the growth plan, we will prioritize user onboarding. During this first phase, users will act as solvers for other users. Sharing, discovery, and advertising will be simple.
+In the first phase of the growth plan, we will prioritize user onboarding. During this first phase, users will act as miners for other users. Sharing, discovery, and advertising will be simple.
 
-Once the network has sufficient user intents, we can begin onboarding solvers to offer advanced functionality.
+Once the network has sufficient user intents, we can begin onboarding miners to offer advanced functionality.
 
 #### **Phase 2**
 
-In phase 2, solvers will be onboarded to provide middleware on top of the intent protocol. Content recommendation algorithms, improved advertising, and better ranking will be supported.
+In phase 2, miners will be onboarded to provide middleware on top of the intent protocol. Content recommendation algorithms, improved advertising, and better ranking will be supported.
 
 Incentives in phase 2 will incentivize
 
-* Solver developers with a proven track record of developing dApps
+* Miner developers with a proven track record of developing dApps
 * User activity on our intent network and community app
 
 #### **Phase 3**
