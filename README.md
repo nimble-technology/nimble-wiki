@@ -4,6 +4,8 @@ description: A short guide to mining NIM by hosting AI models
 
 # How Does AI Mining Work?
 
+{% embed url="https://www.youtube.com/watch?ab_channel=NimbleNetwork&v=wZEwBtonnDQ" %}
+
 This guide describes how you can earn NIM tokens by running a miner on Nimble Network, and why you may want to do so.
 
 As a miner, your machines will host AI models in whole or in part. The network composes the results of multiple miners to train models and to serve their inferences to network users.
