@@ -1,8 +1,8 @@
 # Table of contents
 
-## ⚒ Testnet
+## ⚒️ Miners
 
-* [How Does AI Mining Work?](README.md)
+* [Mining on Nimble](README.md)
 
 ## 🥂 Nimble Resources
 
