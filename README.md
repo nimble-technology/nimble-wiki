@@ -10,6 +10,22 @@ Use these instructions to configure your mining hardware and mine NIM.
 
 Instructions are available for Linux, Windows 11, and Mac.
 
+## System Specs
+
+Recommended
+
+* RTX 3080+ GPU
+* Core i7 13700
+* 16GB RAM
+* 20 GB disk space
+
+Minimum
+
+* RTX 2080+ GPU (Linux/Windows), or M1/M2/M3 Mac chips
+* Core i5 7400
+* 16GB RAM
+* 20 GB disk space
+
 ## Prerequisites
 
 #### Windows 11
