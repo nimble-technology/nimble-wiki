@@ -36,7 +36,7 @@ Minimum
 
 ### Mac Go Setup
 
-* Download and install Golang
+* Download and install Golang (**v1.22 or higher**)
   * [https://golang.org/dl/](https://golang.org/dl/)
 * Open a terminal window
 * Execute the following commands
