@@ -74,13 +74,13 @@ Note: Git is required for the remaining setup steps.
 
 **Macbook**
 
-* Locate this path and confirm it exists
+* Locate this path and confirm it exists (replace \<you> with your username)
   * `/Users/<you>/go/bin/nimble-networkd`
 
 **Linux/Windows**
 
-* Locate this path and confirm it exists&#x20;
-  * `/home/ubuntu/go/bin/nimble-networkd`
+* Locate this path and confirm it exists (replace \<you> with your username)
+  * `/home/<you>/go/bin/nimble-networkd`
 
 Copy this path value and use it in the next step.
 
