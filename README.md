@@ -30,16 +30,19 @@ Minimum
 
 * Install Windows Subsystem for Linux (WSL)
   * [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
+* Nimble requires Go 1.22.1. If you already have a previous Go version installed, start by removing it
+  * `sudo apt-get remove golang-go`
+  * `sudo rm -rf /usr/local/go`
 * Once completed, open a terminal and execute the following commands
-  * `sudo apt update`
-  * `sudo apt install golang`
-  * `export GOPATH=$HOME/go`
-  * `export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin`
+  * `cd /usr/local`
+  * `sudo wget https://go.dev/dl/go1.22.1.linux-amd64.tar.gz`
+  * `sudo tar -C /usr/local -xzf go1.22.1.linux-amd64.tar.gz`
+  * `export PATH=$PATH:/usr/local/go/bin`
   * `go version`
 
-It should display the go version.
+It should display the go version 1.22.1
 
-### Creat Wallet
+### Create Wallet
 
 Note: Git is required for the remaining setup steps.
 
