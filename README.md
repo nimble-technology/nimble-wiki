@@ -127,8 +127,3 @@ To resume mining after your machine disconnects, re-run the command:
 You are now mining NIM!
 
 For assistance, find us in our Discord server - [https://discord.gg/nimble](https://discord.gg/nimble)
-
-\
-
-
-\
