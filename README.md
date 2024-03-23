@@ -4,8 +4,6 @@ description: A short guide to mining on Nimble
 
 # Mining on Nimble
 
-## Community Setup Guide
-
 Use these instructions to configure your mining hardware and mine NIM.
 
 Instructions are available for Linux, Windows 11, and Mac.
@@ -29,6 +27,7 @@ Minimum
 ## Installing on Windows 11
 
 ### Install Golang
+
 * Install Windows Subsystem for Linux (WSL)
   * [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
 * Once completed, open a terminal and execute the following commands
@@ -37,10 +36,11 @@ Minimum
   * `export GOPATH=$HOME/go`
   * `export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin`
   * `go version`
-    
+
 It should display the go version.
 
 ### Creat Wallet
+
 Note: Git is required for the remaining setup steps.
 
 * Open a terminal
@@ -55,16 +55,18 @@ Note: Git is required for the remaining setup steps.
   * `[nimble-networkd path]/nimble-networkd keys add ilovenimble`
   * `(Type your passphrase)`
   * `(Save the seed phrase somewhere safe)`
-    
+
 The “address: nimblexxxx” output means your Nimble Network wallet address was created successfully!
 
 ### Start Mining
+
 Note: python3.9 (or above) and pip3 are required for the remaining steps
 
 * Open a terminal window
 * Install python3 venv
   * `sudo apt update`
   * `sudo apt install python3-venv`
+
 > If you encounter a failure while installing python3-venv, please execute the following commands.
 >
 > ```shell
@@ -72,21 +74,23 @@ Note: python3.9 (or above) and pip3 are required for the remaining steps
 > sudo add-apt-repository ppa:deadsnakes/ppa -y
 > sudo apt install python3-venv
 > ```
-* Download and run nimble miner 
-  * `cd  $HOME/nimble`
+
+* Download and run nimble miner
+  * `cd $HOME/nimble`
   * `git clone https://github.com/nimble-technology/nimble-miner-public.git`
   * `cd nimble-miner-public`
   * `make install`
   * `source ./nimenv_localminers/bin/activate`
   * `make run addr=<copy paste your “nimblexxx” wallet address here>`
- 
+
 To resume mining after your machine disconnects, re-run the command:
 
 `make run addr=<copy paste your “nimblexxx” wallet address here>`
- 
-## Installing on Mac 
+
+## Installing on Mac
 
 ### Install Golang
+
 * Download and install Golang (**v1.22 or higher**)
   * [https://golang.org/dl/](https://golang.org/dl/)
 * Open a terminal window
@@ -95,10 +99,11 @@ To resume mining after your machine disconnects, re-run the command:
   2. `export GOPATH=$HOME/go`
   3. `export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin`
   4. `go version`
-     
+
 It should display the go version, ex. `goX.X.X darwin/amd64`
 
 ### Create Wallet
+
 Note: Git is required for the remaining setup steps.
 
 * Open a terminal
@@ -113,12 +118,13 @@ Note: Git is required for the remaining setup steps.
   * `[nimble-networkd path]/nimble-networkd keys add ilovenimble`
   * `(Type your passphrase)`
   * `(Save the seed phrase somewhere safe)`
-    
+
 The “address: nimblexxxx” output means your Nimble Network wallet address was created successfully!
 
 ### Start Mining
+
 * Open a terminal window
-  * `cd  $HOME/nimble`
+  * `cd $HOME/nimble`
   * `git clone https://github.com/nimble-technology/nimble-miner-public.git`
   * `cd nimble-miner-public`
   * `make install`
@@ -132,6 +138,7 @@ To resume mining after your machine disconnects, re-run the command:
 ## Installing on Linux
 
 ### Install Golang
+
 * Open a terminal
 * Execute the following commands
   * `sudo apt update`
@@ -143,6 +150,7 @@ To resume mining after your machine disconnects, re-run the command:
 It should display the go version.
 
 ### Create Wallet
+
 Note: Git is required for the remaining setup steps.
 
 * Open a terminal
@@ -157,16 +165,17 @@ Note: Git is required for the remaining setup steps.
 * Execute the following command to create your wallet. Give your wallet a name, such as 'ilovenimble'.
   * `[nimble-networkd path]/nimble-networkd keys add ilovenimble`
   * `(Type your passphrase)`
-  * `(Save the seed phrase somewhere safe)`
-The “address: nimblexxxx” output means your Nimble Network wallet address was created successfully!
+  * `(Save the seed phrase somewhere safe)` The “address: nimblexxxx” output means your Nimble Network wallet address was created successfully!
 
 ### Start Mining
+
 Note: python3.9 (or above) and pip3 are required for the remaining steps
 
 * Open a terminal window
 * Install python3 venv for Linux
   * `sudo apt update`
   * `sudo apt install python3-venv`
+
 > If you encounter a failure while installing python3-venv, please execute the following commands.
 >
 > ```shell
@@ -174,8 +183,9 @@ Note: python3.9 (or above) and pip3 are required for the remaining steps
 > sudo add-apt-repository ppa:deadsnakes/ppa -y
 > sudo apt install python3-venv
 > ```
+
 * Open a terminal window
-  * `cd  $HOME/nimble`
+  * `cd $HOME/nimble`
   * `git clone https://github.com/nimble-technology/nimble-miner-public.git`
   * `cd nimble-miner-public`
   * `make install`
@@ -185,7 +195,6 @@ Note: python3.9 (or above) and pip3 are required for the remaining steps
 To resume mining after your machine disconnects, re-run the command:
 
 `make run addr=<copy paste your “nimblexxx” wallet address here>`
-
 
 ## Congrats 😘
 
