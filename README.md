@@ -52,10 +52,8 @@ Note: Git is required for the remaining setup steps.
   * `git clone https://github.com/nimble-technology/wallet-public.git`
   * `cd wallet-public`
   * `make install`
-* Locate this path and confirm it exists (replace \<you> with your username)
-  * `/home/<you>/go/bin/nimble-networkd`
 * Execute the following command to create your wallet. Give your wallet a name, such as 'ilovenimble'.
-  * `[nimble-networkd path]/nimble-networkd keys add ilovenimble`
+  * `$HOME/go/bin/nimble-networkd keys add ilovenimble`
   * `(Type your passphrase)`
   * `(Save the seed phrase somewhere safe)`
 
