@@ -4,7 +4,7 @@ description: A short guide to mining on Nimble
 
 # Mining on Nimble
 
-Use these instructions to configure your mining hardware and mine NIM.
+Use these instructions to configure your mining hardware and mine NIM peacefully.
 
 Instructions are available for Linux, Windows 11, and Mac.
 
