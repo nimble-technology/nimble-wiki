@@ -1,7 +1,3 @@
----
-description: A short guide to mining on Nimble.
----
-
 # Mining on Nimble
 
 Use these instructions to configure your mining hardware and mine NIM peacefully.
