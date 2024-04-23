@@ -1,5 +1,5 @@
 ---
-description: A short guide to mining on Nimble
+description: A short guide to mining on Nimble.
 ---
 
 # Mining on Nimble
