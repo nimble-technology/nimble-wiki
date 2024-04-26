@@ -1,202 +1,49 @@
-# Mining on Nimble
+---
+cover: >-
+  https://images.unsplash.com/photo-1562575214-da9fcf59b907?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxsaWdodHxlbnwwfHx8fDE3MTQwMzgyMjd8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Use these instructions to configure your mining hardware and mine NIM peacefully.
+# Overview
 
-Instructions are available for Linux, Windows 11, and Mac.
+## What is Nimble
 
-## System Specs
+Nimble is a decentralized AI orchestration layer (aka. AI Orderbook) that connects applications, developers, model training, GPU resources, and data on the blockchain. Nimble's mission is to transform the AI ecosystem by reducing costs and increasing efficiency. This enables applications to spend less on building AI models and developers to reduce expenses on GPU rentals. Additionally, GPU and data providers can monetize their participation in the Nimble Network.
 
-Recommended
+## What is Nimble Token
 
-* RTX 3090+ GPU
-* Core i7 13700
-* 16GB RAM
-* 256 GB disk space
+The Nimble Network facilitates a variety of transaction types including training models, publishing models, staking models, publishing data, and using GPUs. Each transaction incurs a pair of earning and paying, which is denominated in Nimble Tokens—the official currency of the network.
 
-Minimum
+## Validators
 
-* RTX 2080+ GPU (Linux/Windows), or M1/M2/M3 Mac chips
-* Core i5 7400
-* 16GB RAM
-* 256 GB disk space
+Validators in the Nimble Network execute complex algorithms to ensure the trustworthiness of transactions. They employ a range of AI/ML techniques for training validation, model quality assessment, data validation, and staking validation. Each validator specializes in no more than one aspect but must perform it exceptionally well. Furthermore, each type of validation requires the consensus of multiple validators. As the network scales horizontally, the number of validators—or algorithms—must also increase. Cross-validation is crucial to maintaining trustworthiness and identifying and penalizing inadequate validators.
 
-## Installing on Windows 11
+## Consensus
 
-### Install Golang
+Given the inherent non-determinism of AI/ML processes, the Nimble Network achieves consensus when the majority of validators approve a transaction. This voting mechanism is both fair and mathematically sound.
 
-* Install Windows Subsystem for Linux (WSL)
-  * [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
-* Nimble requires Go 1.22.1. If you already have a previous Go version installed, start by removing it
-  * `sudo apt-get remove golang-go`
-  * `sudo rm -rf /usr/local/go`
-* Once completed, open a terminal and execute the following commands
-  * `cd /usr/local`
-  * `sudo wget https://go.dev/dl/go1.22.1.linux-amd64.tar.gz`
-  * `sudo tar -C /usr/local -xzf go1.22.1.linux-amd64.tar.gz`
-  * `export PATH=$PATH:/usr/local/go/bin`
-  * `go version`
+## Rewards
 
-It should display the go version 1.22.1
+Nimble offers rewards primarily to GPU miners and data providers, who are pivotal to the AI infrastructure. These rewards ensure the stability of the infrastructure and the availability of comprehensive data for model training and inference.
 
-### Create Wallet
+## Staking
 
-Note: Git is required for the remaining setup steps.
+In addition to supporting token staking—a common feature across many chains—Nimble's unique ecosystem also allows for the staking of models and data. These are considered "assets," and owners can earn Nimble tokens by sharing their models and data, which are then utilized by others within the ecosystem.
 
-* Open a terminal
-* Execute the following commands to download wallet CLI
-  * `mkdir $HOME/nimble && cd $HOME/nimble`
-  * `git clone https://github.com/nimble-technology/wallet-public.git`
-  * `cd wallet-public`
-  * `make install`
-* Locate this path and confirm it exists (replace \<you> with your username)
-  * `/home/<you>/go/bin/nimble-networkd`
-* Execute the following command to create your wallet. Give your wallet a name, such as 'ilovenimble'.
-  * `[nimble-networkd path]/nimble-networkd keys add ilovenimble`
-  * `(Type your passphrase)`
-  * `(Save the seed phrase somewhere safe)`
+## Inflation
 
-The “address: nimblexxxx” output means your Nimble Network wallet address was created successfully!
-
-### Start Mining
-
-Note: python3.9 (or above) and pip3 are required for the remaining steps
-
-* Open a terminal window
-* Install python3 venv
-  * `sudo apt update`
-  * `sudo apt install python3-venv`
-
-> If you encounter a failure while installing python3-venv, please execute the following commands.
->
-> ```shell
-> sudo apt-get install software-properties-common
-> sudo add-apt-repository ppa:deadsnakes/ppa -y
-> sudo apt install python3-venv
-> ```
-
-* Download and run nimble miner
-  * `cd $HOME/nimble`
-  * `git clone https://github.com/nimble-technology/nimble-miner-public.git`
-  * `cd nimble-miner-public`
-  * `make install`
-  * `source ./nimenv_localminers/bin/activate`
-  * `make run addr=<copy paste your “nimblexxx” wallet address here>`
-
-To resume mining after your machine disconnects, re-run the command:
-
-`make run addr=<copy paste your “nimblexxx” wallet address here>`
-
-## Installing on Mac
-
-### Install Golang
-
-* Download and install Golang (**v1.22 or higher**)
-  * [https://golang.org/dl/](https://golang.org/dl/)
-* Open a terminal window
-* Execute the following commands
-  1. `mkdir ~/go`
-  2. `export GOPATH=$HOME/go`
-  3. `export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin`
-  4. `go version`
-
-It should display the go version, ex. `goX.X.X darwin/amd64`
-
-### Create Wallet
-
-Note: Git is required for the remaining setup steps.
-
-* Open a terminal
-* Execute the following commands to download wallet CLI
-  * `mkdir $HOME/nimble && cd $HOME/nimble`
-  * `git clone https://github.com/nimble-technology/wallet-public.git`
-  * `cd wallet-public`
-  * `make install`
-* Locate this path and confirm it exists (replace \<you> with your username)
-  * `/Users/<you>/go/bin/nimble-networkd`
-* Execute the following command to create your wallet. Give your wallet a name, such as 'ilovenimble'.
-  * `[nimble-networkd path]/nimble-networkd keys add ilovenimble`
-  * `(Type your passphrase)`
-  * `(Save the seed phrase somewhere safe)`
-
-The “address: nimblexxxx” output means your Nimble Network wallet address was created successfully!
-
-### Start Mining
-
-* Open a terminal window
-  * `cd $HOME/nimble`
-  * `git clone https://github.com/nimble-technology/nimble-miner-public.git`
-  * `cd nimble-miner-public`
-  * `make install`
-  * `source ./nimenv_localminers/bin/activate`
-  * `make run addr=<copy paste your “nimblexxx” wallet address here>`
-
-To resume mining after your machine disconnects, re-run the command:
-
-`make run addr=<copy paste your “nimblexxx” wallet address here>`
-
-## Installing on Linux
-
-### Install Golang
-
-* Open a terminal
-* Execute the following commands
-  * `sudo apt update`
-  * `sudo apt install golang`
-  * `export GOPATH=$HOME/go`
-  * `export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin`
-  * `go version`
-
-It should display the go version.
-
-### Create Wallet
-
-Note: Git is required for the remaining setup steps.
-
-* Open a terminal
-* Execute the following commands to download wallet CLI
-  * `mkdir $HOME/nimble && cd $HOME/nimble`
-  * `git clone https://github.com/nimble-technology/wallet-public.git`
-  * `cd wallet-public`
-  * `make install`
-* Locate this path and confirm it exists (replace \<you> with your username)
-  * `/home/<you>/go/bin/nimble-networkd`
-  * Copy this path value and use it in the next step.
-* Execute the following command to create your wallet. Give your wallet a name, such as 'ilovenimble'.
-  * `[nimble-networkd path]/nimble-networkd keys add ilovenimble`
-  * `(Type your passphrase)`
-  * `(Save the seed phrase somewhere safe)` The “address: nimblexxxx” output means your Nimble Network wallet address was created successfully!
-
-### Start Mining
-
-Note: python3.9 (or above) and pip3 are required for the remaining steps
-
-* Open a terminal window
-* Install python3 venv for Linux
-  * `sudo apt update`
-  * `sudo apt install python3-venv`
-
-> If you encounter a failure while installing python3-venv, please execute the following commands.
->
-> ```shell
-> sudo apt-get install software-properties-common
-> sudo add-apt-repository ppa:deadsnakes/ppa -y
-> sudo apt install python3-venv
-> ```
-
-* Open a terminal window
-  * `cd $HOME/nimble`
-  * `git clone https://github.com/nimble-technology/nimble-miner-public.git`
-  * `cd nimble-miner-public`
-  * `make install`
-  * `source ./nimenv_localminers/bin/activate`
-  * `make run addr=<copy paste your “nimblexxx” wallet address here>`
-
-To resume mining after your machine disconnects, re-run the command:
-
-`make run addr=<copy paste your “nimblexxx” wallet address here>`
-
-## Congrats 😘
-
-You are now mining NIM!
-
-For assistance, find us in our Discord server - [https://discord.gg/nimble](https://discord.gg/nimble)
+The inflation rate for Nimble is set at 0%. This is designed to maintain the purchasing power of the Nimble Token and ensure a stable economic environment within the network.
