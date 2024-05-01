@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Start From a Wallet
+# 💰 Nimble Wallet
 
 Traveling across Nimble Network requires a wallet, for earning or paying tokens.&#x20;
 

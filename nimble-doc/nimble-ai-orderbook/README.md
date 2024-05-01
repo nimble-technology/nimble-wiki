@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# AI Orderbook with Matrix
+# 📖 Nimble AI Orderbook
 
 Successful AI training hinges on three critical resources: compute power (GPUs), data, and developers. Each of these pillars faces its own set of challenges—from accessibility and scalability to efficiency. Similarly, AI inferences relies on computer power and application's calls.
 
