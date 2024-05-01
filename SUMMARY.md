@@ -3,11 +3,11 @@
 ## ⚒️ Miners
 
 * [Overview](README.md)
-* [The First Ever AI Orderbook](miners/the-first-ever-ai-orderbook/README.md)
-  * [Math Paper](miners/the-first-ever-ai-orderbook/math-paper.md)
-  * [Compute](miners/the-first-ever-ai-orderbook/compute.md)
-  * [Data](miners/the-first-ever-ai-orderbook/data.md)
-  * [Developer](miners/the-first-ever-ai-orderbook/developer.md)
+* [AI Orderbook with Matrix](miners/ai-orderbook-with-matrix/README.md)
+  * [Math Paper](miners/ai-orderbook-with-matrix/math-paper.md)
+  * [Compute](miners/ai-orderbook-with-matrix/compute.md)
+  * [Data](miners/ai-orderbook-with-matrix/data.md)
+  * [Developer](miners/ai-orderbook-with-matrix/developer.md)
 * [Start From a Wallet](miners/start-from-a-wallet/README.md)
   * [On Mac](miners/start-from-a-wallet/on-mac.md)
   * [On Windows](miners/start-from-a-wallet/on-windows.md)
