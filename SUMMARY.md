@@ -4,6 +4,7 @@
 
 * [Overview](README.md)
 * [The First Ever AI Orderbook](miners/the-first-ever-ai-orderbook/README.md)
+  * [Math Paper](miners/the-first-ever-ai-orderbook/math-paper.md)
   * [Compute](miners/the-first-ever-ai-orderbook/compute.md)
   * [Data](miners/the-first-ever-ai-orderbook/data.md)
   * [Developer](miners/the-first-ever-ai-orderbook/developer.md)

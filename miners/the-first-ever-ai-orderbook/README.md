@@ -9,3 +9,8 @@ coverY: 0
 Successful AI training hinges on three critical resources: compute power (GPUs), data, and developers. Each of these pillars faces its own set of challenges—from accessibility and scalability to efficiency. Our innovative approach involves an orchestration layer that glues GPUs, data, and developer resources on onchain. Each transaction has its real world business impact.&#x20;
 
 We call this one stop shop  "AI Orderbook". Please refer to each section on the left panel for more details.
+
+<figure><img src="../../.gitbook/assets/Nimble-AI-Orderbook.jpg" alt=""><figcaption></figcaption></figure>
+
+```latex
+```
