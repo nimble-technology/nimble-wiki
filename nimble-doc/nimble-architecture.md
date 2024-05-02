@@ -1,6 +1,6 @@
 # 🗼 Nimble Architecture
 
-Despite whatever fancy terms in web3, this page talks about 3 key components of the overall Nimble engineering system: storage, communication and privacy. &#x20;
+This page talks about the general methodology behind Nimble engineering ecosystem. Regardless of the complex jargon often associated with web3, we focus here on these fundamental aspects: security, storage and  communication.
 
 ## 1. Security and Privacy
 
