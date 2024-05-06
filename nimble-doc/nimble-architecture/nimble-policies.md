@@ -1,10 +1,14 @@
-# Nimble Embeddings
+# Nimble Policies
 
 ## Context
 
-At Nimble Network, we recognize the critical importance of privacy and security, especially when it comes to handling sensitive data in on-chain machine learning environments. As we expand our ecosystem, ensuring that all data is protected and used ethically is a must.&#x20;
+At Nimble Network, we recognize the critical importance of privacy and security, especially when it comes to handling sensitive data in on-chain machine learning environments. As we expand our ecosystem, ensuring that all data is protected and used ethically is a must.
 
-### Nimble Embeddings
+## Nimble Policies
+
+Nimble policies are privacy and security rules as defined in the Nimble Matrix. It defines the security and privacy policies as being honored by the network validators. Still taking an AI training example, consider the data being shared by models across the network.
+
+## Data Embeddings
 
 Instead of training models or performing inference on raw data, we use a sophisticated embedding technique. This method involves transforming sensitive data into another dimensional space, which represents the essential information without exposing the raw data. This process not only secures the data but also enhances processing efficiency and protects user privacy.
 
