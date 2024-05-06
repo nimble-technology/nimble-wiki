@@ -2,7 +2,7 @@
 
 We aim to swiftly deploy a protocol facilitating miners and developers to build enterprise-grade AI products through composability. With aggressive timelines and execution plans, we have multiple roadmap phases.
 
-<figure><img src="../.gitbook/assets/Group 1312317524 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 1312317524 (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 2024Q1 - Nimble Mainnet Alpha
 
