@@ -4,7 +4,7 @@
 
 * [🔅 Overview](README.md)
 * [📖 Nimble AI OrderBook](nimble-doc/nimble-ai-orderbook/README.md)
-  * [Math Paper](nimble-doc/nimble-ai-orderbook/math-paper.md)
+  * [Orchestration](nimble-doc/nimble-ai-orderbook/orchestration.md)
   * [Compute](nimble-doc/nimble-ai-orderbook/compute.md)
   * [Data](nimble-doc/nimble-ai-orderbook/data.md)
   * [Developer](nimble-doc/nimble-ai-orderbook/developer.md)
@@ -31,7 +31,8 @@
     * [Start training](nimble-doc/nimble-sdk/for-ai-developers/start-training.md)
     * [Publish](nimble-doc/nimble-sdk/for-ai-developers/publish.md)
     * [Deploy](nimble-doc/nimble-sdk/for-ai-developers/deploy.md)
-* [🗼 Nimble Architecture](nimble-doc/nimble-architecture.md)
+* [🗼 Nimble Architecture](nimble-doc/nimble-architecture/README.md)
+  * [Nimble Matrix](nimble-doc/nimble-architecture/nimble-matrix.md)
 
 ## 🥂 Nimble Resources
 
@@ -40,3 +41,4 @@
 * [Github](https://github.com/nimble-technology)
 * [Whitepaper](https://www.nimble.technology/whitepaper)
 * [Branding Kit](https://www.figma.com/file/uJo4BlSumDFJwjxzDAJi6I/Nimble-Branding-Kit?type=design\&node-id=0-1\&mode=design\&t=S99Y76TAh2HzkEXt-0)
+* [The Math of AI Orderbook](nimble-resources/the-math-of-ai-orderbook.md)

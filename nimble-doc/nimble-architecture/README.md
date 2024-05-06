@@ -14,7 +14,7 @@ Instead of training models or performing inference on raw data, we use a sophist
 
 **2.Reduced Data Abuse Risk**: Embeddings minimize the detailed information that can be exploited, thus significantly lowering the risk of data misuse.
 
-<figure><img src="../.gitbook/assets/Group 1312318713.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 1312318713.png" alt="" width="563"><figcaption></figcaption></figure>
 
 To further safeguard our data of embedding, all communications within the Nimble Network will be encrypted. This encryption applies to data as it moves between nodes and while it is at rest, ensuring that only authorized nodes can access or interpret the information.
 
@@ -32,13 +32,13 @@ For our dynamic and rapidly evolving data needs—matrix information, node infor
 
 **3. Dynamic Node Participation:** Our network is in a phase of hyper-growth, with numerous GPUs and validators joining daily. The DHT allows for dynamic participation with minimal disruption. As new validators come onboard, they seamlessly take over a portion of the keys from existing nodes. Similarly, when a node exits, its responsibilities and keys are efficiently reassigned to the remaining nodes.
 
-<figure><img src="../.gitbook/assets/Group 1312318697.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 1312318697.png" alt=""><figcaption></figcaption></figure>
 
 #### Static, Immutable Storage
 
 For storing static data such as data or model files, which are immutable, we have chosen not to reinvent the wheel. Instead, we've partnered with leading on-chain solutions to ensure scalability and security. A prime example of this integration is with BNB chain Greenfield, specifically for model file storage. This partnership enables us to leverage blockchain technology to secure and scale our storage solutions efficiently.
 
-<figure><img src="../.gitbook/assets/Group 1312318676.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 1312318676.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 3. Communication
 
@@ -54,7 +54,7 @@ Gossip protocols is used for several purposes:
 
 **3.Failure Detection**: Validators can quickly share alerts about node failures or connectivity issues, allowing the network to adapt and respond rapidly.
 
-<figure><img src="../.gitbook/assets/Group 1312318674.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 1312318674.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Validator <> GPU/Data/Developer/Applications
 
@@ -66,5 +66,5 @@ In a landscape as dynamic as the Nimble Network, standard communication protocol
 
 **3. Enhanced Security:** Security is paramount in everything we do at Nimble Network. Our DSL includes robust security protocols to authenticate commands and protect against unauthorized access, ensuring that our network remains secure and trustworthy.
 
-<figure><img src="../.gitbook/assets/Group 1312318675.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Group 1312318675.png" alt="" width="563"><figcaption></figcaption></figure>
 
