@@ -12,5 +12,5 @@ We call the whole system "AI Orderbook" as a one-stop shop that connects everyth
 
 Nimble Matrix represents complex data structures as standardized DSLs, flowing across the network. Matching, pricing, and transactions are sequentially executed for each Nimble Matrix on the AI Orderbook.
 
-Please refer to [Nimble architecture](https://docs.nimble.technology/nimble-doc/nimble-architecture) for more detailed design on AI Orderbook and Nimble Matrix. The following sections provide an overview on orchestration among compute, data and developers and benefits to such network participants.
+Please refer to [Nimble architecture](https://docs.nimble.technology/nimble-doc/nimble-architecture) for more detailed design on AI Orderbook and Nimble Matrix. The following sections provide an overview on orchestration among compute, data and developers. Benefits to such network participants are illustrated as well.
 
