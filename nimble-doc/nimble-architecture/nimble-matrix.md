@@ -13,3 +13,27 @@ Still taking an AI training example, consider an AI developer named 'Bob' who us
 | <p>0x3695 (as california GPU provider's address)<br>{<br>    GRAM: "40GB",<br>    max_storage: "200GB", <br>    matching_strategy: "stable revenue",<br>    min_price: "5 $NIM",</p><p>    virtualization: "true"</p><p>    ...</p><p>}</p>                    | <p>0xV354 (as validator)<br>{<br>    type: matching,<br>    storage: 100GB,<br>    estimated_duration: "6600 seconds",<br>    output_dir: "ds:0x9760/".<br>    data_strategy: "encryption",<br>    state: validated<br>....</p><p>}</p>                                           |
 
 The example provided is intended solely for matching purposes within the training flow; however, the same structure applies to subsequent steps and inference flows. Each step functions in a fully decentralized manner and is executed on-chain. Importantly, all operations are conducted on top of the Nimble Matrix.
+
+## Matrix Storage
+
+At Nimble Network, we understand the diverse storage needs of Nimble Matrix essential for powering our AI OrderBook. Our approach to storage is  designed to support two fundamental types: static, immutable data or model files, and dynamic, fast-changing matrix information, node information, and OrderBook.
+
+#### Dynamic, Fast-Changing Storage
+
+For our dynamic and rapidly evolving data needs—matrix information, node information, and OrderBook—we have constructed the backbone using a Distributed Hash Table (DHT). This system serves three critical purposes:
+
+**1. Node Lookup:** Using a consistent hashing scheme, our DHT facilitates precise and swift node lookups. For instance, once a match is completed and an application needs to connect to a specific GPU, the DHT is queried using the provider’s key to locate the responsible validator node.
+
+**2. Load Balancing:** The DHT inherently balances the storage load among nodes as they join or leave the network. Employing algorithms like consistent hashing, it targets evenly distributing tasks such as training requests to GPU providers, optimizing resource use and enhancing system performance.
+
+**3. Dynamic Node Participation:** Our network is in a phase of hyper-growth, with numerous GPUs and validators joining daily. The DHT allows for dynamic participation with minimal disruption. As new validators come onboard, they seamlessly take over a portion of the keys from existing nodes. Similarly, when a node exits, its responsibilities and keys are efficiently reassigned to the remaining nodes.
+
+<figure><img src="../../.gitbook/assets/Group 1312318697.png" alt=""><figcaption></figcaption></figure>
+
+#### Static, Immutable Storage
+
+For storing static data such as data or model files, which are immutable, we have chosen not to reinvent the wheel. Instead, we've partnered with leading on-chain solutions to ensure scalability and security. A prime example of this integration is with BNB chain Greenfield, specifically for model file storage. This partnership enables us to leverage blockchain technology to secure and scale our storage solutions efficiently.
+
+<figure><img src="../../.gitbook/assets/Group 1312318676.png" alt="" width="563"><figcaption></figcaption></figure>
+
+## 3.&#x20;
