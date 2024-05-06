@@ -6,9 +6,7 @@ coverY: 0
 
 # 📖 Nimble AI OrderBook
 
-Successful AI training hinges on three critical resources: compute power (GPUs), data, and developers. Each of these pillars faces its own set of challenges—from accessibility and scalability to efficiency.&#x20;
+Successful AI training hinges on three critical resources: compute power (GPUs), data, and developers. Each of these pillars faces its own set of challenges—from accessibility and scalability to efficiency. Similarly, AI inferences relies on computer power and application calls.
 
-Similarly, AI inferences relies on computer power and application calls.
-
-We call the whole system "AI Orderbook" as a one-stop shop that connects everything together on chain, covering both training and inference.&#x20;
+We call the whole system "AI Orderbook" as a one-stop shop that connects everything together on chain, covering both training and inference.  Nimble Matrix is the core representations for matching, pricing, and transactions to be sequentially executed for each Nimble Matrix. Please refer to [Nimble architecture](https://docs.nimble.technology/nimble-doc/nimble-architecture) for more details.
 
