@@ -6,9 +6,11 @@ At Nimble Network, we recognize the critical importance of privacy and security,
 
 ## Nimble Policies
 
-Nimble policies are privacy and security rules as defined in the Nimble Matrix. It defines the security and privacy policies as being honored by the network validators. Still taking an AI training example, consider the data being shared by models across the network.
+Nimble policies are privacy and security rules as defined in the Nimble Matrix. It defines the security and privacy policies as being honored by the network validators. A policy is an object in Nimble Matrix, associated with resource constraints, access permissions and performance SLAs. Permissions decide whether a request is allowed or denied. Policies are stored as structured blurbs such as JSON documents.
 
-## Data Embeddings
+## Case Study: Data Privacy
+
+Still taking an AI training example, consider the data being shared by models across the network. Data providers can provide and define privacy policy to share data only in the format of embeddings for example.
 
 Instead of training models or performing inference on raw data, we use a sophisticated embedding technique. This method involves transforming sensitive data into another dimensional space, which represents the essential information without exposing the raw data. This process not only secures the data but also enhances processing efficiency and protects user privacy.
 
