@@ -36,4 +36,22 @@ For storing static data such as data or model files, which are immutable, we hav
 
 <figure><img src="../../.gitbook/assets/Group 1312318676.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## 3.&#x20;
+## Matrix Operations
+
+Nimble Matrix can represent onchain and offchain operations as well.
+
+### On-chain AI Operations
+
+On-chain operation verification can be easily performed through DeFi operations. When miners submit a solution proposal to on-chain contracts, they describe the specific steps that will be taken to solve the intent.
+
+The network can verify that the transactions were executed by checking the public ledger.
+
+For example, imagine a miner proposes a solution that swaps Token A for Token B at a 1:1 ratio. The swap operation was only successful if completed within the described parameters.
+
+Network rewards are processed after a successful transaction (or set of transactions). Bundlers only receive network token rewards when they return the profits to users and pay network fees, if any.
+
+### Off-chain AI Operations
+
+Consider a user submits an LLM request for an interactive, chatbot-like experience. GPT models from numerous developers compete to fulfill the operation. For chat requests, there will be a standardized evaluation function used to compare intents and evaluate them. Users rate GPT model responses. A reputation system built by user feedback is raw data for model evaluations.
+
+In this way, for off-chain operations, a positive feedback loop between users and miners is achieved. Such feedback dynamics lay the foundation for network health.&#x20;
