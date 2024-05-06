@@ -1,6 +1,6 @@
 # Nimble Matrix
 
-## Matrix DSL
+## Context
 
 The Nimble Matrix represents the fundamental elements flowing through the Orderbook. It is the standardized data structure to define various data structures such as training, inference, data and gpu requests on the network. It is specified by the Nimble domain specific language (DSL) as illustrated below.
 

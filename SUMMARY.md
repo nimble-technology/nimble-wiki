@@ -33,6 +33,7 @@
     * [Deploy](nimble-doc/nimble-sdk/for-ai-developers/deploy.md)
 * [🗼 Nimble Architecture](nimble-doc/nimble-architecture/README.md)
   * [Nimble Matrix](nimble-doc/nimble-architecture/nimble-matrix.md)
+  * [Nimble Validators](nimble-doc/nimble-architecture/nimble-validators.md)
 
 ## 🥂 Nimble Resources
 
