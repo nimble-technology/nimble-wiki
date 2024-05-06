@@ -4,7 +4,7 @@
 
 The Nimble Matrix represents the fundamental elements flowing through the Orderbook. It is the standardized data structure to define various data structures such as training, inference, data and gpu requests on the network. It is specified by the Nimble domain specific language (DSL) as illustrated below.
 
-## AI Training Case Study
+## Case Study
 
 Still taking an AI training example, consider an AI developer named 'Bob' who uses a dataset called 'health-bodyscan-image-set' and connects with a GPU provider from 'US-california-40GRAM' to develop large image classification models. Here’s how the corresponding Nimble Matrix would be structured:
 
