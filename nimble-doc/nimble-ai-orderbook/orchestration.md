@@ -11,6 +11,8 @@ The world is brimming with isolated islands of information, whether it's busines
 
 <figure><img src="../../.gitbook/assets/Frame.png" alt=""><figcaption></figcaption></figure>
 
+## OrderBook Design
+
 Nimble's job is to execute Matrix at the maximum efficiency. Thus AI OrderBook is designed for 3 phases.
 
 * **Matching**: Identifies all potential combinations that meet the criteria of every participant.
