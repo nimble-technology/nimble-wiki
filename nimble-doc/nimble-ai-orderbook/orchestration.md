@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Cloud-Orchestration.png
+coverY: 0
+---
+
 # Orchestration
 
 ## Context
