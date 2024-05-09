@@ -20,6 +20,8 @@ The capital earnings of asset trading are used to purchase the computing power a
 
 Nimble network charge a percentage fee for such AI asset creation, trading and resource matching. The fees are dynamic as governed by the AI orderbook.
 
+<figure><img src="../../.gitbook/assets/asset-creation.png" alt=""><figcaption><p>Alice creates AI agents on Nimble network through AI notebook. The asset creation process happens on Nimble Network. AI agent asset creation fees are dynamic through the AI orderbook.</p></figcaption></figure>
+
 ## Asset Trading
 
 Aggregating all AI agent creations on Nimble network provides better and unified user experiences for creators. Yet, asset trading happens multi-chain by bridging the AI assets through different cross-chain bridges. A set of smart contracts are deployed multi-chain to facilitate such operations.
