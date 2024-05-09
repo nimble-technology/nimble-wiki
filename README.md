@@ -22,7 +22,7 @@ layout:
 
 ## What is Nimble
 
-Nimble is a decentralized AI orchestration layer (aka. AI OrderBook) that connects applications, developers, model training, model inferencing, GPU resources, and data on the blockchain. Nimble's mission is to transform the AI ecosystem by reducing costs and increasing efficiency. This enables applications to spend less on building AI models and developers to reduce expenses on GPUs. This also makes AI accessible to a broader audience, allowing everyone to experiment with AI technology on their own. Additionally, GPU and data providers can monetize their participation in the Nimble Network.
+Nimble is to accelerate open AI innovations with a decentralized AI orchestration network solution (aka. AI OrderBook) that connects applications, developers, model training, model inferencing, GPU resources, and data on the blockchain. Nimble's mission is to transform the AI ecosystem by reducing costs and increasing efficiency. This enables applications to spend less on building AI models and developers to reduce expenses on GPUs. This also makes AI accessible to a broader audience, allowing everyone to experiment with AI technology on their own. Additionally, GPU and data providers can monetize their participation in the Nimble Network.
 
 ## What is Nimble Token
 
