@@ -4,6 +4,8 @@
 
 Nimble connects AI agent creators, compute and data on one single platform. Everyone can create, own and trade such AI agents being represented as Nimble AI assets. The entire AI agent building, asset creation and trading workflow is permissionless.
 
+Nimble assets are AI focused assets very different from Nimble network governance tokens. Such assets can be created by any AI agent creators.
+
 ## AI Notebook
 
 AI notebook is the creator interface we offer to AI agent creators. Nimble SDK is accessible by creators via AI notebook. It facilitates resource matching among creators and infrastructure providers (e.g., data and gpu). Such resource matching includes data discovery, gpu scheduling and AI deployments. AI job monitoring services are built-in as well.
