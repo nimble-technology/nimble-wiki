@@ -35,6 +35,7 @@
   * [Nimble Matrix](nimble-doc/nimble-architecture/nimble-matrix.md)
   * [Nimble Validators](nimble-doc/nimble-architecture/nimble-validators.md)
   * [Nimble Policies](nimble-doc/nimble-architecture/nimble-policies.md)
+  * [Nimble Assets](nimble-doc/nimble-architecture/nimble-assets.md)
 * [🛣️ Nimble Roadmap](nimble-doc/nimble-roadmap.md)
 
 ## 🥂 Nimble Resources
