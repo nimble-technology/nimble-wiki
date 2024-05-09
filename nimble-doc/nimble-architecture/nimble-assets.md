@@ -12,6 +12,10 @@ AI notebook is the creator interface we offer to AI agent creators. Nimble SDK i
 
 AI training and inference jobs initiated by the AI notebooks are the real network mining operations. The entire network builds AI agents as an ultimate outcome, producing net values with decentralized AI technologies.
 
+The following video is an AI notebook demo of training and payment flows. Nimble SDK hides all the complexities of infra resource matching, pricing and AI transactions. AI notebook provides the optimal developer experience to create, build and monetize AI agents.
+
+{% file src="../../.gitbook/assets/AI Notebook Demo.mp4" %}
+
 ## Asset Creation
 
 AI agents trained and served on the network are mapped to assets. Asset creations are permissionless and such assets represent ownerships. They are tradable by community members. Being staked, asset owners earn fees from API calls and training of such AI agents.
