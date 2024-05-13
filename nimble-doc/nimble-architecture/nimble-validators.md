@@ -40,6 +40,8 @@ As a piece of public infrastructure, Nimble will be subject to dishonest and fra
 
 A reputation system is required to ensure high-quality and automated miner selection via AI orderbook.
 
+The reputations are built by validators via permissionless AI evaluation solutions Nimble has built in-house. In AI training, checkpoints (i.e., intermediate model states) are leveraged for truthful model iterations on batch data. For inferences, inference redundancy builds reputations for low reputation miners by cross-checking with multiple high reputation miners in the network.
+
 As an orchestration layer, the network needs signals from the community in order to select truthful miners. For this purpose, we aim to implement miner reputations. Reputation is built as a weighted sum of staking (optional, yet critical), and a history of user feedback. In this way, low-quality miners are selected out of the network automatically, and high-quality miners are chosen more often.
 
 Solutions proposed by miners who repeatedly provide invalid solutions will be rejected automatically.
