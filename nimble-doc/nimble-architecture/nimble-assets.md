@@ -1,6 +1,6 @@
 # Nimble Assets
 
-Context
+## Context
 
 Nimble connects AI agent creators, compute and data on one single platform. Everyone can create, own and trade such AI agents being represented as Nimble AI assets. The entire AI agent building, asset creation and trading workflow is permissionless.
 
