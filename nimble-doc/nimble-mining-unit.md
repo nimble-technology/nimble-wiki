@@ -46,9 +46,9 @@ The Mining Unit Rental Campaign connects our community members with verified thi
 2\. USD can be paid with USDC or USDT with 1:1 ratio.\
 3\. Cap per Wallet is applied to each tier only. The same wallet can rent across different tiers.
 
-## Referral&#x20;
+## Rental Referral&#x20;
 
-Participants using referral codes will get a 5-10% rental rebate.&#x20;
+Generate and share referral codes to earn. Participants using referral codes will get a 5-10% rental rebate.
 
 <table><thead><tr><th width="192"></th><th width="275">Partner Referral</th><th>Individual Referral</th></tr></thead><tbody><tr><td><strong>Audience</strong></td><td>Partners with large influence and communities are eligible for a referral code upon approval. </td><td>Individuals are eligible for a referral code for rebates upon Mining Unit rentals.</td></tr><tr><td><strong>Referee rebate</strong></td><td>10%</td><td>5%</td></tr><tr><td><strong>Referrer commission</strong></td><td>Varies</td><td>5%</td></tr><tr><td><strong>How to obtain</strong> </td><td>To apply, you can visit <a href="https://docs.google.com/forms/d/1FaJCRhkKqVVroFEn8hgTgUemRkffegg79ODvEMgyogk/prefill">https://docs.google.com/forms/d/1FaJCRhkKqVVroFEn8hgTgUemRkffegg79ODvEMgyogk/prefill</a> </td><td>A unique referral code will be automatically activated for the participant after their first rental:<br><a href="https://miner.nimble.technology">https://miner.nimble.technology</a></td></tr><tr><td><strong>How it works</strong></td><td>When a participant rents a Mining Unit with your unique referral code, you will get a % commission from their rent, while they will get a % rebate.</td><td>When a participant rents a Mining Unit with your unique referral code, you will get a % commission from their rent, while they will get a % rebate.</td></tr><tr><td><strong>Distribution timeline</strong></td><td>The rebate and commission will be distributed in stablecoins every two weeks.</td><td>The rebate and commission will be distributed in stablecoins every two weeks. </td></tr></tbody></table>
 
