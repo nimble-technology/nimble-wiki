@@ -28,7 +28,7 @@ Nimble's mission is to transform the AI ecosystem by enabling decentralization, 
 
 The solution is a decentralized AI orchestration network (aka. AI OrderBook) that connects applications, developers, GPU resources and data on the blockchain for efficient, low cost and permissionless AI model training and inferencing. To build optimal developer experience, AI notebook is the unified developer interface built to access GPUs, data and job status very easily. The unique AI asset and network staking design gives AI development and model ownerships back to users.
 
-<figure><img src=".gitbook/assets/螢幕截圖 2024-05-27 下午10.01.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/螢幕截圖 2024-05-27 下午10.01.53.png" alt=""><figcaption><p>Nimble Architecture: AI innovations are facilitated with data, compute and AI agents on one single platform, together with the optimal developer experience.</p></figcaption></figure>
 
 ## What is Nimble Token
 
