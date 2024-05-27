@@ -44,22 +44,20 @@ The Mining Unit Rental Campaign connects our community members with verified thi
 **Note:**\
 1\. +x% Boost = Mining Unit + x% Boost Reward. For example, +75% Boost means rewards of a mining unit plus 75% rewards per unit.\
 2\. USD can be paid with USDC or USDT with 1:1 ratio.\
-3\. Cap per Wallet is applied to each tier only. The same wallet can purchase across different tiers.
+3\. Cap per Wallet is applied to each tier only. The same wallet can rent across different tiers.
 
 ## Referral&#x20;
 
 Participants using referral codes will get a 5-10% rental rebate.&#x20;
 
-<table data-header-hidden><thead><tr><th width="192"></th><th width="275"></th><th></th></tr></thead><tbody><tr><td><strong>Referral Code Type</strong></td><td><strong>Partner Referral Code</strong></td><td><strong>Individual Participant Referral Code</strong></td></tr><tr><td><strong>Rebate to participant</strong></td><td>10%</td><td>5%</td></tr><tr><td><strong>Commission to referrer</strong></td><td>Varies</td><td>5%</td></tr><tr><td><strong>How to obtain</strong> </td><td>Partners with large influence and communities are eligible for a referral code upon approval. To apply, you can visit <a href="https://docs.google.com/forms/d/1FaJCRhkKqVVroFEn8hgTgUemRkffegg79ODvEMgyogk/prefill">https://docs.google.com/forms/d/1FaJCRhkKqVVroFEn8hgTgUemRkffegg79ODvEMgyogk/prefill</a> </td><td>A unique referral code will be automatically activated for the participant after their first rental.</td></tr><tr><td><strong>How it works</strong></td><td>When a participant rents a Mining Unit with your unique referral code, you will get a % commission from their rent, while they will get a 10% rebate.</td><td><p>When you rent a Mining Unit with a referral code, you will receive a 5% rebate, and the referrer will get a % commission. </p><p><br></p><p>When a participant rents a Mining Unit with your unique referral code, you will get a 5% commission from their rent, while they will get a 5% rebate.</p></td></tr><tr><td><strong>Distribution timeline</strong></td><td>The rebate and commission will be distributed in stablecoins every two weeks. </td><td>The rebate and commission will be distributed in stablecoins every two weeks. </td></tr></tbody></table>
+<table><thead><tr><th width="192"></th><th width="275">Partner Referral</th><th>Individual Referral</th></tr></thead><tbody><tr><td><strong>Audience</strong></td><td>Partners with large influence and communities are eligible for a referral code upon approval. </td><td>Individuals are eligible for a referral code for rebates upon Mining Unit rentals.</td></tr><tr><td><strong>Referee rebate</strong></td><td>10%</td><td>5%</td></tr><tr><td><strong>Referrer commission</strong></td><td>Varies</td><td>5%</td></tr><tr><td><strong>How to obtain</strong> </td><td>To apply, you can visit <a href="https://docs.google.com/forms/d/1FaJCRhkKqVVroFEn8hgTgUemRkffegg79ODvEMgyogk/prefill">https://docs.google.com/forms/d/1FaJCRhkKqVVroFEn8hgTgUemRkffegg79ODvEMgyogk/prefill</a> </td><td>A unique referral code will be automatically activated for the participant after their first rental:<br><a href="https://miner.nimble.technology">https://miner.nimble.technology</a></td></tr><tr><td><strong>How it works</strong></td><td>When a participant rents a Mining Unit with your unique referral code, you will get a % commission from their rent, while they will get a % rebate.</td><td>When a participant rents a Mining Unit with your unique referral code, you will get a % commission from their rent, while they will get a % rebate.</td></tr><tr><td><strong>Distribution timeline</strong></td><td>The rebate and commission will be distributed in stablecoins every two weeks.</td><td>The rebate and commission will be distributed in stablecoins every two weeks. </td></tr></tbody></table>
 
 ## Mark Your Calendars&#x20;
 
-* Campaign launch: The week of June 3, 2024. The exact time will be announced soon
-* TGE: Q3 2024
+* **Campaign launch**: The week of June 3, 2024. The exact time will be announced soon
+* **TGE**: Q3 2024
 
-For more details on how to rent a Mining Unit, stay tuned to Nimble’s official channels.&#x20;
-
-
+For more details on how to rent a Mining Unit, stay tuned to Nimble’s official channels.
 
 \
 \
