@@ -2,8 +2,6 @@
 
 The Nimble Mining Unit Rental Campaign is a new initiative that Nimble collaborates with our third-party GPU operator network, to offer users the most secure, efficient, and user-friendly mining experiences.
 
-
-
 ## Mining Unit&#x20;
 
 Mining Unit provides a simple and efficient way for users to rent the computing power of H100 GPU from our verified third-party GPU operators, who will then handle the mining process on their behalf. The GPU operators will utilize H100 GPUs to perform AI training tasks on Nimble for the Mining Unit users. In return, Mining Unit users will earn Nimble tokens as mining rewards and 10% of the rewards will be distributed to the GPU operators as an operational fee. This entire mining process can be completed with just a few simple button clicks.
@@ -42,7 +40,7 @@ The Mining Unit Rental Campaign connects our community members with verified thi
 <table><thead><tr><th width="100" align="center">Tier</th><th width="214" align="center">Content</th><th width="201" align="center">Unit Price (USD)</th><th width="185" align="center">Total Units</th><th width="170" align="center">Whitelisted Units</th><th align="center">Cap per Wallet</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">+75% Boost</td><td align="center">450</td><td align="center">2,000</td><td align="center">1,000</td><td align="center">10</td></tr><tr><td align="center">2</td><td align="center">+50% Boost</td><td align="center">475</td><td align="center">6,000</td><td align="center">3,000</td><td align="center">15</td></tr><tr><td align="center">3</td><td align="center">+30% Boost</td><td align="center">500</td><td align="center">12,000</td><td align="center">6,000</td><td align="center">30</td></tr><tr><td align="center">4</td><td align="center">+20% Boost</td><td align="center">535</td><td align="center">14,000</td><td align="center">7,000</td><td align="center">40</td></tr><tr><td align="center">5</td><td align="center">+10% Boost</td><td align="center">570</td><td align="center">16,000</td><td align="center">8,000</td><td align="center">50</td></tr><tr><td align="center"><br></td><td align="center"><strong>Total</strong></td><td align="center"><br></td><td align="center"><strong>50,000</strong></td><td align="center"><strong>25,000</strong></td><td align="center"><br></td></tr></tbody></table>
 
 **Note:**\
-1\. +x% Boost = Mining Unit + x% Boost Reward. For example, +75% Boost means rewards of a mining unit plus 75% rewards per unit.\
+1\. +x% Boost = Mining Unit + x% Boost Reward. For example, +75% Boost means rewards of a mining unit plus 75% additional rewards per unit.\
 2\. USD can be paid with USDC or USDT with 1:1 ratio.\
 3\. Cap per Wallet is applied to each tier only. The same wallet can rent across different tiers.
 
