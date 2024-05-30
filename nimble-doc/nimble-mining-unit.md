@@ -55,7 +55,7 @@ The rebate and commission will be distributed in stablecoins every two weeks.
 
 ## Mark Your Calendars&#x20;
 
-* **Campaign launch**: The week of June 3, 2024. The exact time will be announced soon.
+* **Campaign launch**: The week of June 10, 2024. The exact time will be announced soon.
 * **TGE**: Q3 2024
 
 For more details on how to rent a Mining Unit, stay tuned to Nimble’s official channels.
