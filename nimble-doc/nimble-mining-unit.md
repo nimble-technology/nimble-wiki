@@ -36,9 +36,8 @@ The Mining Unit Rental Campaign connects our community members with verified thi
 * veNIM can be redeemed for NIM with varying rates and waiting periods (up to 180 days)
 * All payments will be processed on Arbitrum&#x20;
 * Claiming mining rewards may require KYC
-* For whitelist application, please visit [https://forms.gle/xnoRCJdXBf63Gp7n6](https://forms.gle/xnoRCJdXBf63Gp7n6)
 
-<table><thead><tr><th width="100" align="center">Tier</th><th width="214" align="center">Content</th><th width="201" align="center">Unit Price (USD)</th><th width="185" align="center">Total Units</th><th width="170" align="center">Whitelisted Units</th><th align="center">Cap per Wallet</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">+75% Boost</td><td align="center">450</td><td align="center">2,000</td><td align="center">1,000</td><td align="center">10</td></tr><tr><td align="center">2</td><td align="center">+50% Boost</td><td align="center">475</td><td align="center">6,000</td><td align="center">3,000</td><td align="center">15</td></tr><tr><td align="center">3</td><td align="center">+30% Boost</td><td align="center">500</td><td align="center">12,000</td><td align="center">6,000</td><td align="center">30</td></tr><tr><td align="center">4</td><td align="center">+20% Boost</td><td align="center">525</td><td align="center">14,000</td><td align="center">7,000</td><td align="center">40</td></tr><tr><td align="center">5</td><td align="center">+10% Boost</td><td align="center">550</td><td align="center">16,000</td><td align="center">8,000</td><td align="center">50</td></tr><tr><td align="center"><br></td><td align="center"><strong>Total</strong></td><td align="center"><br></td><td align="center"><strong>50,000</strong></td><td align="center"><strong>25,000</strong></td><td align="center"><br></td></tr></tbody></table>
+<table><thead><tr><th width="100" align="center">Tier</th><th width="214" align="center">Content</th><th width="201" align="center">Unit Price (USD)</th><th width="185" align="center">Total Units</th><th align="center">Cap per Wallet</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">+75% Boost</td><td align="center">450</td><td align="center">2,000</td><td align="center">10</td></tr><tr><td align="center">2</td><td align="center">+50% Boost</td><td align="center">475</td><td align="center">6,000</td><td align="center">15</td></tr><tr><td align="center">3</td><td align="center">+30% Boost</td><td align="center">500</td><td align="center">12,000</td><td align="center">30</td></tr><tr><td align="center">4</td><td align="center">+20% Boost</td><td align="center">525</td><td align="center">14,000</td><td align="center">40</td></tr><tr><td align="center">5</td><td align="center">+10% Boost</td><td align="center">550</td><td align="center">16,000</td><td align="center">50</td></tr><tr><td align="center"><br></td><td align="center"><strong>Total</strong></td><td align="center"><br></td><td align="center"><strong>50,000</strong></td><td align="center"><br></td></tr></tbody></table>
 
 **Note:**\
 1\. +x% Boost = Mining Unit + x% Boost Reward. For example, +75% Boost means rewards of a mining unit plus 75% additional rewards per unit.\
@@ -55,7 +54,7 @@ The rebate and commission will be distributed in stablecoins every two weeks.
 
 ## Mark Your Calendars&#x20;
 
-* **Campaign launch**: The week of June 10, 2024. The exact time will be announced soon.
+* **Campaign launch**: The week of June 3, 2024. The exact time will be announced soon.
 * **TGE**: Q3 2024
 
 For more details on how to rent a Mining Unit, stay tuned to Nimble’s official channels.
