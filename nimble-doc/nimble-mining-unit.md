@@ -41,7 +41,7 @@ The Mining Unit Rental Campaign connects our community members with verified thi
 
 **Note:**\
 1\. +x% Boost = Mining Unit + x% Boost Reward. For example, +75% Boost means rewards of a mining unit plus 75% additional rewards per unit.\
-2\. USD can be paid with USDC or USDT with 1:1 ratio.\
+2\. USD can be paid with USDC with 1:1 ratio.\
 3\. Cap per Wallet is applied to each tier only. The same wallet can rent across different tiers.
 
 ## Rental Referral&#x20;
