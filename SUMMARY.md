@@ -3,8 +3,8 @@
 ## 📗 Nimble Doc
 
 * [🔅 Overview](README.md)
+* [📔 Nimble AI Notebook](nimble-doc/nimble-ai-notebook.md)
 * [📖 Nimble AI OrderBook](nimble-doc/nimble-ai-orderbook/README.md)
-  * [AI Agent Creation](nimble-doc/nimble-ai-orderbook/ai-agent-creation.md)
   * [Orchestration](nimble-doc/nimble-ai-orderbook/orchestration.md)
   * [Compute](nimble-doc/nimble-ai-orderbook/compute.md)
   * [Data](nimble-doc/nimble-ai-orderbook/data.md)

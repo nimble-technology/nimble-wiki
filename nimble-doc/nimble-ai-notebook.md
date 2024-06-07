@@ -1,6 +1,6 @@
-# AI Agent Creation
+# 📔 Nimble AI Notebook
 
-## AI Notebook
+## AI Agent Creation
 
 AI notebook is the creator interface we offer to AI agent creators. Nimble SDK is accessible by creators via AI notebook. It facilitates resource matching among creators and infrastructure providers (e.g., data and gpu). Such resource matching includes data discovery, gpu scheduling and AI deployments. AI job monitoring services are built-in as well.
 
