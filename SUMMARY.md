@@ -4,7 +4,7 @@
 
 * [🔅 Overview](README.md)
 * [📔 Nimble AI Notebook](nimble-doc/nimble-ai-notebook.md)
-* [🧊 AI Agent Hub](nimble-doc/ai-agent-hub.md)
+* [🧊 Nimble AI Agent Hub](nimble-doc/nimble-ai-agent-hub.md)
 * [📖 Nimble AI OrderBook](nimble-doc/nimble-ai-orderbook/README.md)
   * [Orchestration](nimble-doc/nimble-ai-orderbook/orchestration.md)
   * [Compute](nimble-doc/nimble-ai-orderbook/compute.md)
