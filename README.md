@@ -22,7 +22,7 @@ layout:
 
 ## What is Nimble
 
-Nimble is to accelerate open AI innovations, by solving the problems of a) AI centralization, b) compute scarcity, and c) incentive misalignments.
+Nimble is the first open AI network to accelerate open AI innovations, by solving the problems of a) AI centralization, b) compute scarcity, and c) incentive misalignments.
 
 Nimble's mission is to transform the AI ecosystem by enabling decentralization, reducing costs and increasing efficiency. This empowers applications to spend less on building AI models and developers to reduce expenses on GPUs. This also makes AI accessible to a broader audience, allowing everyone to experiment with AI technology on their own. Additionally, GPU and data providers can monetize their participation in the Nimble Network.
 
