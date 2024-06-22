@@ -1,4 +1,4 @@
-# 🧊 AI Agent Hub
+# 🧊 Nimble AI Agent Hub
 
 ## AI Agent Hub
 
@@ -32,7 +32,7 @@ Each AI agent is a unique asset on the Nimble Network. They can be owned and con
   \
   The AI Agent Hub enables a collaborative ecosystem where AI agents can interact and integrate with one another through APIs. This allows applications across blockchains to easily access and utilize the AI agents hosted on Nimble’s AI Agent Hub.\
 
-* **Composability**\
+* **AI Agent Composability**\
   \
   Furthermore, this interconnectivity enables AI builders to easily integrate these existing AI agents into their workflows, unlocking new levels of functionality and efficiency.
 
