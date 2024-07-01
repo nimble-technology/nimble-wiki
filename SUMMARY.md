@@ -38,7 +38,6 @@
   * [Nimble Validators](nimble-doc/nimble-architecture/nimble-validators.md)
   * [Nimble Policies](nimble-doc/nimble-architecture/nimble-policies.md)
   * [Nimble Assets](nimble-doc/nimble-architecture/nimble-assets.md)
-* [⚙️ Nimble Mining Unit](nimble-doc/nimble-mining-unit.md)
 * [🛣️ Nimble Roadmap](nimble-doc/nimble-roadmap.md)
 
 ## 🥂 Nimble Resources
