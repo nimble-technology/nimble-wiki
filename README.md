@@ -20,8 +20,6 @@ layout:
 
 # 🔅 Introduction
 
-## Introduction
-
 ## What is Nimble
 
 Welcome to Nimble, the **first open AI network** that accelerates open AI innovations.
