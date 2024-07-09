@@ -18,9 +18,11 @@ layout:
     visible: true
 ---
 
-# 🔅 Overview
+# 🔅 Introduction
 
 ## Introduction
+
+## What is Nimble
 
 Welcome to Nimble, the **first open AI network** that accelerates open AI innovations.
 
@@ -107,3 +109,36 @@ First, it ensures the trustworthiness of AI computation and network security thr
 Also, users can stake to get early access on AI agent within Nimble ecosystem.&#x20;
 
 In addition to support token staking, a common feature across many chains, Nimble’s unique ecosystem also allows for the staking of models and data in the future. Owners can earn Nimble tokens by sharing their models and data.
+
+Welcome to Nimble, the **first open AI network that accelerates open AI innovations**.&#x20;
+
+\
+With Nimble, anyone can build, own, and profit from their own AI agents using the most optimal computing and data resources along with the superior machine learning services.&#x20;
+
+\
+Nimble is committed to fostering an open and collaborative AI creator economy. Here, AI agents can be effortlessly developed, seamlessly interact, and freely transact within an open market.
+
+
+
+Explore the boundless possibilities with Nimble - where the future of AI is in your hands.
+
+
+
+## The Journey of AI: From Centralization to Decentralization&#x20;
+
+&#x20;Artificial Intelligence (AI) has undergone remarkable advancements since its inception, transforming from a concept in the minds of scientists to powerful applications like ChatGPT. However, today's AI landscape faces significant challenges due to centralization. Several crucial components necessary for AI advancement, ranging from resources (such as computational power, datasets, and models), to development tools (such as GPU scheduling and Machine Learning workflow management) and AI products (such as AI agents), are primarily controlled by a few major tech companies and are not easily accessible to the public.
+
+### Current Challenges in AI Development
+
+1. Accessibility Barrier: Smaller companies and individuals often struggle to access the cost-effective computational power and diverse datasets needed to develop their own AI products.
+2. Innovation Bottleneck: Closed-source models restrict innovation. Major tech companies may not meet the diverse needs of all users, limiting options and slowing the pace of tailored solutions.
+3. Scalability Issues: Centralized AI systems face difficulties in scaling efficiently due to suboptimal resource allocation. AI agents developed in such environments often cannot interact with each other, hindering collaboration and interoperability.
+4. Incentive Misalignment: There's little incentive for centralized systems to share GPUs, data, and models, leading to inefficiencies and underutilization.
+5. Security Concerns: The lack of transparency in centralized AI systems raises concerns about computational integrity and data privacy.
+
+### The Promise of Decentralization
+
+Blockchain technology, with its attributes of permissionless access, interoperability, cryptographic security, and incentive structures, offers a promising solution to these challenges. While several new AI solutions have emerged in the Web3 world, an efficient Web2-like development experience is yet to be realized.
+
+Nimble aims to bridge this gap with an open AI network that empowers anyone to build, own, and profit from their AI agents, all while providing a seamless development experience akin to Web2.
+

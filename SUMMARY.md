@@ -2,14 +2,15 @@
 
 ## 📗 Nimble Doc
 
-* [🔅 Overview](README.md)
+* [🔅 Introduction](README.md)
+* [📘 Overview](nimble-doc/overview.md)
 * [📔 Nimble AI Notebook](nimble-doc/nimble-ai-notebook.md)
-* [🧊 Nimble AI Agent Hub](nimble-doc/nimble-ai-agent-hub.md)
 * [📖 Nimble AI OrderBook](nimble-doc/nimble-ai-orderbook/README.md)
   * [Orchestration](nimble-doc/nimble-ai-orderbook/orchestration.md)
   * [Compute](nimble-doc/nimble-ai-orderbook/compute.md)
   * [Data](nimble-doc/nimble-ai-orderbook/data.md)
   * [Developer](nimble-doc/nimble-ai-orderbook/developer.md)
+* [🧊 Nimble AI Agent Hub](nimble-doc/nimble-ai-agent-hub.md)
 * [💰 Nimble Wallet](nimble-doc/nimble-wallet/README.md)
   * [On Mac](nimble-doc/nimble-wallet/on-mac.md)
   * [On Windows](nimble-doc/nimble-wallet/on-windows.md)
