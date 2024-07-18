@@ -40,6 +40,7 @@
   * [Nimble Policies](nimble-doc/nimble-architecture/nimble-policies.md)
   * [Nimble Assets](nimble-doc/nimble-architecture/nimble-assets.md)
 * [🛣️ Nimble Roadmap](nimble-doc/nimble-roadmap.md)
+* [🦥 Brand Kit](nimble-doc/brand-kit.md)
 
 ## 🥂 Nimble Resources
 
