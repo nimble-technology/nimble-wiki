@@ -5,7 +5,7 @@ description: Identity Guidelines
 # 🦥 Brand Kit
 
 {% hint style="info" %}
-Please adhere to these guidelines when featuring Sei in marketing communications, such as advertising, articles, websites, and printed materials.
+Please adhere to these guidelines when featuring Nimble in marketing communications, such as advertising, articles, websites, and printed materials.
 
 **Download full brand assets and guidelines**
 
