@@ -51,5 +51,5 @@ We use Inter font across all brand applications.
 {% hint style="info" %}
 **Download full brand assets and guidelines**
 
-[Nimble Brand Assets](https://www.figma.com/design/uJo4BlSumDFJwjxzDAJi6I/Nimble-Branding-Kit?node-id=0-1)[ ](https://www.figma.com/design/uJo4BlSumDFJwjxzDAJi6I/Nimble-Branding-Kit?node-id=0-1)
+[Nimble Brand Assets](https://www.figma.com/design/LTbWx2KOmWrcewRv4eLnCp/Nimble-Brand-Kit?node-id=0-1\&t=iXl3HP6T0fTbTCzx-1)
 {% endhint %}
