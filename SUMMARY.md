@@ -3,7 +3,6 @@
 ## 📗 Nimble Doc
 
 * [🔅 Introduction](README.md)
-* [📘 Overview](nimble-doc/overview.md)
 * [📔 Nimble AI Notebook](nimble-doc/nimble-ai-notebook.md)
 * [📖 Nimble AI OrderBook](nimble-doc/nimble-ai-orderbook/README.md)
   * [Orchestration](nimble-doc/nimble-ai-orderbook/orchestration.md)
