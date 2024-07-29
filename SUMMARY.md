@@ -47,5 +47,4 @@
 * [Discord](https://discord.gg/78qW2UfeBS)
 * [Github](https://github.com/nimble-technology)
 * [Whitepaper](https://www.nimble.technology/whitepaper)
-* [Branding Kit](https://www.figma.com/file/uJo4BlSumDFJwjxzDAJi6I/Nimble-Branding-Kit?type=design\&node-id=0-1\&mode=design\&t=S99Y76TAh2HzkEXt-0)
 * [The Math behind AI Orderbook](nimble-resources/the-math-behind-ai-orderbook.md)
