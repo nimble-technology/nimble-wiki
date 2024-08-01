@@ -48,7 +48,7 @@ Blockchain technology, with its attributes of permissionless access, interoperab
 
 Nimble aims to bridge this gap with an open AI network that empowers anyone to build, own, and profit from their AI agents, all while providing a seamless development experience akin to Web2.&#x20;
 
-## Nimble's solution &#x20;
+## Nimble's Solution &#x20;
 
 To create an open and collaborative AI creator economy, Nimble is building an open AI Network. This network supports the entire machine learning workflow, from AI training to fine-tuning and inference. Nimble’s technical architecture is designed to:
 
