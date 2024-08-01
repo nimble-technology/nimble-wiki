@@ -1,30 +1,37 @@
 # 🛣️ Nimble Roadmap
 
-We aim to swiftly deploy a protocol facilitating miners and developers to build enterprise-grade AI products through composability. With aggressive timelines and execution plans, we have multiple roadmap phases.
-
 <figure><img src="../.gitbook/assets/Group 1312317524 (2).png" alt=""><figcaption></figcaption></figure>
 
-## 2024Q1 - Nimble Mainnet Alpha
+## Where Are We Now?
 
-First, our **mainnet alpha launch** happens in Q1 2024, allowing miners to contribute to the network and developers to leverage composability.
+Our system is currently live for distributing AI tasks, evaluating their training status, and sending rewards through an automated evaluation flow called the evaluator (for our AI orderbook Alpha version).&#x20;
 
-It offers early community members to mine early and earn more via GPU, data and model contributions.
+Additionally, we've developed an AI notebook prototype to onboard new developers.
 
-## 2024Q2 - AI Orderbook Upgrade
+## Q3 2024
 
-The second phase is focused on **Network Growth** with AI orderbook upgrades. This involves expanding GPUs, data providers and AI agents on the network.
+#### Chain Layer Transition & Reputation System&#x20;
 
-It supports developers building on Nimble to expand our ecosystem further by providing a) notebook AI training tooling, and b) AI orderbook upgrades for easier model development on the network.
+We aim to move AI task matching to the Chain layer as part of our AI orderbook beta version. We'll also stabilize the evaluator service to enhance security and streamline operations by removing unnecessary logic.,&#x20;
 
-## 2024Q3 - Nimble AI Assets
+Additionally, we plan to finalize the implementation of a staking, reputation, and slashing system to eliminate manual wallet approval.
 
-Nimble Network will be ready for network token exchange listing. Network AI assets are tradeable on chains such as BNB chain etc.
+#### The AI Notebook Public Launch&#x20;
 
-Anyone can create models on the network, being represented as AI assets. The model ownerships are thus being decentralized.
+Next, we plan to launch a fully-fledged AI notebook service to the public, enabling anyone to create, publish, and monetize AI agents. This service will be integrated with the Chain layer for AI agent creation.&#x20;
 
-## 2024Q4 - Fully Fledged Ecosystem
+We also aim to establish an AI Agent Hub for monetizing models and AI agents, and onboard more web3 developers. Further enhancements will include improving the AI agent use case, the orderbook matching mechanism, and the UI/UX for GPU miners and developers.
 
-By end of 2024, Nimble will have a fully fledged AI ecosystem. The team will continuously develop the network with incremental development and launches. Product features and improvements are community driven.
+#### Network Stabilization&#x20;
 
+In the meantime, we're working towards stabilizing the AI notebook, AI orderbook, and AI agent hub solutions, with a continued focus on training.
 
+## Q4 2024
 
+#### Nimble AI Assets
+
+In Q4, our focus will shift to developing AI assets and onboarding web2 AI developers and applications to create a comprehensive product ecosystem. We will continue to expand the network by integrating more AI applications and refining AI agents for domain-specific fine-tuning and inferencing support.
+
+#### Fully Fledged Ecosystem
+
+We will also prioritize data privacy enhancements, B2B industry-tailored AI training solutions (e.g., finance, gaming), and multi-chain support for AI agents.

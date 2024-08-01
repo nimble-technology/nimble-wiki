@@ -22,11 +22,11 @@ layout:
 
 ## What is Nimble
 
-Welcome to Nimble, the **first open AI network** that accelerates open AI innovations.
+Welcome to Nimble, the **first open AI network** designed to accelerate AI innovation.&#x20;
 
-With Nimble, anyone can build, own, and profit from their own AI agents using the most optimal computing and data resources along with the superior machine learning services.
+With Nimble, anyone can build, own, and profit from AI agents using the most optimal computing and data resources, along with advanced machine learning services.
 
-Nimble is committed to fostering an open and collaborative AI creator economy. Here, AI agents can be effortlessly developed, seamlessly interact, and freely transact within an open market.
+Nimble is committed to fostering an open and collaborative AI creator economy. Here, AI agents can be developed with ease, interact seamlessly, and transact freely within an open market.
 
 Explore the boundless possibilities with Nimble - where the future of AI is in your hands.
 
