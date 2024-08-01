@@ -12,7 +12,6 @@
   * [Evaluator Reward](general/tokenomics/evaluator-reward.md)
   * [Validator Reward](general/tokenomics/validator-reward.md)
   * [Staking and Burning Machnism](general/tokenomics/staking-and-burning-machnism.md)
-* [🦥 Brand Kit](general/brand-kit.md)
 
 ## For Users
 
@@ -54,7 +53,6 @@
     * [Start training](for-developers/nimble-sdk/for-ai-developers/start-training.md)
     * [Publish](for-developers/nimble-sdk/for-ai-developers/publish.md)
     * [Deploy](for-developers/nimble-sdk/for-ai-developers/deploy.md)
-* [📠 The Math behind AI Orderbook](for-developers/the-math-behind-ai-orderbook.md)
 
 ## Resources
 
@@ -62,3 +60,5 @@
 * [👩‍💻 Discord](https://discord.gg/78qW2UfeBS)
 * [🛳️ Github](https://github.com/nimble-technology)
 * [📃 Whitepaper](https://www.nimble.technology/whitepaper)
+* [📠 The Math behind AI Orderbook](resources/the-math-behind-ai-orderbook.md)
+* [🦥 Brand Kit](resources/brand-kit.md)
