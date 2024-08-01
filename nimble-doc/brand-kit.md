@@ -18,25 +18,25 @@ Please adhere to these guidelines when featuring Nimble in marketing communicati
 
 Nimble's brand identity is professional, bold, and modern, distilling the complexity of the product into visually accessible and appealing features. The logo is the main manifestation of those qualities.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Symbol
 
 The letter N represents the symbol for the visual identity of Nimble and the nature of artificial intelligence in the product.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Color Palette
 
 Our main brand color is Black, complemented by Nimble Blue, which is used for call-to-action buttons. Muted Blue is also used for call-to-action buttons. The Nimble gradient transitions between Muted Blue, Pale Blue, and Nimble Blue in this order for background applications.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Nimble Gradient
 
 #### Light Gradient
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Dark Gradient
 

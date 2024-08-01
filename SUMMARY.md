@@ -39,6 +39,14 @@
   * [Nimble Policies](nimble-doc/nimble-architecture/nimble-policies.md)
   * [Nimble Assets](nimble-doc/nimble-architecture/nimble-assets.md)
 * [🛣️ Nimble Roadmap](nimble-doc/nimble-roadmap.md)
+* [🪙 Tokenomics](nimble-doc/tokenomics/README.md)
+  * [Token Distribution](nimble-doc/tokenomics/token-distribution.md)
+  * [Token Utility](nimble-doc/tokenomics/token-utility.md)
+  * [Token Emission Schedule](nimble-doc/tokenomics/token-emission-schedule.md)
+  * [GPU Provider Reward](nimble-doc/tokenomics/gpu-provider-reward.md)
+  * [Evaluator Reward](nimble-doc/tokenomics/evaluator-reward.md)
+  * [Validator Reward](nimble-doc/tokenomics/validator-reward.md)
+  * [Staking and Burning Machnism](nimble-doc/tokenomics/staking-and-burning-machnism.md)
 * [🦥 Brand Kit](nimble-doc/brand-kit.md)
 
 ## 🥂 Nimble Resources

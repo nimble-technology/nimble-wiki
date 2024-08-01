@@ -77,32 +77,3 @@ Nimble introduces three core functionalities to unlock an efficient and scalable
 * **AI Notebook**: An all-in-one developer platform that provides Web2-like development experience&#x20;
 * **AI OrderBook**: An efficient orchestration engine that optimizes machine learning workflow with the most optimal GPU and data
 * **AI Agent Hub**: An open and collaborative hub providing diverse AI agents for Web2 and Web3 application use cases
-
-### Nimble Economics
-
-#### Token Utility&#x20;
-
-NIM, the native token of Nimble Network, forms the core of the economic incentives within the Nimble Network and provides a wide range of utilities:&#x20;
-
-* Universal Payment: the primary medium of exchange within Nimble Network.&#x20;
-* Network Security: Safeguard for both AI computation and network security&#x20;
-* Contributor Incentives: Miners, data providers, and users are incentivized to contribute their computing power, data and user feedback&#x20;
-* Governance: Right to propose and vote on proposals to improve the network and manage critical parameters
-
-#### Staking&#x20;
-
-Staking plays a crucial role in Nimble Network.
-
-First, it ensures the trustworthiness of AI computation and network security through a delegated proof-of-stake mechanism. Both Miners and Validators need to stake a minimum capital to participate in AI computation and transaction validation.&#x20;
-
-Also, users can stake to get early access on AI agent within Nimble ecosystem.&#x20;
-
-In addition to support token staking, a common feature across many chains, Nimble’s unique ecosystem also allows for the staking of models and data in the future. Owners can earn Nimble tokens by sharing their models and data.
-
-Welcome to Nimble, the **first open AI network that accelerates open AI innovations**. \
-\
-With Nimble, anyone can build, own, and profit from their own AI agents using the most optimal computing and data resources along with the superior machine learning services. \
-\
-Nimble is committed to fostering an open and collaborative AI creator economy. Here, AI agents can be effortlessly developed, seamlessly interact, and freely transact within an open market.
-
-Explore the boundless possibilities with Nimble - where the future of AI is in your hands.
