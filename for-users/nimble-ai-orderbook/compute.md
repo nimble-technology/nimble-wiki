@@ -8,15 +8,15 @@ coverY: 0
 
 ## Context
 
-The evolution of deep learning has propelled machine learning from smaller, manually-crafted models to expansive neural networks. Large Language Models (LLMs), for instance, can have billions to hundreds of billions of parameters, necessitating substantial GPU resources in terms of memory and processing power. For example, running a model like Llama 70B typically requires high-end GPUs such as the A100 or H100.
+The evolution of deep learning has transformed machine learning from small, manually-crafted models to expansive neural networks. Large Language Models (LLMs), for example, now contain billions to hundreds of billions of parameters, requiring significant GPU resources in terms of memory and processing power. For instance, running a model like Llama 70B typically requires high-end GPUs such as the A100 or H100.
 
-Despite this trend, the mantra "bigger is better" does not universally apply. In many business applications, such as spam detection, churn prediction, and credit scoring, smaller models suffice, and can effectively run on more accessible GPUs like the 1080 gaming card. This diversity in model size and business needs creates a varied landscape in AI compute requirements.
+However, the idea that "bigger is better" doesn't apply universally. Many business applications, such as spam detection, churn prediction, and credit scoring, can effectively run on smaller models using more accessible GPUs like the 1080 gaming card. This diversity in model size and business needs creates a varied landscape in AI compute requirements.
 
 ## Nimble's Value
 
 ### Efficient Resource Matching
 
-Nimble strategically addresses this varied landscape by efficiently matching specific computational needs with appropriate GPU resources. Our platform manages a robust network of GPU providers, which has accumulated over 4 million training hours during a month-long proof of concept. This extensive experience allows Nimble to pinpoint the most cost-effective GPU for any given task, ensuring that resources are not only adequate but also economically optimized.
+Nimble addresses this diverse landscape by efficiently matching specific computational needs with the appropriate GPU resources. Our platform manages a vast network of GPU providers, which has accumulated over 4 million training hours during a month-long proof of concept. This experience allows Nimble to identify the most cost-effective GPU for any task, ensuring resources are both adequate and economically optimized.
 
 ### Model Scalability by Segmentation
 
@@ -24,4 +24,4 @@ For exceptionally large models that cannot be supported by a single GPU—such a
 
 ### Miner Rewards
 
-Ultimately, Nimble orchestrates GPU resources, distributing tasks across a network of miners who train the models, compile results, and commit transactions to the blockchain. This process rewards the miners for their contributions, creating a symbiotic ecosystem that drives the advancement of AI technologies.
+Nimble orchestrates GPU resources, by distributing tasks across a network of miners who train the models, compile results, and commit transactions to the blockchain. This process rewards the miners for their contributions, creating a symbiotic ecosystem that drives the advancement of AI technologies.

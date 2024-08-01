@@ -1,13 +1,19 @@
+---
+description: >-
+  An integrated development environment providing a web2-like experience for AI
+  development.
+---
+
 # 📔 Nimble AI Notebook
 
 ## AI Agent Creation
 
-AI notebook is the creator interface we offer to AI agent creators. Nimble SDK is accessible by creators via AI notebook. It facilitates resource matching among creators and infrastructure providers (e.g., data and gpu). Such resource matching includes data discovery, gpu scheduling and AI deployments. AI job monitoring services are built-in as well.
+The AI Notebook is our user-friendly interface designed for AI agent creators. Through the Nimble SDK, creators can easily access resources like data and GPUs, facilitating seamless resource matching, GPU scheduling, and AI deployments. Plus, it includes built-in job monitoring services to keep everything running smoothly.
 
-AI training and inference jobs initiated by the AI notebooks are the real network mining operations. The entire network builds AI agents as an ultimate outcome, producing net values with decentralized AI technologies.
+When developers use the AI Notebook to start AI training and inference jobs, they’re participating in the core mining operations of the Nimble network. The goal is to build AI agents that deliver real value using decentralized AI technology.
 
-The following video is an AI notebook demo of training and payment flows. Nimble SDK hides all the complexities of infra resource matching, pricing and AI transactions. AI notebook provides the optimal developer experience to create, build and monetize AI agents.
+Watch the video demo below to see the AI Notebook in action, showcasing how easy it is to handle training and payment flows. The Nimble SDK takes care of all the complexities of resource matching, pricing, and AI transactions, so developers can focus on creating, building, and monetizing their AI agents with ease.
 
 {% embed url="https://www.youtube.com/watch?v=Dld7C67KE1w" %}
-AI notebook built to optimize developer onboarding experience, orchestrated by AI orderbook.
+AI notebook is built to optimize developer onboarding experience, orchestrated by AI orderbook.
 {% endembed %}

@@ -1,6 +1,6 @@
 # Token Distribution
 
-The total supply of $NIMBLE tokens is 1,000,000,000.&#x20;
+The total supply of $NIM tokens is 1,000,000,000.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

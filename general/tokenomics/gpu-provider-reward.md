@@ -16,7 +16,7 @@ GPU Providers charge clients a Usage Fee based on the computing resources requir
 
 `Computing Reward = Reputation Score x Base Computing Reward`&#x20;
 
-A GPU Provider's Reputation Score is determined by their performance record and trustworthiness. Higher-scoring providers will be prioritized for more AI tasks, encouraging them to maintain a strong professional reputation. GPU Providers can boost their Reputation Score by staking more $NIMBLE tokens, consistently fulfilling AI tasks, and avoiding fraudulent activities.
+A GPU Provider's Reputation Score is determined by their performance record and trustworthiness. Higher-scoring providers will be prioritized for more AI tasks, encouraging them to maintain a strong professional reputation. GPU Providers can boost their Reputation Score by staking more $NIM tokens, consistently fulfilling AI tasks, and avoiding fraudulent activities.
 
 The Base Computing Incentive is calculated based on the number of AI tasks completed, their complexity, and the GPU model used. An AI OrderBook system efficiently matches computing needs with available resources, ensuring optimal pricing and execution of AI tasks. This dynamic system allows for efficient resource allocation and adjusting fees and rewards based on real-time market conditions.
 
