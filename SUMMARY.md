@@ -58,7 +58,7 @@
 
 * [🦥 Brand Kit](resources/brand-kit.md)
 * [🐦 Twitter](https://twitter.com/Nimble\_Network)
-* [⛵ Discord](https://discord.gg/78qW2UfeBS)
-* [👨‍💻 Github](https://github.com/nimble-technology)
+* [👩‍💻 Discord](https://discord.gg/78qW2UfeBS)
+* [🛳️ Github](https://github.com/nimble-technology)
 * [📃 Whitepaper](https://www.nimble.technology/whitepaper)
 * [📠 The Math behind AI Orderbook](resources/the-math-behind-ai-orderbook.md)
