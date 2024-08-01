@@ -36,11 +36,11 @@ Artificial Intelligence (AI) has undergone remarkable advancements since its inc
 
 ### **Current Challenges in AI Development**
 
-1. **Accessibility Barrier**: Smaller companies and individuals often struggle to access the cost-effective computational power and diverse datasets needed to develop their own AI products.
-2. **Innovation Bottleneck**: Closed-source models restrict innovation. Major tech companies may not meet the diverse needs of all users, limiting options and slowing the pace of tailored solutions.
-3. **Closed AI Systems**: Most major tech firms have closed AI systems and don't open for collaboration. This leads to difficulties in scaling efficiently due to suboptimal resource allocation. AI agents developed in such environments often cannot interact with each other, hindering collaboration and interoperability.
-4. **Incentive Misalignment:** There's little incentive for closed AI systems to share GPUs, data, and models, leading to inefficiencies and underutilization. Also, general users are not rewarded for their data contribution.&#x20;
-5. **Security Concerns:** The lack of transparency in centralized AI systems raises concerns about computational integrity and data privacy.&#x20;
+* **Accessibility Barrier**: Smaller companies and individuals often struggle to access the cost-effective computational power and diverse datasets needed to develop their own AI products.
+* **Innovation Bottleneck**: Closed-source models restrict innovation. Major tech companies may not meet the diverse needs of all users, limiting options and slowing the pace of tailored solutions.
+* **Closed AI Systems**: Most major tech firms have closed AI systems and don't open for collaboration. This leads to difficulties in scaling efficiently due to suboptimal resource allocation. AI agents developed in such environments often cannot interact with each other, hindering collaboration and interoperability.
+* **Incentive Misalignment:** There's little incentive for closed AI systems to share GPUs, data, and models, leading to inefficiencies and underutilization. Also, general users are not rewarded for their data contribution.&#x20;
+* **Security Concerns:** The lack of transparency in centralized AI systems raises concerns about computational integrity and data privacy.&#x20;
 
 ### **The Promise of Decentralization**
 
