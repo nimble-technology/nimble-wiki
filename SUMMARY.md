@@ -3,7 +3,7 @@
 ## General
 
 * [🔅 Introduction](README.md)
-* [🛣️ Nimble Roadmap](general/nimble-roadmap.md)
+* [🛣️ Roadmap](general/roadmap.md)
 * [🪙 Tokenomics](general/tokenomics/README.md)
   * [Token Distribution](general/tokenomics/token-distribution.md)
   * [Token Utility](general/tokenomics/token-utility.md)
@@ -12,6 +12,7 @@
   * [Evaluator Reward](general/tokenomics/evaluator-reward.md)
   * [Validator Reward](general/tokenomics/validator-reward.md)
   * [Staking and Burning Machnism](general/tokenomics/staking-and-burning-machnism.md)
+* [Team](general/team.md)
 
 ## For Users
 
@@ -63,7 +64,3 @@
 * [📃 Whitepaper](https://www.nimble.technology/whitepaper)
 * [📠 The Math behind AI Orderbook](resources/the-math-behind-ai-orderbook.md)
 * [🦥 Brand Kit](resources/brand-kit.md)
-
-***
-
-* [Team](team.md)
