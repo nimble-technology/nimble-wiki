@@ -63,3 +63,7 @@
 * [📃 Whitepaper](https://www.nimble.technology/whitepaper)
 * [📠 The Math behind AI Orderbook](resources/the-math-behind-ai-orderbook.md)
 * [🦥 Brand Kit](resources/brand-kit.md)
+
+***
+
+* [Team](team.md)
