@@ -9,6 +9,7 @@
   * [Token Utility](general/tokenomics/token-utility.md)
   * [Token Emission Schedule](general/tokenomics/token-emission-schedule.md)
   * [GPU Provider Reward](general/tokenomics/gpu-provider-reward.md)
+  * [Nimble’s Reputation System](general/tokenomics/nimbles-reputation-system.md)
   * [Evaluator Reward](general/tokenomics/evaluator-reward.md)
   * [Validator Reward](general/tokenomics/validator-reward.md)
   * [Staking and Burning Machnism](general/tokenomics/staking-and-burning-machnism.md)

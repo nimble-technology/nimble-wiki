@@ -11,7 +11,7 @@ The world is full of isolated information islands—ranging from business use ca
 \
 To bridge this gap and effectively represent this multi-faceted information, we utilize the **Nimble Matrix** as the foundational element that flows throughout the ecosystem. This Matrix is processed, assembled, validated, and committed within the Nimble Network
 
-<figure><img src="../../.gitbook/assets/Frame.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/map redesign.png" alt=""><figcaption></figcaption></figure>
 
 ## OrderBook Design
 

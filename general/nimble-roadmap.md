@@ -1,6 +1,6 @@
 # 🛣️ Nimble Roadmap
 
-<figure><img src="../.gitbook/assets/Group 1312317524 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Redesign the roadmap style.png" alt=""><figcaption></figcaption></figure>
 
 ## Where Are We Now?
 
