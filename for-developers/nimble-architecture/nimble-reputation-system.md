@@ -1,8 +1,10 @@
-# Nimble’s Reputation System
+# Nimble Reputation System
+
+## Context
 
 Each GPU miner has a reputation score that reflects their historical AI task completions and any fraudulent behaviors. The more legitimate work completed, the higher the reputation score. Conversely, the more fraudulent behaviors detected, the lower the reputation score. More mined and staked tokens also lead to a higher reputation score.
 
-### **New Miners**
+## **New Miners**
 
 Initially, new miners are granted a small reputation score. They are assigned AI tasks based on this score during a slow-start period (currently 14 days). After this period, miners with no AI task completions receive a zero reputation score. Fraudulent miners receive negative reputation scores, and their Nimble mining rewards are slashed, while miners with high AI task completion rates enjoy boosted reputation scores.&#x20;
 
