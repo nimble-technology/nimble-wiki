@@ -1,11 +1,11 @@
 ---
-description: We are a fully-fledged team of 10+ professionals.
 icon: people-group
+description: We are a fully-fledged team of 10+ professionals.
 ---
 
 # Team
 
-### Xin - Founder & CEO
+### Anthony - Founder & CEO
 
 * Serial Web3 Entrepreneur with 15+ years of R\&D experience.
 * Former roles at Uber, Google, Facebook.
