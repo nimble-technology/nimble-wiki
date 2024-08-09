@@ -1,4 +1,4 @@
-# 🛣️ Nimble Roadmap
+# 🛣️ Roadmap
 
 <figure><img src="../.gitbook/assets/Redesign the roadmap style.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@ Additionally, we've developed an AI notebook prototype to onboard new developers
 
 #### Chain Layer Transition & Reputation System&#x20;
 
-We aim to move AI task matching to the Chain layer as part of our AI orderbook beta version. We'll also stabilize the evaluator service to enhance security and streamline operations by removing unnecessary logic.,&#x20;
+We aim to move AI task matching to the Chain layer as part of our AI orderbook beta version. We'll also stabilize the evaluator service to enhance security and streamline operations by removing unnecessary logic.
 
 Additionally, we plan to finalize the implementation of a staking, reputation, and slashing system to eliminate manual wallet approval.
 
