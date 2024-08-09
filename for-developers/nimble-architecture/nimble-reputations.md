@@ -1,8 +1,8 @@
-# Nimble Reputation System
+# Nimble Reputations
 
 ## Context
 
-Each GPU miner has a reputation score that reflects their historical AI task completions and any fraudulent behaviors. The more legitimate work completed, the higher the reputation score. Conversely, the more fraudulent behaviors detected, the lower the reputation score. More mined and staked tokens also lead to a higher reputation score.
+Nimble's reputation system secures the network with efficient AI task matching. Each GPU miner has a reputation score that reflects their historical AI task completions and any fraudulent behaviors. The more legitimate work completed, the higher the reputation score. Conversely, the more fraudulent behaviors detected, the lower the reputation score. More mined and staked tokens also lead to a higher reputation score.
 
 ## **New Miners**
 

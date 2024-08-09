@@ -28,7 +28,7 @@
 * [🗼 Nimble Architecture](for-developers/nimble-architecture/README.md)
   * [Nimble Matrix](for-developers/nimble-architecture/nimble-matrix.md)
   * [Nimble Validators](for-developers/nimble-architecture/nimble-validators.md)
-  * [Nimble Reputation System](for-developers/nimble-architecture/nimble-reputation-system.md)
+  * [Nimble Reputations](for-developers/nimble-architecture/nimble-reputations.md)
   * [Nimble Policies](for-developers/nimble-architecture/nimble-policies.md)
   * [Nimble Assets](for-developers/nimble-architecture/nimble-assets.md)
 * [💰 Nimble Wallet](for-developers/nimble-wallet/README.md)
