@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🔅 Introduction
+# Introduction
 
 ## What is Nimble
 

@@ -4,7 +4,7 @@ description: >-
   development.
 ---
 
-# 📔 Nimble AI Notebook
+# Nimble AI Notebook
 
 ## AI Agent Creation
 

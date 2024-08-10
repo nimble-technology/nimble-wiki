@@ -2,9 +2,9 @@
 
 ## General
 
-* [🔅 Introduction](README.md)
-* [🛣️ Roadmap](general/roadmap.md)
-* [🪙 Tokenomics](general/tokenomics/README.md)
+* [Introduction](README.md)
+* [Roadmap](general/roadmap.md)
+* [Tokenomics](general/tokenomics/README.md)
   * [Token Distribution](general/tokenomics/token-distribution.md)
   * [Token Utility](general/tokenomics/token-utility.md)
   * [Token Emission Schedule](general/tokenomics/token-emission-schedule.md)
@@ -16,28 +16,28 @@
 
 ## For Users
 
-* [📔 Nimble AI Notebook](for-users/nimble-ai-notebook.md)
-* [📖 Nimble AI OrderBook](for-users/nimble-ai-orderbook/README.md)
+* [Nimble AI Notebook](for-users/nimble-ai-notebook.md)
+* [Nimble AI OrderBook](for-users/nimble-ai-orderbook/README.md)
   * [Orchestration](for-users/nimble-ai-orderbook/orchestration.md)
   * [Compute](for-users/nimble-ai-orderbook/compute.md)
   * [Data](for-users/nimble-ai-orderbook/data.md)
   * [Developer](for-users/nimble-ai-orderbook/developer.md)
-* [🧊 Nimble AI Agent Hub](for-users/nimble-ai-agent-hub.md)
+* [Nimble AI Agent Hub](for-users/nimble-ai-agent-hub.md)
 
 ## For Developers
 
-* [🗼 Nimble Architecture](for-developers/nimble-architecture/README.md)
+* [Nimble Architecture](for-developers/nimble-architecture/README.md)
   * [Nimble Matrix](for-developers/nimble-architecture/nimble-matrix.md)
   * [Nimble Validators](for-developers/nimble-architecture/nimble-validators.md)
   * [Nimble Reputations](for-developers/nimble-architecture/nimble-reputations.md)
   * [Nimble Policies](for-developers/nimble-architecture/nimble-policies.md)
   * [Nimble Assets](for-developers/nimble-architecture/nimble-assets.md)
-* [💰 Nimble Wallet](for-developers/nimble-wallet/README.md)
+* [Nimble Wallet](for-developers/nimble-wallet/README.md)
   * [On Mac](for-developers/nimble-wallet/on-mac.md)
   * [On Windows](for-developers/nimble-wallet/on-windows.md)
   * [On Linux](for-developers/nimble-wallet/on-linux.md)
   * [On Chrome](for-developers/nimble-wallet/on-chrome.md)
-* [⚒️ Nimble SDK](for-developers/nimble-sdk/README.md)
+* [Nimble SDK](for-developers/nimble-sdk/README.md)
   * [For GPU Miners](for-developers/nimble-sdk/for-gpu-miners/README.md)
     * [System requirements](for-developers/nimble-sdk/for-gpu-miners/system-requirements.md)
     * [Set Up Environment](for-developers/nimble-sdk/for-gpu-miners/set-up-environment/README.md)
@@ -58,9 +58,9 @@
 
 ## Resources
 
-* [🐦 Twitter](https://twitter.com/Nimble\_Network)
-* [👩‍💻 Discord](https://discord.gg/78qW2UfeBS)
-* [🛳️ Github](https://github.com/nimble-technology)
-* [📃 Whitepaper](https://www.nimble.technology/whitepaper)
-* [📠 The Math behind AI Orderbook](resources/the-math-behind-ai-orderbook.md)
-* [🦥 Brand Kit](resources/brand-kit.md)
+* [Twitter](https://twitter.com/Nimble\_Network)
+* [Discord](https://discord.gg/78qW2UfeBS)
+* [Github](https://github.com/nimble-technology)
+* [Whitepaper](https://www.nimble.technology/whitepaper)
+* [The Math behind AI Orderbook](resources/the-math-behind-ai-orderbook.md)
+* [Brand Kit](resources/brand-kit.md)

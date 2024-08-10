@@ -1,4 +1,4 @@
-# 🧊 Nimble AI Agent Hub
+# Nimble AI Agent Hub
 
 ## AI Agent Hub
 

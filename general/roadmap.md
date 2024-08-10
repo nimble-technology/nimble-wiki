@@ -1,4 +1,4 @@
-# 🛣️ Roadmap
+# Roadmap
 
 <figure><img src="../.gitbook/assets/Redesign the roadmap style.png" alt=""><figcaption></figcaption></figure>
 

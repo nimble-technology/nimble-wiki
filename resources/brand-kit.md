@@ -2,7 +2,7 @@
 description: Identity Guidelines
 ---
 
-# 🦥 Brand Kit
+# Brand Kit
 
 {% hint style="info" %}
 Please adhere to these guidelines when featuring Nimble in marketing communications, such as advertising, articles, websites, and printed materials.

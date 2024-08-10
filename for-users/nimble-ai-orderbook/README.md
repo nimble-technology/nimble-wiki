@@ -7,7 +7,7 @@ cover: >-
 coverY: 0
 ---
 
-# 📖 Nimble AI OrderBook
+# Nimble AI OrderBook
 
 The network supports both AI training and inferencing, with each relying on three critical resources: compute power (GPUs), data, and developers. Each of these pillars faces its own set of challenges—from accessibility and scalability to efficiency. The AI inferencing process, like training, relies on compute power and application calls.
 
