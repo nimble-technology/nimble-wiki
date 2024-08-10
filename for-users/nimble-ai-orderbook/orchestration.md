@@ -5,7 +5,7 @@ coverY: 0
 
 # Orchestration
 
-## Context
+Context
 
 The world is full of isolated information islands—ranging from business use cases and computational power to human expertise and data. There are needs on one side and resources on the other. \
 \
@@ -23,5 +23,5 @@ Nimble’s primary goal is to execute the Matrix with maximum efficiency. To ach
 
 For a clearer understanding, refer to the diagram below, which illustrates how matching, pricing, and transactions are sequentially executed for each Nimble Matrix, particularly in the context of AI training.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-05-01 at 11.37.50 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/OrderBook Design infographic.png" alt=""><figcaption></figcaption></figure>
 

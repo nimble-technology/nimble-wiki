@@ -4,7 +4,7 @@
 
 The AI Agent Hub is an open, collaborative platform that equips AI builders with a full suite of tools to develop, publish, and monetize AI agents for various web2 and web3 applications. By leveraging collective intelligence, AI builders can create highly specialized AI agents tailored to meet the unique needs of their clients.
 
-<figure><img src="../.gitbook/assets/螢幕截圖 2024-07-03 下午12.07.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/AI Agent Hub. docs. redesign.png" alt=""><figcaption></figcaption></figure>
 
 ## The Concept of AI Agents
 
