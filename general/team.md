@@ -22,18 +22,33 @@ description: We are a fully-fledged team of 10+ professionals.
 * 6+ years of experience in Investment Banking (IB) and crypto.
 * Former roles at Outlier Ventures, HashKey.
 
-### Alex – Marketing Lead
+### James – Strategic Advisor
 
-* 6+ years of marketing experience in tech and crypto.
-* Former roles at Fleek, Uber.
+* CFA Charterholder with extensive experience in token relations and business development.
+* Former roles at Covalent, Neon Labs, Newmark, HFF.
 
 ### Young – Core Engineer
 
 * 3+ years of R\&D experience.
 * BSc in Software Engineering.
 
-### James – Strategic Advisor
+### Michael – Core Engineer
 
-* CFA Charterholder with extensive experience in token relations and business development.
-* Former roles at Covalent, Neon Labs, Newmark, HFF.
+* 8+ years of experience in backend and infrastructure development.
+* Former roles at WeBank, Infowiz, Shopee.
+
+### Alex – Marketing Lead
+
+* 6+ years of marketing experience in tech and crypto.
+* Former roles at Fleek, Uber.
+
+### Moonlight – Head of Community
+
+* Bilingual host with over 47.5 million likes on Binance Live.
+* Run a Twitter community with nearly 100K followers.
+
+### Steven – Research & Development
+
+* 5 years of experience in the crypto industry.
+* Previous research experience at Cointelegraph, Hailstone Labs.
 
