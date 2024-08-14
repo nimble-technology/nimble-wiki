@@ -28,13 +28,13 @@ For our dynamic and rapidly evolving data needs—matrix information, node infor
 
 **3. Dynamic Node Participation:** Our network is in a phase of hyper-growth, with numerous GPUs and validators joining daily. The DHT allows for dynamic participation with minimal disruption. As new validators come onboard, they seamlessly take over a portion of the keys from existing nodes. Similarly, when a node exits, its responsibilities and keys are efficiently reassigned to the remaining nodes.
 
-<figure><img src="../../.gitbook/assets/Group 1312318697.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gitbook - matrix (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Static, Immutable Storage
 
 For storing static data such as data or model files, which are immutable, we have chosen not to reinvent the wheel. Instead, we've partnered with leading on-chain solutions to ensure scalability and security. A prime example of this integration is with BNB chain Greenfield, specifically for model file storage. This partnership enables us to leverage blockchain technology to secure and scale our storage solutions efficiently.
 
-<figure><img src="../../.gitbook/assets/Group 1312318676.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Nimble x BNB Greenfield.png" alt=""><figcaption></figcaption></figure>
 
 ## Matrix Operations
 

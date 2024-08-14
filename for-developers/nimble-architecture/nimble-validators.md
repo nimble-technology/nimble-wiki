@@ -18,7 +18,7 @@ Gossip protocols is used for several purposes:
 
 **3.Failure Detection**: Validators can quickly share alerts about node failures or connectivity issues, allowing the network to adapt and respond rapidly.
 
-<figure><img src="../../.gitbook/assets/Group 1312318674.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 ## Validator <> GPU/Data/Developer/Applications
 
@@ -30,7 +30,7 @@ In a landscape as dynamic as the Nimble Network, standard communication protocol
 
 **3. Enhanced Security:** Security is paramount in everything we do at Nimble Network. Our DSL includes robust security protocols to authenticate commands and protect against unauthorized access, ensuring that our network remains secure and trustworthy.
 
-<figure><img src="../../.gitbook/assets/Group 1312318675.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dsl comm.png" alt=""><figcaption></figcaption></figure>
 
 ## Attack Management
 
