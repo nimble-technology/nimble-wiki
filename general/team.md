@@ -37,6 +37,16 @@ description: We are a fully-fledged team of 10+ professionals.
 * 8+ years of experience in backend and infrastructure development.
 * Former roles at WeBank, Infowiz, Shopee.
 
+### Wentong – Core Engineer
+
+* 6+ years of experience in fullstack engineering development.
+* Former roles at Compass, multiple startups.
+
+### Minglu – Core Engineer
+
+* 3+ years of experience in backend and infrastructure development.
+* Studied in the National University of Singapore.
+
 ### Alex – Marketing Lead
 
 * 6+ years of marketing experience in tech and crypto.
