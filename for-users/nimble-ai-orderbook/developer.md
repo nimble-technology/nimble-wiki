@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1522252234503-e356532cafd5?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxkZXZlbG9wZXJ8ZW58MHx8fHwxNzE0MTE1MTY4fDA&ixlib=rb-4.0.3&q=85
-coverY: 0
----
-
 # Developer
 
 ## Context

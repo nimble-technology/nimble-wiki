@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxBSXxlbnwwfHx8fDE3MTQxMTU1OTB8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
----
-
 # For AI Developers
 
 Starting your journey, you will first connect to the development environment tailored for our platform. Begin by working on a small proof of concept to familiarize yourself with our tools and workflows. Once comfortable, you can proceed to train an actual model that leverages our decentralized resources. After training, you will publish your model to the blockchain, ensuring it is securely stored and verified. Finally, deploy your model directly to the chain, allowing it to be accessed and utilized by users across the network. This streamlined process is designed to support you from initial concept through to full deployment.

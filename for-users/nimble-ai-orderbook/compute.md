@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1580777361964-27e9cdd2f838?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjb21wdXRlfGVufDB8fHx8MTcxNDExNTE0OHww&ixlib=rb-4.0.3&q=85
-coverY: 0
----
-
 # Compute
 
 ## Context

@@ -2,9 +2,6 @@
 description: >-
   An integrated system facilitating efficient orchestration of AI tasks,
   ensuring optimal use of computational resources.
-cover: >-
-  https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxib29rfGVufDB8fHx8MTcxNDA3MTI4Mnww&ixlib=rb-4.0.3&q=85
-coverY: 0
 ---
 
 # Nimble AI OrderBook

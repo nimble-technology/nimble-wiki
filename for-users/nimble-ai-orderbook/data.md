@@ -1,8 +1,5 @@
 ---
 description: Data fuels AI models just as an engine powers a car.
-cover: >-
-  https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxkYXRhfGVufDB8fHx8MTcxNDExNTUzMnww&ixlib=rb-4.0.3&q=85
-coverY: 0
 ---
 
 # Data

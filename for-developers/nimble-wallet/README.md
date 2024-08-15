@@ -1,9 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1627123424574-724758594e93?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx3YWxsZXR8ZW58MHx8fHwxNzE0MTE1NTQzfDA&ixlib=rb-4.0.3&q=85
-coverY: 0
----
-
 # Nimble Wallet
 
 Traveling across Nimble Network requires a wallet, for earning or paying tokens. \
