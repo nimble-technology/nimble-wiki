@@ -17,12 +17,7 @@ description: We are a fully-fledged team of 10+ professionals.
 * Former roles at Meta, Amazon, Bytedance.
 * PhD in AI from Northwestern University.
 
-### James – Strategic Advisor
-
-* CFA Charterholder with extensive experience in token relations and business development.
-* Former roles at Covalent, Neon Labs, Newmark, HFF.
-
-### Alex – Marketing Lead
+### Alex – Product Marketing Lead
 
 * 6+ years of marketing experience in tech and crypto.
 * Former roles at Fleek, Uber.
@@ -31,6 +26,16 @@ description: We are a fully-fledged team of 10+ professionals.
 
 * Bilingual host with over 47.5 million likes on Binance Live.
 * Run a Twitter community with nearly 100K followers.
+
+### James – Strategic Advisor
+
+* CFA Charterholder with extensive experience in token relations and business development.
+* Former roles at Covalent, Neon Labs, Newmark, HFF.
+
+### Steven – Research & Development
+
+* 5 years of experience in the crypto industry.
+* Previous research experience at Cointelegraph, Hailstone Labs.
 
 ### Young – Core Engineer
 
@@ -51,9 +56,4 @@ description: We are a fully-fledged team of 10+ professionals.
 
 * 3+ years of experience in backend and infrastructure development.
 * Studied in the National University of Singapore.
-
-### Steven – Research & Development
-
-* 5 years of experience in the crypto industry.
-* Previous research experience at Cointelegraph, Hailstone Labs.
 
