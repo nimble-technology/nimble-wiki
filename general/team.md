@@ -32,7 +32,7 @@ description: We are a fully-fledged team of 10+ professionals.
 * CFA Charterholder with extensive experience in token relations and business development.
 * Former roles at Covalent, Neon Labs, Newmark, HFF.
 
-### Steven – Research & Development
+### Steven – Business Development
 
 * 5 years of experience in the crypto industry.
 * Previous research experience at Cointelegraph, Hailstone Labs.
