@@ -37,6 +37,11 @@ description: We are a fully-fledged team of 10+ professionals.
 * 5 years of experience in the crypto industry.
 * Previous research experience at Cointelegraph, Hailstone Labs.
 
+### Sarah - Ecosystem Growth
+
+* Proven track record in cultivating strategic partnerships with leading DEXs and CEXs
+* Former roles at Bitduck\_Club, Surf Protocol, $CHEEMS, and Publicis Groupe.
+
 ### Young – Core Engineer
 
 * 3+ years of R\&D experience.
