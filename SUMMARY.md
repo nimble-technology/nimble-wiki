@@ -58,7 +58,7 @@
 
 ## Special Topics
 
-* [Nimble Network: The First Open Blockchain for AI Sharing Economy](special-topics/nimble-network-the-first-open-blockchain-for-ai-sharing-economy.md)
+* [Nimble Network: The First Open Platform for AI Sharing Economy](special-topics/nimble-network-the-first-open-platform-for-ai-sharing-economy.md)
 * [Transforming AI: 6 Innovations Driving the Sharing Economy](special-topics/transforming-ai-6-innovations-driving-the-sharing-economy.md)
 * [Empowering Trust: Evaluators and Reputation in Nimble Network](special-topics/empowering-trust-evaluators-and-reputation-in-nimble-network.md)
 * [Nimble Chain: The Foundation of a Next-Gen AI Sharing Economy](special-topics/nimble-chain-the-foundation-of-a-next-gen-ai-sharing-economy.md)
