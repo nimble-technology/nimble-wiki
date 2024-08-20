@@ -1,8 +1,13 @@
-# Nimble Network: Pioneering the AI Sharing Economy with the First Open AI Network
+---
+description: >-
+  Learn how Nimble Network is transforming the AI sharing economy with its open
+  AI network, offering advanced computing, data, and machine learning resources
+  through a decentralized solution.
+---
 
-## Overview
+# Nimble: The First Open Network Pioneering the AI Sharing Economy
 
-Nimble Network is pioneering the creation of a robust AI sharing economy through its innovative open AI network. This transformative platform empowers AI builders to construct, own, and monetize their AI agents while facilitating access to advanced computing resources, comprehensive data, and cutting-edge machine learning services. By fostering a decentralized marketplace where AI resources are shared and incentivized through community participation and the native token, NIMBLE, Nimble Network is at the forefront of creating a collaborative ecosystem. Developers across sectors including DeFi, Social, Gaming, DePIN, and Web2 AI applications can leverage this ecosystem to build bespoke applications and custom models with omni-chain access, driving the future of AI development and application.
+Nimble Network is transforming the AI sharing economy with its innovative open AI network. It enables developers to create, own, and monetize AI agents while providing access to advanced computing, data, and machine learning services. By creating a decentralized marketplace and incentivizing participation with the NIMBLE token, Nimble fosters a collaborative ecosystem for building diverse applications and models across DeFi, Social, Gaming, DePIN, and Web2 sectors.
 
 ## AI Notebook: Empowering Developers with a Python Notebook Interface
 
