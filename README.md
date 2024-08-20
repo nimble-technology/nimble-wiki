@@ -1,4 +1,8 @@
 ---
+description: >-
+  Nimble Network revolutionizes the AI sharing economy by offering an open,
+  decentralized platform for creating, owning, and monetizing AI agents,
+  supported by advanced computing and data resources.
 layout:
   title:
     visible: true
