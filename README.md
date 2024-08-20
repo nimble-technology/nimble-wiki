@@ -14,9 +14,9 @@ layout:
 
 # Introduction
 
-## What is Nimble
+## Nimble: The First Open AI Network for the AI Sharing Economy
 
-Welcome to Nimble, the **first open AI network** designed to accelerate AI innovation.&#x20;
+Welcome to Nimble, the **first open network** designed to create the AI sharing economy.&#x20;
 
 With Nimble, anyone can build, own, and profit from AI agents using the most optimal computing and data resources, along with advanced machine learning services.
 
