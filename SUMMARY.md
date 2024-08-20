@@ -3,7 +3,6 @@
 ## General
 
 * [Introduction](README.md)
-* [Nimble Network: Pioneering the AI Sharing Economy with the First Open AI Network](general/nimble-network-pioneering-the-ai-sharing-economy-with-the-first-open-ai-network.md)
 * [Roadmap](general/roadmap.md)
 * [Tokenomics](general/tokenomics/README.md)
   * [Token Distribution](general/tokenomics/token-distribution.md)
@@ -56,6 +55,12 @@
     * [Start training](for-developers/nimble-sdk/for-ai-developers/start-training.md)
     * [Publish](for-developers/nimble-sdk/for-ai-developers/publish.md)
     * [Deploy](for-developers/nimble-sdk/for-ai-developers/deploy.md)
+
+***
+
+* [Special Topics](special-topics/README.md)
+  * [Nimble - The First Open AI Network Pioneering the AI Sharing Economy](special-topics/nimble-the-first-open-ai-network-pioneering-the-ai-sharing-economy.md)
+  * [Nimble - 6 Groundbreaking Innovations Powering the AI Sharing Economy](special-topics/nimble-6-groundbreaking-innovations-powering-the-ai-sharing-economy.md)
 
 ## Resources
 
