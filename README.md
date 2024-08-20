@@ -32,7 +32,7 @@ Explore the boundless possibilities with Nimble - where the future of AI is in y
 
 Artificial Intelligence (AI) has undergone remarkable advancements since its inception, transforming from a concept in the minds of scientists to powerful applications like ChatGPT. However, today's AI landscape faces significant challenges due to centralization. Several crucial components necessary for AI advancement, ranging from resources (such as computational power, datasets, and models), to development tools (such as GPU scheduling and Machine Learning workflow management) and AI products (such as AI agents), are primarily controlled by a few major tech companies and are not easily accessible to the public.
 
-### **Current Challenges in AI Development**
+## **Current Challenges in AI Development**
 
 * **Accessibility Barrier**: Smaller companies and individuals often struggle to access the cost-effective computational power and diverse datasets needed to develop their own AI products.
 * **Innovation Bottleneck**: Closed-source models restrict innovation. Major tech companies may not meet the diverse needs of all users, limiting options and slowing the pace of tailored solutions.
@@ -40,7 +40,7 @@ Artificial Intelligence (AI) has undergone remarkable advancements since its inc
 * **Incentive Misalignment:** There's little incentive for closed AI systems to share GPUs, data, and models, leading to inefficiencies and underutilization. Also, general users are not rewarded for their data contribution.&#x20;
 * **Security Concerns:** The lack of transparency in centralized AI systems raises concerns about computational integrity and data privacy.&#x20;
 
-### **The Promise of Decentralization**
+## **The Promise of Decentralization**
 
 Blockchain technology, with its attributes of permissionless access, interoperability, cryptographic security, and incentive structures, offers a promising solution to these challenges. While several new AI solutions have emerged in the Web3 world, an efficient Web2-like development experience is yet to be realized.
 
@@ -52,23 +52,23 @@ To create an open and collaborative AI creator economy, Nimble is building an op
 
 <figure><img src=".gitbook/assets/螢幕截圖 2024-06-23 下午9.38.18.png" alt=""><figcaption></figcaption></figure>
 
-### **Nimble Chain: AI-centric App Chain built on Cosmos SDK**&#x20;
+## **Nimble Chain: AI-centric App Chain built on Cosmos SDK**&#x20;
 
 Nimble Chain is the core foundation of Nimble built on Cosmos SDK, consisting of an execution layer of AI computation and a consensus layer of validating and recording the transactions to the chain. All AI activities are immutably recorded on the Nimble Chain.
 
-#### **AI Computation**
+### **AI Computation**
 
 Miners are responsible for executing AI tasks. To ensure the performance of miners, a Staking mechanism and a Permissionless Reputation System will be introduced. AI tasks will be distributed to Miners based on their reputation and stake. Evaluators are responsible for regularly checking the performance of Miners’ work.
 
-#### Consensus&#x20;
+### Consensus&#x20;
 
 Nimble Chain relies on Proof-of-Stake (PoS) to achieve consensus. Nimble validators process transactions and settle state changes on the network. Validators are selected to produce blocks according to their total stake (self-staked plus delegated Nimble Token).&#x20;
 
-#### Interoperability
+### Interoperability
 
 Nimble Chain will enable interoperability with multiple chains. Dapps from multiple chain ecosystems can easily integrate the AI solutions from Nimble into their product.
 
-### Nimble Core: Your one-stop shop for AI development&#x20;
+## Nimble Core: Your one-stop shop for AI development&#x20;
 
 Nimble introduces three core functionalities to unlock an efficient and scalable AI development:&#x20;
 
