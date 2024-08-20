@@ -16,6 +16,7 @@
 
 ## For Users
 
+* [Nimble Network: Pioneering the AI Sharing Economy with the First Open AI Network](for-users/nimble-network-pioneering-the-ai-sharing-economy-with-the-first-open-ai-network.md)
 * [Nimble AI Notebook](for-users/nimble-ai-notebook.md)
 * [Nimble AI OrderBook](for-users/nimble-ai-orderbook/README.md)
   * [Orchestration](for-users/nimble-ai-orderbook/orchestration.md)
