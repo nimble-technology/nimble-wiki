@@ -68,6 +68,6 @@
 * [Twitter](https://twitter.com/Nimble\_Network)
 * [Discord](https://discord.gg/78qW2UfeBS)
 * [Github](https://github.com/nimble-technology)
-* [Whitepaper](https://www.nimble.technology/whitepaper)
+* [Whitepaper v1](resources/whitepaper-v1.md)
 * [The Math behind AI Orderbook](resources/the-math-behind-ai-orderbook.md)
 * [Brand Kit](resources/brand-kit.md)
