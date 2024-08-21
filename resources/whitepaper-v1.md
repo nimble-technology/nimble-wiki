@@ -1,7 +1,7 @@
 ---
 description: >-
   This whitepaper version details decentralized learning, compressed learning,
-  the market mechanism and more foudamental design pieces.
+  the market mechanism and more fundamental design pieces.
 ---
 
 # Whitepaper v1
