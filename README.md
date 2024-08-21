@@ -18,7 +18,7 @@ layout:
 
 # Introduction
 
-## Nimble: The First Open AI Network for the AI Sharing Economy
+## Nimble: The First Open AI Network Creating AI Sharing Economy
 
 Welcome to Nimble, the **first open network** designed to create the AI sharing economy.&#x20;
 
