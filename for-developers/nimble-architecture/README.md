@@ -1,3 +1,3 @@
 # Nimble Architecture
 
-This page talks about the general methodology behind Nimble engineering ecosystem. Regardless of the complex jargon often associated with web3, we focus here on these fundamental aspects: Nimble Matrix for standardize storage, Nimble validators for decentralized governance, and Nimble embeddings for enhanced security & privacy.
+This section provides an overview of the core methodology underpinning the Nimble engineering ecosystem. Despite the often complex technical terminology, our focus here is on the following fundamental aspects: the Nimble Matrix for standardized storage, Nimble Validators for decentralized governance, and Nimble Embeddings for enhanced security and privacy.
