@@ -18,7 +18,7 @@ layout:
 
 # Introduction
 
-## Nimble: The First Open AI Network Creating AI Sharing Economy
+Nimble: The First Open AI Network Creating AI Sharing Economy
 
 Welcome to Nimble, the **first open network** designed to create the AI sharing economy.&#x20;
 
@@ -50,7 +50,7 @@ Nimble aims to bridge this gap with an open AI network that empowers anyone to b
 
 To create an open and collaborative AI creator economy, Nimble is building an open AI Network. This network supports the entire machine learning workflow, from AI training to fine-tuning and inference. Nimble’s technical architecture is designed to:
 
-<figure><img src=".gitbook/assets/螢幕截圖 2024-06-23 下午9.38.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Nimble Architecture.png" alt=""><figcaption></figcaption></figure>
 
 ## **Nimble Chain: AI-centric App Chain built on Cosmos SDK**&#x20;
 
