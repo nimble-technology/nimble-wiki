@@ -30,7 +30,7 @@ The letter N represents the symbol for the visual identity of Nimble and the nat
 
 Our main brand color is Black, complemented by Nimble Blue, which is used for call-to-action buttons. Muted Blue is also used for call-to-action buttons. The Nimble gradient transitions between Muted Blue, Pale Blue, and Nimble Blue in this order for background applications.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Nimble Gradient
 
