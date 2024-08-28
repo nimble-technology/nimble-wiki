@@ -50,9 +50,7 @@ Nimble aims to bridge this gap with an open AI network that empowers anyone to b
 
 To create an open and collaborative AI creator economy, Nimble is building an open AI Network. This network supports the entire machine learning workflow, from AI training to fine-tuning and inference. Nimble’s technical architecture is designed to:
 
-
-
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkxcYWa8WskFBTQrREQIr%2Fuploads%2F7ZUBS3S1AjAko3P5PuuG%2FNimble%20Architecture%20-%20Visualization.mp4?alt=media&token=d6972962-b6ab-4d10-bfdd-6bfadf2b9190" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkxcYWa8WskFBTQrREQIr%2Fuploads%2F5uYlBrz2qJpljJE0sXii%2FNimble%20Arch.mp4?alt=media&token=42d29062-80be-4a34-8f77-129336c0275a" %}
 
 ## **Nimble Chain: AI-centric App Chain built on Cosmos SDK**&#x20;
 
