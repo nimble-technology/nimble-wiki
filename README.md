@@ -1,7 +1,7 @@
 ---
 description: >-
-  Nimble Network is the first open AI network building the AI sharing economy
-  —with all the tools you need to build, own, and monetize AI agents.
+  The first open AI network building the AI sharing economy —with all the tools
+  you need to build, own, and monetize AI agents.
 layout:
   title:
     visible: true
