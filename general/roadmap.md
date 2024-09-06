@@ -1,6 +1,6 @@
 # Roadmap
 
-<figure><img src="../.gitbook/assets/Redesign the roadmap style.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Redesign the roadmap style (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Where Are We Now?
 
