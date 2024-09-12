@@ -17,6 +17,11 @@ description: We are a fully-fledged team of 10+ professionals.
 * Former roles at Meta, Amazon, Bytedance.
 * PhD in AI from Northwestern University.
 
+### Miki – Head of Growth
+
+* 6+ years of experience in Investment Banking (IB) and crypto.
+* Former roles at Outlier Ventures, HashKey.
+
 ### Alex – Product Marketing Lead
 
 * 6+ years of marketing experience in tech and crypto.
