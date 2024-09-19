@@ -4,7 +4,7 @@ The GPU Provider Reward mechanism incentivizes the contribution of computing res
 
 The reward system has three key components:&#x20;
 
-`Total Reward = Usage Fee + Computing Reward + Committed Compute Power Reward` &#x20;
+`Total Reward = Usage Fee + Computing Reward + Proof of Commitment Reward`
 
 ### **Usage Fee**
 
@@ -20,8 +20,12 @@ A GPU Provider's Reputation Score is determined by their performance record and 
 
 The Base Computing Incentive is calculated based on the number of AI tasks completed, their complexity, and the GPU model used. An AI OrderBook system efficiently matches computing needs with available resources, ensuring optimal pricing and execution of AI tasks. This dynamic system allows for efficient resource allocation and adjusting fees and rewards based on real-time market conditions.
 
-### Committed Compute Power Reward  &#x20;
+### Proof of Commitment (PoC) Reward&#x20;
 
-GPU Providers are rewarded by committing their computing power to the network. They need to regularly update their availability periods and pricing through a weekly Proof of Commitment. This helps ensure their hardware is always ready for use when required, thereby contributing to a stable and efficient infrastructure.&#x20;
+GPU Providers are rewarded for committing their computing power to the network through the Proof of Commitment (PoC) system. This approach ensures that providers' hardware is always ready for use when required, contributing to a stable and efficient infrastructure.
 
-Rewards are determined by several factors, including the number of GPUs each provider contributes, the specific GPU models, the providers' availability and uptime, and the total number of GPUs available across the Nimble Network.\
+Key features of the Proof of Commitment system include:
+
+1. Lightweight Application: The PoC system uses a lightweight application with <1% resource usage of a GPU. It does not affect electricity consumption or resource availability for other tasks.
+2. Multi-GPU Support: A single wallet address can now connect multiple GPUs, easier for wallet management
+3. Real-time Updates: Token quantities are updated in almost real-time and are easily accessible due to improvements in the overall technical structure.
