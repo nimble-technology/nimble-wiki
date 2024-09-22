@@ -12,7 +12,6 @@
   * [Evaluator Reward](general/tokenomics/evaluator-reward.md)
   * [Validator Reward](general/tokenomics/validator-reward.md)
   * [Staking and Burning Machnism](general/tokenomics/staking-and-burning-machnism.md)
-* [Team](general/team.md)
 
 ## For Users
 
