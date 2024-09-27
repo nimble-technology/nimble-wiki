@@ -1,6 +1,6 @@
 ---
 description: >-
-  The first open AI network building the AI sharing economy—with all the tools
+  The first open AI platform building the AI sharing economy—with all the tools
   you need to build, own, and monetize AI agents.
 layout:
   title:
@@ -17,7 +17,7 @@ layout:
 
 # Introduction
 
-## Nimble: The First Open AI Network Building the AI Sharing Economy
+## Nimble: The First Open AI Platform Building the AI Sharing Economy
 
 Welcome to Nimble, the **first open network** designed to build the AI sharing economy.&#x20;
 
@@ -43,11 +43,11 @@ Artificial Intelligence (AI) has undergone remarkable advancements since its inc
 
 Blockchain technology, with its attributes of permissionless access, interoperability, cryptographic security, and incentive structures, offers a promising solution to these challenges. While several new AI solutions have emerged in the Web3 world, an efficient Web2-like development experience is yet to be realized.
 
-Nimble aims to bridge this gap with an open AI network that empowers anyone to build, own, and profit from their AI agents, all while providing a seamless development experience akin to Web2.&#x20;
+Nimble aims to bridge this gap with an open AI platform that empowers anyone to build, own, and profit from their AI agents, all while providing a seamless development experience akin to Web2.&#x20;
 
 ## Nimble's Solution &#x20;
 
-To create an open and collaborative AI creator economy, Nimble is building an open AI Network. This network supports the entire machine learning workflow, from AI training to fine-tuning and inference. Nimble’s technical architecture is designed to:
+To create an open and collaborative AI creator economy, Nimble is building an open AI platform. This network supports the entire machine learning workflow, from AI training to fine-tuning and inference. Nimble’s technical architecture is designed to:
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkxcYWa8WskFBTQrREQIr%2Fuploads%2F5uYlBrz2qJpljJE0sXii%2FNimble%20Arch.mp4?alt=media&token=42d29062-80be-4a34-8f77-129336c0275a" %}
 
